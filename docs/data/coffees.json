@@ -1,6 +1,6 @@
 {
-"generated_at":"2026-11-02T19:50:45+00:00",
-"count":402,
+"generated_at":"2026-11-02T19:57:37+00:00",
+"count":470,
 "coffees":[
 {
 "id":"bodhileaf:8874497835182",
@@ -56,7 +56,7 @@
 "variant_id":"47042297462958"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -129,7 +129,7 @@
 "variant_id":"48920400003246"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -181,7 +181,7 @@
 "variant_id":"41282176589"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -251,7 +251,7 @@
 "variant_id":"47045857181870"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Caturra",
@@ -327,7 +327,7 @@
 "variant_id":"43191438901422"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -405,7 +405,7 @@
 "variant_id":"48920465965230"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -481,7 +481,7 @@
 "variant_id":"49287077757102"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -559,7 +559,7 @@
 "variant_id":"40831979454638"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "catuai / red catuai",
@@ -631,7 +631,7 @@
 "variant_id":"49329799004334"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -707,7 +707,7 @@
 "variant_id":"49329837310126"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -784,7 +784,7 @@
 "variant_id":"45819603419310"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -857,7 +857,7 @@
 "variant_id":"39779152265390"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -930,7 +930,7 @@
 "variant_id":"48903536476334"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1006,7 +1006,7 @@
 "variant_id":"48903572586670"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1082,7 +1082,7 @@
 "variant_id":"46350769062062"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1159,7 +1159,7 @@
 "variant_id":"46800776036526"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1236,7 +1236,7 @@
 "variant_id":"48092319318190"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1311,7 +1311,7 @@
 "variant_id":"48105835790510"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1386,7 +1386,7 @@
 "variant_id":"37822505255086"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -1460,7 +1460,7 @@
 "variant_id":"47936024707246"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1535,7 +1535,7 @@
 "variant_id":"47936015696046"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "caturra",
@@ -1611,7 +1611,7 @@
 "variant_id":"49287206174894"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -1687,7 +1687,7 @@
 "variant_id":"48890267041966"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Experimental",
@@ -1760,7 +1760,7 @@
 "variant_id":"47890072305838"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Fruity",
@@ -1840,7 +1840,7 @@
 "variant_id":"28634839679056"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -1912,7 +1912,7 @@
 "variant_id":"67885812908206"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Bali",
@@ -1987,7 +1987,7 @@
 "variant_id":"67885853409454"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Bali",
@@ -2062,7 +2062,7 @@
 "variant_id":"21857179959376"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2136,7 +2136,7 @@
 "variant_id":"44091292156078"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "1",
@@ -2192,7 +2192,7 @@
 "variant_id":"47761031168174"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2267,7 +2267,7 @@
 "variant_id":"49287754776750"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2324,7 +2324,7 @@
 "variant_id":"37880198889646"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2400,7 +2400,7 @@
 "variant_id":"48942123909294"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2477,7 +2477,7 @@
 "variant_id":"48942174470318"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Experimental",
@@ -2555,7 +2555,7 @@
 "variant_id":"39868564799662"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "blendoff",
@@ -2629,7 +2629,7 @@
 "variant_id":"45868703449262"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2707,7 +2707,7 @@
 "variant_id":"44242317246638"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "bourbon",
@@ -2778,7 +2778,7 @@
 "variant_id":"47341432438958"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Decaf",
@@ -2855,7 +2855,7 @@
 "variant_id":"48890240434350"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -2931,7 +2931,7 @@
 "variant_id":"48889760612526"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Fair Trade Organic",
@@ -3008,7 +3008,7 @@
 "variant_id":"48889741836462"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3082,7 +3082,7 @@
 "variant_id":"47611798356142"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3157,7 +3157,7 @@
 "variant_id":"47517770383534"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3233,7 +3233,7 @@
 "variant_id":"47337682141358"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3306,7 +3306,7 @@
 "variant_id":"21393818386512"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -3376,7 +3376,7 @@
 "variant_id":"47265994834094"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "AFRICASALE",
@@ -3451,7 +3451,7 @@
 "variant_id":"32065076396112"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "catimor",
@@ -3528,7 +3528,7 @@
 "variant_id":"45360863740078"
 }
 ],
-"updated_at":"2026-11-02T11:32:01-08:00",
+"updated_at":"2026-11-02T11:59:22-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -3547,6 +3547,3955 @@
 "size_classes":[
 "home",
 "box"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:75",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"3 lb Bundle: Dark",
+"url":"https://burmancoffee.com/product/green-coffee-beans/3-lb-bundle-dark/",
+"image":"https://burmancoffee.com/wp-content/uploads/2017/07/dark-bun-200x133.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":"Wet-hulled",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"BCT’s coffee special includes three of our best dark roast coffees. *Bundles change over time. You will get the listed coffees at the time of order. * This bundle includes: Indonesian Sumatra FT Org Mandheling Gr. 1 – IKA Gayo Highlands – Wet-hulled Aceh (pronounced AH-CHEY) is the northernmost province of Sumatra. Its highland territory, surrounding Lake Tawar and the central city of Takengon, is considered to be…",
+"variants":[
+{
+"title":"1 lb",
+"price":22.73,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":22.73,
+"size_class":"home",
+"variant_id":"75"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Dark",
+"Medium",
+"Value Coffees"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":22.73,
+"min_price":22.73,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:1438",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"3 lb Bundle: Decaf",
+"url":"https://burmancoffee.com/product/green-coffee-beans/3-lb-bundle-decaf/",
+"image":"https://burmancoffee.com/wp-content/uploads/2018/01/decaf-bun-200x133.jpg",
+"country":"Brazil",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Bourbon",
+"Mundo Novo"
+],
+"process":"Natural",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A pound each of: Decaffeinated Brazil Mogiana – Royal Select MWP For those seeking a decaf that maintains the intensity and body of a good conventional coffee, this lot from the Mogiana region of Brazil is an exceptional choice. This bean is part of the “Royal Select” program, meaning the green coffee was carefully selected for its high quality and cup profile before being sent for decaffeination. This approach…",
+"variants":[
+{
+"title":"1 lb",
+"price":23.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":23.99,
+"size_class":"home",
+"variant_id":"1438"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Decaffeinated"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":23.99,
+"min_price":23.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:72",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"3 lb Bundle: Popular",
+"url":"https://burmancoffee.com/product/green-coffee-beans/3-lb-bundle-popular/",
+"image":"https://burmancoffee.com/wp-content/uploads/2017/07/popular-Bun-200x133.jpg",
+"country":"Mexico",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Caturra",
+"Catuai",
+"Mundo Novo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Jon’s coffee special features three of our most popular coffees. *Bundles change over time. You will get the listed coffees at the time of order. * This bundle includes: Mexican Terruño Nayarita – Cuarenteño Inglaterra – Washed Processed New crop washed from our buddies at Terruño Nayarita! Over 20 years of working with these folks, always wonderful coffee. This lot is coming from El Cuarenteño, a small coffee…",
+"variants":[
+{
+"title":"1 lb",
+"price":24.72,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":24.72,
+"size_class":"home",
+"variant_id":"72"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Medium"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":24.72,
+"min_price":24.72,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:73",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"3 lb Bundle: Special",
+"url":"https://burmancoffee.com/product/green-coffee-beans/3-lb-bundle-special/",
+"image":"https://burmancoffee.com/wp-content/uploads/2017/07/especial-bun-200x133.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Mokka"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Garry’s coffee special features three of our more interesting coffees. Higher acidity, interesting processing, this bundle is leaning towards more exotic coffee tones. *Bundles change over time. You will get the listed coffees at the time of order.* A pound each of: Indonesian Bali – Kintamani Natural New crop Kintamani! This was one of the first super wild naturals on the block, had to look back over sales records…",
+"variants":[
+{
+"title":"1 lb",
+"price":26.92,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":26.92,
+"size_class":"home",
+"variant_id":"73"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Medium"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":26.92,
+"min_price":26.92,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:140926",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"3 lb Bundle: Tasty Value Coffees",
+"url":"https://burmancoffee.com/product/green-coffee-beans/3-lb-green-coffee-value-bundle/",
+"image":"https://burmancoffee.com/wp-content/uploads/2022/07/tasty-bun-200x133.jpg",
+"country":"Nicaragua",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Castillo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Want some great coffees & stellar values? This bundle is for you! All very fresh coffee, current or new crop. Great premium screens on Co-op and Mill production coffees. Larger production coffees keep the costs down. Although these are not single farm micro lots, they are very tasty coffees giving the true terroir of their production areas and producing nations. A pleasure to drink and 100% responsibly sourced.…",
+"variants":[
+{
+"title":"1 lb",
+"price":21.63,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":21.63,
+"size_class":"home",
+"variant_id":"140926"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Burman Coffee Traders Value Coffees",
+"Central America",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"South America"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":21.63,
+"min_price":21.63,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:312086",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"BCT Espresso Blend – Version 2",
+"url":"https://burmancoffee.com/product/all-in-stock-items/bct-espresso-blend-version-2/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/10/BCT-Espresso-Blend-Version-2-200x200.jpg",
+"country":"Brazil",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":null,
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A rich full flavored cup, great for espresso or Americano. This coffee is chocolaty and sweet with a slightly nutty base, moderate acidity and a full body, with just enough kick to get through those milky drinks. We have added the perfect amount of robusta to raise the caffeine level and add great crema. Make sure to let it set up for 12 or more hours – this cup will gain significant flavor. I like to roast this…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.99,
+"size_class":"home",
+"variant_id":"312086"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Blends",
+"Blends",
+"Burman Coffee Traders Value Coffees",
+"Burman Picks",
+"Medium",
+"Single Origin",
+"Value Coffees"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.99,
+"min_price":7.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:58",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"BCT Jumpstart Blend",
+"url":"https://burmancoffee.com/product/coffee-type/blends/bct-jumpstart/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/06/Jumpstart-Green-Coffee-Beans-200x203.png",
+"country":null,
+"region":null,
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Looking for an extra jolt in the morning? Our BCT Jumpstart blend is the perfect match! Utilizing the high caffeine content of Robusta coffee, we blend it with select Arabica beans to create a bold, creamy and robust taste. Jumpstart is the best high caffeine blend we have to offer! Tasting Notes Strong medium to dark roasts will fit this blend best. A low acidity blend that adds a punch of bold flavor compared to…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.6,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.6,
+"size_class":"home",
+"variant_id":"58"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Blends",
+"Blends",
+"Dark",
+"Low Acidity",
+"Medium",
+"Natural",
+"Not-fruity",
+"Semi-Washed (Honey)"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.6,
+"min_price":8.6,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:335177",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"China Yunnan – Torch Coffee – Nine Dragon Honey Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/china-yunnan-nine-dragon-honey/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/10/aa-200x200.jpg",
+"country":"China",
+"region":"Asia-Pacific",
+"subregion":"Pu'er, Yunnan",
+"producer":null,
+"varietals":[
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A tasty and exotic honey processed coming from our buddies @ Torch Coffee, in Pu’er, which is the heart of coffee (and tea) growing in the country. This honey processed is milder than the natural or anaerobic but still a more wild cup compared to traditional washed processing. This one will be for natural processed and slow dried coffee fans. Yunnan grows close to all of the Chinese crop, around 98 percent of it…",
+"variants":[
+{
+"title":"1 lb",
+"price":10.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":10.99,
+"size_class":"home",
+"variant_id":"335177"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/16/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"China",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":10.99,
+"min_price":10.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:275545",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Colombian Premium Huila Gigante – Miraflores Juanito Family – Washed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/colombian-miraflores-juanito/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/08/Juanito-Coffee-200x200.png",
+"country":"Colombia",
+"region":"South America",
+"subregion":"Gigante Huila",
+"producer":"Miraflores Juanito Family",
+"varietals":[
+"Castillo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1500 masl",
+"notes":null,
+"description":"Miraflores, Gigante • Huila, Colombia Castillo Washed Finca Miraflores, Juanito Family Family grown, hand sorted bean by bean, harvested and processed in early August. Gigante, Huila Region Castillo Arabica Variety Washed Process 1,600 to 1,900 m Altitude Early August 2026 Harvest Juanito family Producer Recommended roast Light to Dark, each level reveals a different character Freshness Fresh crop, harvested and…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"275545"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/24/2026",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Colombia",
+"Dark",
+"Light",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:288614",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Colombian Regenerative Org. Tolima – MULTICOOP – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/colombian-org-tolima-multicoop/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/11/Colombia-Organic-New-200x200.png",
+"country":"Colombia",
+"region":"South America",
+"subregion":"Tolima",
+"producer":"MULTICOOP",
+"varietals":[
+"Colombia",
+"Castillo",
+"Tabi",
+"Pink Bourbon"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1500 – 2200 masl",
+"notes":null,
+"description":"A nice and fresh, classic Colombian. Fuller bodied, medium to low acidity, smooth drinking nutty and chocolate like tones. Originating from the municipalities of Planadas, Rioblanco, and Chaparral, a region that, after years of isolation due to armed conflict, has revitalized its agricultural economy by leveraging its privileged geographical conditions and altitudes ranging from 1,500 to 2,200 meters. Production is…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.49,
+"size_class":"home",
+"variant_id":"288614"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/23/2026",
+"All Coffees",
+"All In Stock Items",
+"Colombia",
+"Dark",
+"Fruity",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Organically Grown",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.49,
+"min_price":8.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:108772",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Colombian Supremo BCT Select",
+"url":"https://burmancoffee.com/product/green-coffee-beans/colombian-supremo/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/06/Colombian-Supremo-BCT-Select-2_-200x200.png",
+"country":"Colombia",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Castillo",
+"Caturra",
+"Colombia",
+"Typica"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1300 – 1650 masl",
+"notes":null,
+"description":"In Colombia, the vast majority of coffee is grown, harvested, and processed on small, family-owned farms. While these producers are the architects of their own destiny designing agricultural management and post-harvest solutions tailored to their specific environment they also require strong partnerships to bring their coffee to the international market and secure fair prices. To support this small-farm production…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.79,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.79,
+"size_class":"home",
+"variant_id":"108772"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 06/29/26",
+"All Coffees",
+"All In Stock Items",
+"Colombia",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Sale Coffees",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.79,
+"min_price":6.79,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:1474",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Costa Rican SHB EP Dota Tarrazu – Santa Maria – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/costa-rican-santa-maria-dota/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/05/Costa-Santa-Maria-5-12-25-200x200.png",
+"country":"Costa Rica",
+"region":"Central America",
+"subregion":"Tarrazu",
+"producer":null,
+"varietals":[
+"Catuai",
+"Caturra"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1550 – 1950 masl",
+"notes":null,
+"description":"There is nowhere like Costa Rica when it comes to coffee cooperatives. CoopeDota, which produces this coffee, is one of the finest. It starts with an unmatched commitment to the environment. CoopeDota has a first of its kind certified carbon-neutral mill, which features hydro-powered energy consumption, water efficient eco-pulpers (also called a demucilager), and mechanical coffee dryers fueled by coffee parchment.…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.89,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.89,
+"size_class":"home",
+"variant_id":"1474"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/11/26",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Costa Rica",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.89,
+"min_price":8.89,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:331988",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Daily Drinkers 6 lb Bundle",
+"url":"https://burmancoffee.com/product/green-coffee-beans/daily-drinkers-bundle-v2/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/09/daily_drinkers_bundle_11.2.26-200x210.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This bundle features a fresh batch of six of our favorite daily drinker coffees, each at an incredible price. One pound each of: Indonesian Java Org. Kayumas – Taman Dadar – Wet Hulled Tasting Notes: Java Taman Dadar is cleaner and brighter than the heavy, earthy cup most people expect from Indonesia. When we tasted it we found a floral acidity that leans toward orange without getting fruity, good sweetness and a…",
+"variants":[
+{
+"title":"1 lb",
+"price":39.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":39.99,
+"size_class":"home",
+"variant_id":"331988"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Burman Coffee Traders Value Coffees",
+"Daily Drinkers",
+"Dark",
+"Fruity",
+"High Acidity",
+"Light"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":39.99,
+"min_price":39.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:92776",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Brazil Mogiana – Royal Select MWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/decaf-brazil-mogiana-royal-mwp/",
+"image":"https://burmancoffee.com/wp-content/uploads/2022/10/Decaffeinated-Brazil-Mogiana-Royal-Select-MWP-200x200.png",
+"country":"Brazil",
+"region":"South America",
+"subregion":"Mogiana",
+"producer":null,
+"varietals":[
+"Bourbon"
+],
+"process":"Natural",
+"decaf":true,
+"score":null,
+"altitude":"800-1200 masl",
+"notes":null,
+"description":"For those seeking a decaf that maintains the intensity and body of a good conventional coffee, this lot from the Mogiana region of Brazil is an exceptional choice. Unlike many generic decafs, this bean is part of the “Royal Select” program, meaning the green coffee was carefully selected for its high quality and cup profile before being sent for decaffeination. This approach ensures that, while removing the…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"92776"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/20/2026",
+"All Coffees",
+"All In Stock Items",
+"Brazil",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"Natural",
+"Not-fruity",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:141456",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Colombian Huila “Decaf de Caña” EA",
+"url":"https://burmancoffee.com/product/green-coffee-beans/decaf-colombian-ea/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/05/Decaffeinated-Colombian-Huila-Decaf-de-Cana-EA-200x200.jpg",
+"country":"Colombia",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Colombian coffee is often regarded as some of the highest quality coffee in the world. Colombia has traditionally grown Arabica beans at high altitudes and drier climates, producing a delicious, full bodied, high quality brew. Ethyl Acetate (E.A.) – Known as sugarcane decaf, is a naturally occurring ester (present in bananas as well as sugarcane) that can be isolated and used as a solvent to bond with and remove…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.24,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.24,
+"size_class":"home",
+"variant_id":"141456"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 8/26/2026",
+"All Coffees",
+"All In Stock Items",
+"Colombia",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Single Origin",
+"South America"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.24,
+"min_price":9.24,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:259508",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Colombian Royal Select MWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/decaf-colombian-royal/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/02/Decaffeinated-Colombia-200x200.jpg",
+"country":"Colombia",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Produced from meticulously selected premium beans with excellent physical preparation, this coffee offers exceptional potential to retain its rich flavor once decaffeinated. This coffee was gently decaffeinated using the Mountain Water Process (MWP) at a dedicated plant in Mexico. MWP is a 100% chemical-free, solvent-free method that relies only on pure water sourced from the glaciers of Pico de Orizaba. The green…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"259508"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 07/08/26",
+"All Coffees",
+"All In Stock Items",
+"Colombia",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Single Origin",
+"South America"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:104258",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Honduran Org. Maya – Royal Select MWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/honduran-decaf-maya-mwp/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/10/Decaffeinated-Honduran-Org.-Maya-FTO-Royal-Select-MWP-200x200.png",
+"country":"Honduras",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A wonderful certified small production decaf from Honduras! This coffee is decaffeinated using the Mountain Water Process (MWP) at a dedicated plant in Mexico. MWP is a 100% chemical-free, solvent-free method that relies only on pure water sourced from the glaciers of Pico de Orizaba. The green beans are pre-soaked to open them up, then bathed in a saturated solution of coffee solubles that pulls the caffeine out…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.75,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.75,
+"size_class":"home",
+"variant_id":"104258"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/17/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Decaffeinated",
+"Honduras",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.75,
+"min_price":7.75,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:288072",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Indonesian Sumatra Royal Select SWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/decaf-sumatra-swp/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/11/Decaffeinated-Indonesian-Sumatra-Royal-Select-SWP-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Villages near Takengon in the province of Aceh at the",
+"producer":null,
+"varietals":[
+"S795",
+"Typica",
+"Caturra"
+],
+"process":"Honey",
+"decaf":true,
+"score":null,
+"altitude":"1200 – 1600 masl",
+"notes":null,
+"description":"This Sumatra Swiss Water Decaf Green Coffee is a Royal Select lot drawn from smallholder farms across the Aceh and North Sumatra provinces of Indonesia. No single estate sits behind it. The component lots were picked on cup profile, physical preparation and how well each one looked likely to hold up once the caffeine came out, and harvest arrives in two windows, October through January and again April through June.…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.99,
+"size_class":"home",
+"variant_id":"288072"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/22/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Decaffeinated",
+"Indonesia",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.99,
+"min_price":7.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:22138",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Mexican BCT Select – Southern Production – MWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/mexican-decaf-cristal-mwp/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/10/Decaffeinated-Mexican-BCT-Select-Southern-Production-MWP-200x200.jpg",
+"country":"Mexico",
+"region":"Central America",
+"subregion":"Veracruz, Oaxaca, and Chiapas.",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Typica",
+"Mundo Novo"
+],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This Mexican decaf green coffee starts out as the BCT Southern, a regional lot that gathers washed coffees from smallholder farms across Veracruz, Oaxaca and Chiapas. It grows between 1,000 and 1,800 masl on a traditional base of Bourbon, Typica and Mundo Novo, and the harvest runs from November into March. Most of these growers work 1 to 5 hectares, so what you get is a regional average rather than a single…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"22138"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/18/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"Mexico",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:145851",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Mexican Esmeralda EA Natural",
+"url":"https://burmancoffee.com/product/green-coffee-beans/decaf-mexican-esmeralda-ea/",
+"image":"https://burmancoffee.com/wp-content/uploads/2022/10/Decaffeinated-Mexican-Esmeralda-EA-Natural-Green-Coffee-Beans-200x198.png",
+"country":"Mexico",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":"This bean brings a crisp citrus tone with a blonde roast, which is rare for decafs, offering a sweet edge with slight notes of herbal chocolate to contrast the crispness of the citrus",
+"description":"Are you looking for an aromatic decaf that is a versatile roaster? Creating a tremendously clean-tasting cup of coffee, this bean has something for everyone. An excellent addition to any day, it hosts a range of flavors, from citrus and green apple to caramel and chocolate. What is EA Natural? EA stands for Ethyl Acetate, which is a naturally occurring compound that can be found in fruits and vegetables. This…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.49,
+"size_class":"home",
+"variant_id":"145851"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 03/24/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Coffee Traders Value Coffees",
+"Central America",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"Mexico",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.49,
+"min_price":8.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:85792",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Decaffeinated Peru Org. – Royal Select – MWP",
+"url":"https://burmancoffee.com/product/green-coffee-beans/peru-org-decaf-mwp/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/03/Decaffeinated-Peru-Org-200x200.jpg",
+"country":"Peru",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catimor",
+"Caturra"
+],
+"process":"Washed",
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This is a regional lot from Chanchamayo, in the Junin region, on the eastern slopes of the Andes between 1,400 and 1,600 masl. There is no single farm or cooperative behind it: it is an aggregate of certified organic coffee from that area, Bourbon, Catimor, Caturra and Pache, picked in the May to June harvest and dried on patios. Junin is the second largest organic coffee region in Peru with more than 55,000…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"85792"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/20/2026",
+"All Coffees",
+"All In Stock Items",
+"Dark",
+"Decaffeinated",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Organically Grown",
+"Peru"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:1478",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Dominican Org. Ramirez Estate – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/dominican-ramirez-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/06/Dominican-Org.-Ramirez-Estate-–-Washed-Processed-200x200.png",
+"country":"Dominican Republic",
+"region":"Caribbean",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"In 1943, Mr. Belarminio Ramirez started a small company dedicated to the cultivation and marketing of coffee, which over the years grew into a family tradition involving three generations already. The Belarminio Ramirez Group was named in his honor. Currently, the company owns 350 hectares of coffee production, located in the mountains of the central range between 800 and 1500 meters above sea. This family-owned…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.99,
+"size_class":"home",
+"variant_id":"1478"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/27/25",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Dominican Republic",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Organically Grown"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.99,
+"min_price":9.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:105032",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Dominican Ramirez Estate – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/dominican-ramirez-natural/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/07/Dominican-Ramirez-Estate-Natural-Processed-200x200.png",
+"country":"Dominican Republic",
+"region":"Caribbean",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Red Caturra"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1300 masl",
+"notes":null,
+"description":"Cafe Kreyol goes into some of the most impoverished and troubled areas that are within prime coffee growing territory, organizes farmers, teaches how to correctly process beans, guarantees purchase of the beans at way above market prices ensuring it goes directly to the farmers and strives to really turn around some of the more troubled areas, putting people to work at well above average wages and ensuring future…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.99,
+"size_class":"home",
+"variant_id":"105032"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/27/25",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dominican Republic",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"Natural"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.99,
+"min_price":9.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2794",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"El Salvador Cerro Las Ranas Honey Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/el-salvador-las-ranas-honey/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/05/El-Salvador-Cerro-Las-Ranas-Honey-Processed-200x200.jpg",
+"country":"El Salvador",
+"region":"Central America",
+"subregion":"Apaneca, Ahuachapán",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Pacamara",
+"Sarchimor",
+"Pacas",
+"Catuai",
+"Caturra"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1450 - 1780 masl",
+"notes":null,
+"description":"A blast from the past! A great year for Cerro Las Ranas. Years ago we found this coffee and fell in love, it was really cutting edge with its honey processing, an early adapter on what is now one of coffees hottest trends. Cerro Las Ranas (the Hill of Frogs) coffee is named after the farm’s lagoon that is populated by thousands of frogs located in Apaneca within the department of Ahuachapan, El Salvador. The coffee…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.49,
+"size_class":"home",
+"variant_id":"2794"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 05/22/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"El Salvador",
+"Fruity",
+"Low Acidity",
+"Medium",
+"Semi-Washed (Honey)"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.49,
+"min_price":8.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:263875",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Ethiopian Guji Natural Org. Gr. 1 – Kayon Mountain Shakiso",
+"url":"https://burmancoffee.com/product/green-coffee-beans/ethiopian-kayon-1/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/05/Ethiopian-Guji-Natural-Org.-Gr.-1-–-Kayon-Mountain-Shakiso-200x200.png",
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Guji",
+"producer":null,
+"varietals":[
+"Heirloom"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1900 - 2200 masl",
+"notes":null,
+"description":"Fresh Kayon Mountain has become a tradition around here, marks one of our favorite times of the year, new Ethiopian season! First top grade natural to sneak through for the new 2025/26 season! The Kayon Mountain Coffee Farm is 500 hectares with about 300 hectares planted in coffee and has been owned and operated by Ismael Hassen Aredo and his family since 2012. It is located 510 kilometers south of Addis Ababa, and…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.99,
+"size_class":"home",
+"variant_id":"263875"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 07/24/26",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Ethiopia",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"Natural",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.99,
+"min_price":9.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:181718",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Ethiopian Yirgacheffe Natural Gr. 1 – Idedo – Mrs. Tigest Wako",
+"url":"https://burmancoffee.com/product/green-coffee-beans/ethiopian-tigest-wako/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/10/Ethiopian-Yirgacheffe-Natural-Gr.-1-Idedo-Mrs.-Tigest-Wako-200x200.png",
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Idedo, Yirgacheffe",
+"producer":null,
+"varietals":[
+"Heirloom"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1900 - 2400 masl",
+"notes":null,
+"description":"Most Ethiopian coffee is not traceable down to the farmer. It is mill blends and different sorting chops. This rare example is traceable to a single producer, which helps ensure the sustainability practices & gets rid of a large middleman industry between buyers and producers. The Small Farmer Project is the result of an effort to support Ethiopian producers with a marketplace for farm-traceable coffees. This…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"181718"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/17/2026",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Ethiopia",
+"Fruity",
+"Light",
+"Low Acidity",
+"Medium",
+"Natural"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:135837",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Ethiopian Yirgacheffe Washed Gr. 1 – Halo Beriti – Special Prep",
+"url":"https://burmancoffee.com/product/green-coffee-beans/ethiopian-halo-beriti-gedeb-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/06/Ethiopian-Yirgacheffe-Washed-Gr-200x200.jpg",
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Yirgacheffe; Gedeb",
+"producer":null,
+"varietals":[
+"Heirloom"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"2100-2300 masl",
+"notes":null,
+"description":"A stellar cup for you Ethiopian washed fans and/or lighter roast fans. This is one you won’t want to miss, a great example of what top end Ethiopians should taste like. The heirloom strains that create this offering create tastes and aromatics unmatched by other origin. Special Prep is a ripe cherry only production. Generally in coffee you see a percentage of under or over ripe beans included in the final mix.…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.99,
+"size_class":"home",
+"variant_id":"135837"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 07/24/26",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Ethiopia",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"Single Origin",
+"Washed"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.99,
+"min_price":9.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:229866",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Ethiopian Yirgacheffe Washed Gr. 2 – Aricha Station",
+"url":"https://burmancoffee.com/product/green-coffee-beans/ethiopian-aricha-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/09/Ethiopian-Yirgacheffe-Washed-Gr-200x200.jpg",
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Aricha Kebele, Yirga Chefe Woreda, Gedeo Zone",
+"producer":"Aricha Station",
+"varietals":[
+"Heirloom"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1900 – 2200 masl",
+"notes":null,
+"description":"This coffee was processed at a private processing site in the heart of the Yirgacheffe district, founded in 2010. The cup quality of this area is historic to coffee, comprised mostly of indigenous landrace arabica variations, and known for crisp and highly aromatic fully washed profiles. The Yirgacheffe district is in the heart of southern Ethiopia’s coveted Gedeo Zone. Gedeo is a narrow section of highland plateau…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.69,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.69,
+"size_class":"home",
+"variant_id":"229866"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/30/26",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Coffee Type",
+"Ethiopia",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.69,
+"min_price":7.69,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:271248",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Guatemalan Huehuetenango FT Org. – El Guaya’b 85+ Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/guatemala-ft-org-el-guayab/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/07/Guatemalan-Huehuetenango-FT-Org.-El-Guayab-83-200x200.png",
+"country":"Guatemala",
+"region":"Central America",
+"subregion":"Huehuetenango",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catimor",
+"Caturra",
+"Sarchimor"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1400 – 1800 masl",
+"notes":null,
+"description":"This is one of those coffees that feels good to buy and even better to drink. It comes from a region that many coffee lovers already adore: Huehuetenango, Guatemala. Specifically, it’s grown on small hillside plots in the highlands of the Cuchumatanes mountains near the town of Jacaltenango, by around 330 farming families from the Popti’, Mam, and Kanjobal indigenous groups. The cooperative behind this lot…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.59,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.59,
+"size_class":"home",
+"variant_id":"271248"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 8/26/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Fruity",
+"Guatemala",
+"High Acidity",
+"Light",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.59,
+"min_price":8.59,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:4520",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Guatemalan Huehuetenango SHB EP- San Pedro Necta – Huixoc-Merino Washed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/huehue-san-pedro-necta-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2018/10/Guatemalan-Huehuetenango-SHB-EP-San-Pedro-Necta-Huixoc-Merino-Washed-200x200.jpg",
+"country":"Guatemala",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Bourbon",
+"Caturra",
+"Typica"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A wonderful new arrival and very tasty cup. Small holder coffee from the same area as our favorite Guatemalan farm: Finca Vista Hermosa. The cup profile though is more similar to Guatemalan Huehue MAM of previous seasons than Finca Vista Hermosa itself. This Huehuetenango San Pedro Necta green coffee comes from Huixoc-Merino, a local group of smallholder farmers in Guatemala. About 250 families grow it, on farms…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.49,
+"size_class":"home",
+"variant_id":"4520"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/25/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Fruity",
+"Guatemala",
+"Light",
+"Low Acidity",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.49,
+"min_price":6.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:285237",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Guatemalan Premium Huehuetenango – Finca Vista Hermosa",
+"url":"https://burmancoffee.com/product/green-coffee-beans/guatemalan-finca-vista-hermosa/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/10/Guatemalan-Premium-Huehuetenango-Finca-Vista-Hermosa-200x200.png",
+"country":"Guatemala",
+"region":"Central America",
+"subregion":"Huehuetenango",
+"producer":"Finca Vista Hermosa",
+"varietals":[
+"Bourbon",
+"Caturra"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1500 - 1625 masl",
+"notes":null,
+"description":"Huehuetenango • Guatemala Finca Vista Hermosa Edwin Martinez Sr./Jr. • Bourbon & Caturra • Washed A longtime favorite, one of our first direct relationship coffees, and one of the original Mayan managed operations. From the remote mountains of Huehuetenango. A sweet, winey, malty, nutty and beautifully balanced cup. Huehuetenango Region Bourbon, Caturra Variety Washed Process ~1,600–1,800 masl Altitude Feb–Apr…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"285237"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/29/2026",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Guatemala",
+"Light",
+"Low Acidity",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:133015",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Haitian Premium – Cafe Kreyol – Zombie Desert 17/18",
+"url":"https://burmancoffee.com/product/green-coffee-beans/haitian-zombie/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/06/Haitian-Premium-Singing-Rooster-Savane-Zombie-17-18-Green-Coffee-Beans-200x202.png",
+"country":"Haiti",
+"region":"Caribbean",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Typica"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"4265 Feet",
+"notes":null,
+"description":"Haitian Blue is what made Haiti famous for coffee. At one time it was as rare, as tasty and as expensive as Jamaican Blue Mountain but unfortunately those days are long gone. The Haitian economy was toppled a couple times for a plethora of reasons (including corruption and earthquakes). The fields and farms went untended and were abandoned, later the coffee trees were mostly used for firewood to folks living in the…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.99,
+"size_class":"home",
+"variant_id":"133015"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 05/12/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Haiti",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.99,
+"min_price":9.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:44783",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Honduran Org. Marcala – 18 Rabbit – Black Honey",
+"url":"https://burmancoffee.com/product/green-coffee-beans/honduran-rabbit-black-honey/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/11/Honduran-Org.-18-Rabbit-Microlot-Black-Honey-200x200.png",
+"country":"Honduras",
+"region":"Central America",
+"subregion":"Marcala",
+"producer":null,
+"varietals":[
+"Yellow Catuai"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1400 masl",
+"notes":null,
+"description":"This is Black Honey “18 Rabbit” coffee, a honey-processed version made with the slowest drying method, producing beans similar to those of naturally processed coffee. Fruity, sweet, and wine-like fermentation notes give it a unique flavor. Unlike naturally processed coffee, this coffee has more body, vibrant acidity, and a balance of darker nuances. Flhor Zelaya Ontreras set out to change the coffee culture in her…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"44783"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 07/24/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Fruity",
+"High Acidity",
+"Honduras",
+"Light",
+"Medium"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:230853",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Honduran Org. Marcala – 18 Rabbit – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/honduran-rabbit-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/07/Honduran-Org.-18-Rabbit-Microlot-Washed-Processed-200x200.png",
+"country":"Honduras",
+"region":"Central America",
+"subregion":"Marcala",
+"producer":null,
+"varietals":[
+"Yellow Catuai"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1400 masl",
+"notes":null,
+"description":"Nestled near the pyramids of the Mayan King known in the records as “18 Rabbit” (from which this coffee pulls its name), 18 Rabbit (18 Conejos) is a collective of farms all owned by different members of the Zelaya Ontreras family. Dulce Marlen, the owner of Finca Dulce Luna, is the matriarch of the family, and the owner of 18 Rabbit exports. Her and her husband were pioneers of both organic and Biodynamic farming…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.35,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.35,
+"size_class":"home",
+"variant_id":"230853"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 07/24/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Honduras",
+"Light",
+"Low Acidity",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.35,
+"min_price":9.35,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2448",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Honduran Org. SHG EP COMSA Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/honduran-comsa/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/03/Honduran-SHG-EP-COMSA-Washed-Processed-200x200.png",
+"country":"Honduras",
+"region":"Central America",
+"subregion":"Marcala, La Paz, Honduras",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catuai",
+"Caturra",
+"Lempira",
+"IHCAFE 90",
+"Pacas"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1300 - 1700 masl",
+"notes":null,
+"description":"Finca Humana (the Human Farm) is the first thing you will hear about Café Organico Marcala, S.A. (COMSA) if you make your way to visit this cooperative in Marcala, Honduras. The wellbeing of humans is foundational to the COMSA philosophy and educating more than 1,500 producer-members to successfully live in harmony with nature is everywhere at COMSA. It starts with the La Fortaleza, the COMSA biodynamic…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.99,
+"size_class":"home",
+"variant_id":"2448"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 02/20/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Coffee Traders Value Coffees",
+"Central America",
+"Dark",
+"Honduras",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.99,
+"min_price":6.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2430",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indian Cherry Robusta",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indian-cherry-robusta/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/08/Indian-Cherry-Robusta-200x200.png",
+"country":"India",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This coffee is very high chaff and dense, which can cause issues in many home roasters. We do not recommend roasting this coffee in roasters that have chaff collection issues, and you will have to reduce your batch size in all the other roasters due to the higher chaff content. This is a blender coffee, use 10%-15% to add caffeine to your personal blend. This Robusta is a rich and bold cup, it is very full…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.99,
+"size_class":"home",
+"variant_id":"2430"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 04/03/26",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"India",
+"Low Acidity",
+"Natural",
+"Not-fruity",
+"Single Origin",
+"Value Coffees"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.99,
+"min_price":6.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:242",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indian Monsooned Malabar",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indian-monsooned-malabar/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/05/Indian-Monsooned-Malabar--200x200.jpg",
+"country":"India",
+"region":"Asia-Pacific",
+"subregion":"Malabar",
+"producer":null,
+"varietals":[
+"Catuai"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1067 – 1280 masl",
+"notes":null,
+"description":"The Indian Monsooned Malabar is a very unique and exotic coffee; usually people have a love/hate relationship with this bean but it is one of our top sellers year in and year out. Monsoon Malabar coffee is prepared from Arabica cherries (“cherry” refers to dry-processed coffees in India). After grading, the coffee is transported to the coastal city of Mangalore where the “monsooning” is carried out in large…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"242"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/22/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"India",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:3049",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indian Mysore Nuggets – Extra Bold",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indian-mysore-nuggets/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/06/Nuggets-200x200.jpg",
+"country":"India",
+"region":"Asia-Pacific",
+"subregion":"Mysore",
+"producer":null,
+"varietals":[
+"Kent"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1200 - 1350 masl",
+"notes":null,
+"description":"Year in to year out, this is always one of our most popular coffees, at times we have trouble keeping it in stock! Mysore coffees are the best known and the most popular of all Indian coffees, they possess good body and snappy acidity. The overall taste profile is very unique, with spicy overtones. These spicy overtones come from the cinnamon, cardamom, nutmeg, cloves and pepper that grow alongside the coffee…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.99,
+"size_class":"home",
+"variant_id":"3049"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/23/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"India",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.99,
+"min_price":7.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:126588",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian 100% Bali – Highlands Blend (Mokka/Java clone)",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indonesian-bali-blend/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/11/Indonesian-BaliFlores-Highlands-Blend-MokkaJava-Clone-200x200.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Kintamani, Bali",
+"producer":null,
+"varietals":[
+"Bourbon",
+"S795",
+"Typica",
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1200-1600 masl",
+"notes":null,
+"description":"Two awesome but very different tasting coffees blended together to create perfection in a cup! Well, perfection is in the eyes of the beholder, but this blend is very tasty and will appeal to a wide variety of coffee fans. A bit on the exotic side, works well from light to dark. Fruity with nutty/earthy/chocolaty tones at the lighter roast points, while darker roasts promote more stout like, smoky with heavy bakers…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"126588"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 11/23/25",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"BCT Blends",
+"Blends",
+"Burman Picks",
+"Dark",
+"Fruity",
+"Indonesia",
+"Low Acidity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2453",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Bali Org. – Blue Moon – Wet Hulled",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indonesian-bali-blue-moon/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/09/Indonesian-Bali-Org.-Blue-Moon-Wet-Hulled-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Kintamani, Bali",
+"producer":null,
+"varietals":[
+"Bourbon",
+"S795",
+"Typica",
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1200-1600 masl",
+"notes":null,
+"description":"An incredibly special coffee from a special place. Bali is different, in a good way. It cannot get any more beautiful, with perfect weather creating the perfect growing conditions for almost any plant. Everything is so lush and green year round. Three volcanoes nestled in the middle of this fairly small island, are at a perfect altitude for coffee, a bit more acidic soil as well which coffee tends to love. Produced…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.49,
+"size_class":"home",
+"variant_id":"2453"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/01/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Dark",
+"Indonesia",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.49,
+"min_price":8.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2455",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Bali – Kintamani Natural",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indonesian-bali-kintamani/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/11/Indonesian-Bali-Org.-Kintamani-Natural-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Kintamani, Bali",
+"producer":null,
+"varietals":[
+"Bourbon",
+"S795",
+"Typica",
+"Catimor"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1200 - 1600 masl",
+"notes":null,
+"description":"New crop Kintamani! This was one of the first super wild naturals on the block, had to look back over sales records but this is the 13th season of this coffee and its still one of my favorites. Our friends at PT Indokom were real early adopters for the new wave naturals. It was very tasty back then but with years to dial in the processing, it is tastier then ever, or perhaps just a lucky stellar batch. A very…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"2455"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/23/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Fruity",
+"Indonesia",
+"Light",
+"Low Acidity",
+"Medium",
+"Natural"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:185757",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Java Org. Kayumas – Taman Dadar – Wet Hulled",
+"url":"https://burmancoffee.com/product/green-coffee-beans/java-taman-dadar-wet-hulled/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/09/java-taman-dadar-kayumas-wet-hulled-200x200.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Eastern Java",
+"producer":null,
+"varietals":[
+"Typica"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Java Taman Dadar comes from smallholder families farming around the villages of Kayumas and Curah Tatal, in the Arjasa district of Situbondo regency, on the northern slopes of the Ijen highlands in East Java. The plots sit between 900 and 1600 masl on volcanic loam, planted in Typica, picked from May through September, and this lot is wet hulled, sun dried and certified organic. Kayumas is old coffee country.…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.98,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.98,
+"size_class":"home",
+"variant_id":"185757"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/22/2026",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Dark",
+"High Acidity",
+"Indonesia",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Organically Grown"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.98,
+"min_price":6.98,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:118217",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Sumatra Aceh Gr. 1 Double Pick – Harimau Tiger",
+"url":"https://burmancoffee.com/product/green-coffee-beans/sumatra-tiger/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/12/Indonesian-Sumatra-Aceh-Gr.-1-Double-Pick-Harimau-Tiger-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Aceh",
+"producer":null,
+"varietals":[
+"Ateng",
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1300 – 1650 masl",
+"notes":null,
+"description":"Not your average Sumatra coffee! Great prep and screen size, very unique for a wet-hulled coffee but does come with a higher price tag. Holds the terroir of Sumatra (thick and darker toned) but on a much cleaner profile, more of a straight chocolate cup instead of being loaded with peat and overly earthy. Hints of acidity and soft fruit tones can be found at medium to borderline dark roast, which also separate it…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"118217"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 06/11/26",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Indonesia",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Semi-Washed (Honey)",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:271219",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Sumatra Bener Meriah – Gayo Aalamin – Typica Wet-hulled “Jasmine” Co-Ferment Infusion",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indonesian-co-ferment-jasmine/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/07/Sumantra-Jasmin-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Aceh, Sumatra",
+"producer":null,
+"varietals":[
+"Typica"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Bener Meriah · Aceh Province, Sumatra Wet-hulled Co-Ferment (Jasmine + Yeast) · Estate Grown · Semi-washed Sumatra Bener Meriah · Gayo Aalamin “Jasmine” Co-Ferment Infusion Roast: Light-Medium to Full City Chaff: Low Lot: Microlot Qualities: jasmine florals · lemon & citrus · marmalade sweetness · herbal cocoa This is one unique coffee. We have carried only a few Co-Fermentation coffees in the past: some have loved…",
+"variants":[
+{
+"title":"1 lb",
+"price":16.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":16.49,
+"size_class":"home",
+"variant_id":"271219"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 08/14/26",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Fruity",
+"High Acidity",
+"Indonesia",
+"Light",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":16.49,
+"min_price":16.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:188022",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Indonesian Sumatra FT Org Mandheling Gr. 1 – IKA Gayo Highlands – Wet-hulled",
+"url":"https://burmancoffee.com/product/green-coffee-beans/indonesian-sumatra-org-gayo/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/01/Indonesian-Sumatra-Gr-200x200.png",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":"Atu Lintang, Aceh, Sumatra, Indonesia",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catimor",
+"Typica"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1500 – 1600 masl",
+"notes":null,
+"description":"Aceh (pronounced AH-CHEY) is the northernmost province of Sumatra. Its highland territory, surrounding Lake Tawar and the central city of Takengon, is considered to be the epicenter of one of the world’s most unique coffee terroirs. Coffee farms in this area are managed with the experience of many generations of cultivation, while also harmoniously woven into their surrounding tropical forests. The canopies are…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.69,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.69,
+"size_class":"home",
+"variant_id":"188022"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 08/18/26",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Indonesia",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Organically Grown",
+"Semi-Washed (Honey)"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.69,
+"min_price":8.69,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:79988",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Kenya Premium Kirinyaga – Torch Coffee – Mitaro AA Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/kenya-kirinyaga-aa-mitaro-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/10/Kenya-Premium-Kirinyaga-Torch-Coffee-Mitaro-AA-Washed-Processed-200x200.jpg",
+"country":"Kenya",
+"region":"Africa",
+"subregion":"Kirinyaga County",
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Our buddies over at Torch Coffee (Yunnan, China), the masters of funky natural processed coffees, started working with a small coffee factory in Nyeri with the aim of producing boutique natural and anaerobic natural coffee offerings. With now having roots in Kenya, they started bringing is wonderful traditional Kenyans as well. This is a lovely AA screen, a very fresh arrival from one our favorite Kenyan regions…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"79988"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/15/26",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Dark",
+"High Acidity",
+"Kenya",
+"Light",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:306368",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Kenya Premium Nyeri – Torch Coffee – Rui Ruiru – Anaerobic Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/kenya-rui-ruiru-anaerobic/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/03/Kenya-Premium-Ruiruiru-Anaerobic-Natural-Processed-200x200.jpg",
+"country":"Kenya",
+"region":"Africa",
+"subregion":"Nyeri",
+"producer":null,
+"varietals":[
+"SL28",
+"SL34",
+"Ruiru 11",
+"Batian"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1700 - 1900 masl",
+"notes":null,
+"description":"Our buddies over at Torch Coffee (Yunnan, China), who are masters of funky natural processed coffees, started working with a small coffee factory in Nyeri with the aim of producing boutique natural and anaerobic natural coffee offerings. After many test batches, this is their second anerobic natural. A beautiful & very exotic cup, very different tasting coffee. If you have not had anaerobic natural offerings…",
+"variants":[
+{
+"title":"1 lb",
+"price":10.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":10.49,
+"size_class":"home",
+"variant_id":"306368"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 04/17/26",
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Fruity",
+"High Acidity",
+"Kenya",
+"Light",
+"Medium",
+"Natural"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":10.49,
+"min_price":10.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2815",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Mexican Altura Veracruz – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/mexico-veracruz-apg-natural/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/05/Mexican-Altura-Veracruz-–-Natural-Processed-1-200x200.jpg",
+"country":"Mexico",
+"region":"Central America",
+"subregion":"Chiapas and Oaxaca",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catimor",
+"Caturra",
+"Typica"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"900 – 1200",
+"notes":null,
+"description":"This Mexico Veracruz natural coffee comes from APG Coffee, a fourth-generation family operation based in Coatepec, Veracruz. The story goes back to 1920, when Antonio Pérez-Redondo Galvan (hence the initials APG) joined Arbuckle Coffee as an exporting agent in Coatepec, stamping his initials on the finest lots heading to the ports of New Orleans and Hamburg. The second generation built coffee machinery and the wet…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.79,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.79,
+"size_class":"home",
+"variant_id":"2815"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/15/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Fruity",
+"Light",
+"Low Acidity",
+"Medium",
+"Mexico",
+"Natural",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.79,
+"min_price":7.79,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:291748",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Mexican Southern Production – BCT Select Washed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/mexican-southern-bct-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/12/Mexican-Cristal-BCT-Select-Washed-1-200x200.png",
+"country":"Mexico",
+"region":"Central America",
+"subregion":"Chiapas, Oaxaca, Veracruz",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Typica",
+"Mundo Novo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1000-1800 MASL",
+"notes":null,
+"description":"These beans represent a curated amalgam of coffees from the country’s three premier growing regions: Veracruz, Oaxaca, and Chiapas. Selected specifically for its clean profile and affordability, this lot serves as a highly versatile option, working equally well as a neutral base component for blends or as a straightforward, easy-drinking single-origin daily drinker. As a fully washed coffee, it delivers a cup free…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.99,
+"size_class":"home",
+"variant_id":"291748"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/22/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Low Acidity",
+"Medium",
+"Mexico",
+"Not-fruity",
+"Sale Coffees",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.99,
+"min_price":6.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:239685",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Mexican Terruño Nayarita Reserve – La Yerba Afrutada – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/mexican-nayarita-la-yerba-afrutada-natural/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/10/La-Yerba-Afrutada-Nayarita-Selecta-Natural-10-28-200x200.png",
+"country":"Mexico",
+"region":"Central America",
+"subregion":"Nayarita",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Caturra",
+"Mundo Novo"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"956 masl",
+"notes":null,
+"description":"Terruno Nayarita provides ultimate traceability into the lots, check out all the details here! Want to know why we think Terruño Nayarita is so cool? Check out our new blog post about them. This is a co-op that holds a special place in our hearts. This coffee is from 100% traceable, directly traded micro-lots. Each bag is uniquely identified with a bar code and a serial number which can be used to see everything…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.79,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.79,
+"size_class":"home",
+"variant_id":"239685"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 08/28/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"Mexico",
+"Natural"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.79,
+"min_price":9.79,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:138825",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Mexican Terruño Nayarita – Cuarenteño Inglaterra – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/mexican-terruno-nayarita-wash/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/09/Mexican-Terruno-Nayarita-El-Cuarenteno-Reserva-Washed-Processed-200x200.png",
+"country":"Mexico",
+"region":"Central America",
+"subregion":"Nayarita",
+"producer":null,
+"varietals":[
+"Heirloom",
+"Caturra",
+"Catuai",
+"Typica",
+"Mundo Novo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This is an excellent fresh washed lot of Mexican Terruño Nayarita Inglaterra green coffee, grown by members of the RIVIERA and PROCAA societies of Grupo Terruño Nayarita in the community of El Cuarenteño, up in the hills of Xalisco, Nayarit. The group registers it as El Cuarenteño Inglaterra Reserva and it comes to us graded SHG EP. One of the most trackable and sustainable Mexican coffees (and tasty!). Our first…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.89,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.89,
+"size_class":"home",
+"variant_id":"138825"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 08/28/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Dark",
+"Low Acidity",
+"Medium",
+"Mexico",
+"New Arrivals",
+"Not-fruity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.89,
+"min_price":7.89,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:80084",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Nicaraguan Jinotega SHG EP – Finca El Pastoral – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/nicaragua-finca-el-pastoral-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/01/Nicaraguan-Org.-Jinotega-SHB-EP-BCT-Select-200x200.png",
+"country":"Nicaragua",
+"region":"Central America",
+"subregion":"Jinotega",
+"producer":"Finca El Pastoral",
+"varietals":[
+"Castillo"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This green coffee comes from Finca El Pastoral, a 150 acre farm in the Jinotega department of northern Nicaragua that belongs to Juan de Dios Castillo Arauz. Castillo is an agronomist, and with his four siblings he founded J&M Family Coffee, a family export company named after their parents, Juan and Miriam, who got into coffee with income from the family tailoring business in the town of Jinotega. J&M started…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.7,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.7,
+"size_class":"home",
+"variant_id":"80084"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/23/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Nicaragua",
+"Not-fruity",
+"Sale Coffees"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.7,
+"min_price":6.7,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:3218",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Nicaraguan Jinotega – Finca El Pastoral – Maracaturra Natural",
+"url":"https://burmancoffee.com/product/green-coffee-beans/nicaragua-maracaturra-natural-el-pastoral/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/10/Nicaraguan-Jinotega-Finca-El-Pastoral-Maracaturra-Natural-200x200.jpg",
+"country":"Nicaragua",
+"region":"Central America",
+"subregion":"Matagalpa",
+"producer":"Finca El Pastoral",
+"varietals":[
+"Maracaturra"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1100 – 1460 masl",
+"notes":null,
+"description":"Maracaturra is a cross of Maragogype and Caturra, growers have leaned on it for the specialty market because it tastes very nice, especially as a natural. It also grows unusually large beans, which is pretty novel, dwarfs even a Colombian Supremo or Kenya AA. Here the cherries were dried whole, sun first and then guardiolas, the rotating drum dryers used across Central America, so the last of the moisture comes off…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.95,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.95,
+"size_class":"home",
+"variant_id":"3218"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/23/2026",
+"All In Stock Items",
+"Central America",
+"Fruity",
+"Light",
+"Low Acidity",
+"Medium",
+"Natural",
+"New Arrivals",
+"Nicaragua",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.95,
+"min_price":7.95,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2458",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Nicaraguan RFA Selva Negra – Honey Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/nicaraguan-honey-selva-negra/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/09/Nicaraguan-RFA-Selva-Negra-–-Honey-Processed-200x200.png",
+"country":"Nicaragua",
+"region":"Central America",
+"subregion":"Matagalpa",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Typica"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"The honey processing on these beans is very close to the washed processed – very clean honey processing. Leaves the cup with raised sweetness and an increase in body/brightness, a little hint of a soft fruit tone. One of the most sustainable farms in the world! A wonderful direct relationship coffee. Nicaraguan Selva Negra coffee is cultivated in the most ecologically sustainable and socially responsible way…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.25,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.25,
+"size_class":"home",
+"variant_id":"2458"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/18/2026",
+"All Coffees",
+"All In Stock Items",
+"Central America",
+"Dark",
+"Direct Relationship",
+"Fruity",
+"Light",
+"Low Acidity",
+"Medium",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.25,
+"min_price":8.25,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:11969",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Papua New Guinea Org. Siane Chimbu",
+"url":"https://burmancoffee.com/product/green-coffee-beans/papua-new-guinea-chimbu/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/01/Papua-New-Guinea-Kuta-Mill-200x200.png",
+"country":"Papua New Guinea",
+"region":"Asia-Pacific",
+"subregion":"Chimbu Province",
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This is wild wild west PNG coffee versus the Sigri and Kimel which are nice traditional estate models (although still wilder than most farms we would usually think of). Basically, coffee cherries funnel in every day to these operations, farmers and family members pick the cherry from everywhere they can – parks, natural areas, villages, small farms etc… They then bring the cherry to a centralized processing center…",
+"variants":[
+{
+"title":"1 lb",
+"price":7.25,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.25,
+"size_class":"home",
+"variant_id":"11969"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/09/26",
+"All Coffees",
+"All In Stock Items",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Oceania",
+"Organically Grown",
+"Papua New Guinea"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":7.25,
+"min_price":7.25,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2563",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Papua New Guinea – Carpenter Estates – Bunum Wo – Kula Peaberry",
+"url":"https://burmancoffee.com/product/green-coffee-beans/png-bunum-wo/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/02/Papua-New-Guinea-Carpenter-Estates-Bunum-Wo-Kula-Peaberry-1-200x200.png",
+"country":"Papua New Guinea",
+"region":"Asia-Pacific",
+"subregion":"Carpenter Estate",
+"producer":"Carpenter Estates",
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"All coffee bearing the Carpenter Estate name is grown at over 5000 feet elevation. All of their Estates considers soil and water conservation as a priority, and, the plantation is bird and eco-friendly. The plantation employs a medium density shade strategy, using two types of shade trees. This promotes even ripening of coffee cherries and provides habitat for at least 90 species of birds. These are washed…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"2563"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 04/17/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Dark",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Oceania",
+"Papua New Guinea",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:2561",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Papua New Guinea – Carpenter Estates – Sigri – Kula Peaberry",
+"url":"https://burmancoffee.com/product/green-coffee-beans/png-sigri-pb/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/02/Papua-New-Guinea-Carpenter-Estates-Sigri-Estate-Kula-Peaberry-200x200.png",
+"country":"Papua New Guinea",
+"region":"Asia-Pacific",
+"subregion":"Carpenter Estate",
+"producer":"Carpenter Estates",
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"All coffee bearing the Carpenter Estate name is grown at over 5000 feet elevation. All of their Estates considers soil and water conservation as a priority, and, the plantation is very eco-friendly. The plantation employs a medium density shade strategy, using two types of shade trees. This promotes even ripening of coffee cherries and provides habitat for at least 90 species of birds. These are washed processed…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"2561"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 04/17/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Dark",
+"Low Acidity",
+"Medium",
+"Not-fruity",
+"Oceania",
+"Papua New Guinea",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:121161",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Peru Org. Amazonas – Cafe De Mujer – APROCCURMA; Female Producers",
+"url":"https://burmancoffee.com/product/coffee-type/single-origin/peru-aproccurma/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/09/Peru-Org.-Female-Producers-APROCCURMA-Cafe-De-Mujer-200x200.png",
+"country":"Peru",
+"region":"South America",
+"subregion":"Rodriguez de Mendoza, Amazonas",
+"producer":"APROCCURMA; Female Producers",
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1500-1800 masl",
+"notes":null,
+"description":"Looking to support women in coffee? For the past five years, Asociación de Productores Cafetaleros de la Cuenca del Rio Marañón (APROCCURMA) has been working directly with 124 women producers to establish coffee production from farms owned and managed by women. A significant number of women in the northern highlands of the Rodríguez de Mendoza province rely on coffee income to support their families. They use…",
+"variants":[
+{
+"title":"1 lb",
+"price":6.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.99,
+"size_class":"home",
+"variant_id":"121161"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/01/2026",
+"All Coffees",
+"All In Stock Items",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Organically Grown",
+"Peru",
+"Sale Coffees"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":6.99,
+"min_price":6.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:300338",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Rwanda Org. – Dukunde Kawa Mbilima – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/rwanda-dukunde-womens-washed/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/02/Rwanda-Dukunde-Kawa-Mbilima-Org-200x200.jpg",
+"country":"Rwanda",
+"region":"Africa",
+"subregion":"Gakenke District",
+"producer":null,
+"varietals":[],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1500 – 2100 masl",
+"notes":null,
+"description":"Our favorite Rwanda Co-op. Coming from family owned farms organized around the Musasa mill located near a gorilla habitat in the Gakenke district of Rwanda. Farm plots are so small that measurements are based on the numbers of trees, not area of land. Farmers who process their coffee at the Musasa mill are members of the Dukunde Kawa Cooperative, which started in 2000 with enough funds to build one wet mill. In the…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.49,
+"size_class":"home",
+"variant_id":"300338"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 06/03/2026",
+"Africa",
+"All In Stock Items",
+"Dark",
+"High Acidity",
+"Medium",
+"Not-fruity",
+"Organically Grown",
+"Rwanda",
+"Single Origin",
+"Washed"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.49,
+"min_price":8.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:126216",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Sampler – 6 Half-Pounds – Burman Coffee Favorites:",
+"url":"https://burmancoffee.com/product/green-coffee-beans/favorites-sampler/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/02/Burman-Coffee-Sampler-1-1-200x132.jpg",
+"country":"Panama",
+"region":"Central America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Sample some classic coffee flavor profiles from around the world! A half pound each of: Panama Premium Boquete – Garrido Estates – Washed SHB Tasting Notes: We thought best from medium to dark roasts but works from light to dark. A clean, sweet and smooth daily drinking cup! A little fuller bodied at the light-medium roast level with a great balance between the slight winy/floral notes & nutty/malty darker tones.…",
+"variants":[
+{
+"title":"1 lb",
+"price":27.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":27.99,
+"size_class":"home",
+"variant_id":"126216"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"BCT Bundle Specials",
+"Bundles",
+"Central America",
+"Medium",
+"Natural",
+"Oceania",
+"South America"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":27.99,
+"min_price":27.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:328133",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Sampler – 6 Half-Pounds – Burman Coffee’s Exotic Selection:",
+"url":"https://burmancoffee.com/product/all-in-stock-items/exotic-sampler/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/02/Burman-Coffee-Sampler-1-1-200x132.jpg",
+"country":"Indonesia",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Don’t know what to try but like exotic tastes in coffee? Than this sampler is for you! In this sampler you will find top notch coffees that definitely don’t taste like normal coffee. From fruity naturals to bold wet-hulled. This is a wonderful collection of coffee that will showcase how diverse coffee can taste. Be warned though, exotic tastes always pull a love/hate relationship, these are all wonderful top notch…",
+"variants":[
+{
+"title":"1 lb",
+"price":27.72,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":27.72,
+"size_class":"home",
+"variant_id":"328133"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Africa",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"BCT Bundle Specials",
+"Bundles",
+"Central America",
+"Coffee Type",
+"Fruity",
+"High Acidity"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":27.72,
+"min_price":27.72,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:285371",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Thailand Lanna Coffee – Doi Inthanon – Honey Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/thailand-lanna-doi-inthanon-honey/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/10/Thailand-Doi-Inthanon-Honey-200x200.png",
+"country":"Thailand",
+"region":"Asia-Pacific",
+"subregion":"Chom Thong, Chiang Mai",
+"producer":null,
+"varietals":[
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":"1600 masl",
+"notes":null,
+"description":"Thai Coffee?!?!? A rare origin in the U.S. for stand up beans, turns out they grow a lot of coffee in Thailand. The specialty market has been up and coming and the beans getting better and better. Similar to origins like India but with more hybrid processing methods. These beans have a unique story and taste. We have been looking for tasty Thai coffee for quite some time, had some friends on the ground over there…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"285371"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/03/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Dark",
+"High Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Semi-Washed (Honey)"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:238853",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Thailand Lanna Coffee – Huay Ma Liem – Washed Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/thailand-huay-ma-liem/",
+"image":"https://burmancoffee.com/wp-content/uploads/2024/10/Thailand-–-Lanna-Coffee-–-Huay-Ma-Liem-–-Washed-Processed-200x204.png",
+"country":"Thailand",
+"region":"Asia-Pacific",
+"subregion":"Chom Thong, Chiang Mai",
+"producer":null,
+"varietals":[
+"Catimor"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":"1200 masl",
+"notes":null,
+"description":"Thai Coffee?!?!? A rare origin in the U.S. for stand up beans, turns out they grow a lot of coffee in Thailand. The specialty market has been up and coming and the beans getting better and better. Similar to origins like India but with more hybrid processing methods. These beans have a unique story and taste. We have been looking for tasty Thai coffee for quite some time, had some friends on the ground over there…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"238853"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/03/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:278750",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Thailand Lanna Coffee – Law Wu – Honey Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/thailand-law-wu-honey/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/09/Thailand-Lanna-Coffee-Law-Wu-Honey-Processed-200x201.png",
+"country":"Thailand",
+"region":"Asia-Pacific",
+"subregion":"Law Wu",
+"producer":null,
+"varietals":[
+"Catimor"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Thai Coffee?!?!? A rare origin in the U.S. for stand up beans, turns out they grow a lot of coffee in Thailand. The specialty market has been up and coming and the beans getting better and better. Similar to origins like India but with more hybrid processing methods. These beans have a unique story and taste. We have been looking for tasty Thai coffee for quite some time, had some friends on the ground over there…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.49,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.49,
+"size_class":"home",
+"variant_id":"278750"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/03/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"New Arrivals",
+"Semi-Washed (Honey)"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.49,
+"min_price":9.49,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:238845",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Thailand Lanna Coffee – Law Wu – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/thailand-law-natural/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/09/Thailand-Lanna-Coffee-Law-Wu-Natural-Processed-200x200.png",
+"country":"Thailand",
+"region":"Asia-Pacific",
+"subregion":"Law Wu",
+"producer":null,
+"varietals":[
+"Catimor"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1700 masl",
+"notes":null,
+"description":"Thai Coffee?!?!? A rare origin in the U.S. for stand up beans, turns out they grow a lot of coffee in Thailand. The specialty market has been up and coming and the beans getting better and better. Similar to origins like India but with more hybrid processing methods. These beans have a unique story and taste. We have been looking for tasty Thai coffee for quite some time, had some friends on the ground over there…",
+"variants":[
+{
+"title":"1 lb",
+"price":9.79,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.79,
+"size_class":"home",
+"variant_id":"238845"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/03/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Burman Picks",
+"Fruity",
+"Light",
+"Medium",
+"Natural",
+"New Arrivals",
+"Single Origin"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":9.79,
+"min_price":9.79,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:239452",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Thailand Lanna Coffee: 4 Pound Bundle",
+"url":"https://burmancoffee.com/product/green-coffee-beans/thailand-bundle/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/09/thailand_coffee_bundle_website-200x200.jpg",
+"country":"Thailand",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Robusta"
+],
+"process":"Honey",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Thai Coffee?!?!? A rare origin in the U.S. for stand up beans, turns out they grow a lot of coffee in Thailand. The specialty market has been up and coming and the beans getting better and better. Similar to origins like India but with more hybrid processing methods. These beans have a unique story and taste. We have been looking for tasty Thai coffee for quite some time, have some friends on the ground over there…",
+"variants":[
+{
+"title":"1 lb",
+"price":32.96,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":32.96,
+"size_class":"home",
+"variant_id":"239452"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Bundles",
+"Burman Picks",
+"Fruity",
+"High Acidity",
+"Low Acidity",
+"Natural",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":32.96,
+"min_price":32.96,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:182078",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Vietnam Lam Dong – Duc Trong Mill – Washed Processed Arabica",
+"url":"https://burmancoffee.com/product/green-coffee-beans/vietnam-duc-trong/",
+"image":"https://burmancoffee.com/wp-content/uploads/2023/08/Vietnam-Lam-Dong-Duc-Trong-Mill-Washed-Processed-Arabica-200x200.png",
+"country":"Vietnam",
+"region":"Asia-Pacific",
+"subregion":"Dung K'No",
+"producer":"Duc Trong Mill",
+"varietals":[
+"Robusta",
+"Catimor",
+"Heirloom"
+],
+"process":"Washed",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"A beautiful small holder production coffee, large beans, Arabica strains, fresh as can be! One of our first Asian coffees that virtually has no trace of Robusta tones in the cup. We knew they had some tasty Arabica production just took us a bit to find it. Did you know Vietnam usually takes the spot of the second largest coffee producer in the world? Behind Brazil a bit, but for its size, lots of coffee. An Arabica…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"182078"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 06/29/26",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Low Acidity",
+"Medium",
+"New Arrivals",
+"Not-fruity",
+"Single Origin",
+"Vietnam"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-02"
+},
+{
+"id":"burman:143139",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Yemen Mocca – Hiwari – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/yemen-mocca-hiwari-natural/",
+"image":"https://burmancoffee.com/wp-content/uploads/2026/09/Yemen-Mocca-Hiwari-Natural-Processed-200x200.jpg",
+"country":"Yemen",
+"region":"Arabia",
+"subregion":"Sa’adah Governorate and Ibb Governorate",
+"producer":null,
+"varietals":[
+"Heirloom"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1700 - 2400 masl",
+"notes":null,
+"description":"Been a long time since we offered a Yemen coffee – we love them incredibly but with the political battles and atrocities taking place we avoided them. Recently we have gotten into some good discussions with coffee folks and the recent thinking is, good to support these Yemen farmers regardless of what is politically happening in the country. Yemen does aggregate farming, small holders – they do not have traditional…",
+"variants":[
+{
+"title":"1 lb",
+"price":13.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":13.99,
+"size_class":"home",
+"variant_id":"143139"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 09/01/2026",
+"All Coffees",
+"All In Stock Items",
+"Asia",
+"Dark",
+"Fruity",
+"High Acidity",
+"Light",
+"Medium",
+"Natural",
+"New Arrivals"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":13.99,
+"min_price":13.99,
+"size_classes":[
+"home"
 ],
 "last_in_stock":"2026-11-02"
 },
@@ -3580,7 +7529,7 @@
 "variant_id":"46212319576200"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3626,7 +7575,7 @@
 "variant_id":"46212244144264"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3672,7 +7621,7 @@
 "variant_id":"46124009554056"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3718,7 +7667,7 @@
 "variant_id":"50542245937288"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -3762,7 +7711,7 @@
 "variant_id":"46239974097032"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3808,7 +7757,7 @@
 "variant_id":"46123985961096"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3854,7 +7803,7 @@
 "variant_id":"46123987566728"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3900,7 +7849,7 @@
 "variant_id":"46124000870536"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -3946,7 +7895,7 @@
 "variant_id":"46239940083848"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -3993,7 +7942,7 @@
 "variant_id":"46124021088392"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4039,7 +7988,7 @@
 "variant_id":"46123985338504"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4085,7 +8034,7 @@
 "variant_id":"46123985404040"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -4132,7 +8081,7 @@
 "variant_id":"45909046657160"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4178,7 +8127,7 @@
 "variant_id":"46123985666184"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4224,7 +8173,7 @@
 "variant_id":"50541841580168"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -4270,7 +8219,7 @@
 "variant_id":"45909046591624"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4318,7 +8267,7 @@
 "variant_id":"46212243554440"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4364,7 +8313,7 @@
 "variant_id":"46519801118856"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -4408,7 +8357,7 @@
 "variant_id":"46539050942600"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -4450,7 +8399,7 @@
 "variant_id":"46212240703624"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4498,7 +8447,7 @@
 "variant_id":"46123985830024"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4544,7 +8493,7 @@
 "variant_id":"46471328170120"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -4588,7 +8537,7 @@
 "variant_id":"46124004114568"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4634,7 +8583,7 @@
 "variant_id":"45909056454792"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4680,7 +8629,7 @@
 "variant_id":"46123987402888"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -4729,7 +8678,7 @@
 "variant_id":"46123987337352"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4775,7 +8724,7 @@
 "variant_id":"46123987304584"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4821,7 +8770,7 @@
 "variant_id":"46123995299976"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4867,7 +8816,7 @@
 "variant_id":"46124015157384"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4913,7 +8862,7 @@
 "variant_id":"46212242342024"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -4959,7 +8908,7 @@
 "variant_id":"46212241129608"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5005,7 +8954,7 @@
 "variant_id":"46212243095688"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5051,7 +9000,7 @@
 "variant_id":"46212241490056"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5097,7 +9046,7 @@
 "variant_id":"46124015550600"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5143,7 +9092,7 @@
 "variant_id":"46124039471240"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5189,7 +9138,7 @@
 "variant_id":"46124034326664"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5235,7 +9184,7 @@
 "variant_id":"46123987697800"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5281,7 +9230,7 @@
 "variant_id":"46124021022856"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5327,7 +9276,7 @@
 "variant_id":"46124047958152"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5376,7 +9325,7 @@
 "variant_id":"46124034654344"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5422,7 +9371,7 @@
 "variant_id":"45909041512584"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5468,7 +9417,7 @@
 "variant_id":"46123992416392"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5515,7 +9464,7 @@
 "variant_id":"46456657838216"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -5559,7 +9508,7 @@
 "variant_id":"46124015681672"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5606,7 +9555,7 @@
 "variant_id":"46222048624776"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -5652,7 +9601,7 @@
 "variant_id":"46123988189320"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5705,7 +9654,7 @@
 "variant_id":"46123988287624"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5754,7 +9703,7 @@
 "variant_id":"67584661487752"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -5798,7 +9747,7 @@
 "variant_id":"46123991892104"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5847,7 +9796,7 @@
 "variant_id":"46124034621576"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -5896,7 +9845,7 @@
 "variant_id":"46124048285832"
 }
 ],
-"updated_at":"2026-11-02T13:52:16-06:00",
+"updated_at":"2026-11-02T13:59:23-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -6017,7 +9966,7 @@
 "variant_id":"33195713888336"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -6148,7 +10097,7 @@
 "variant_id":"7603523971"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -6273,7 +10222,7 @@
 "variant_id":"39247598583888"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Brazilian coffee",
@@ -6399,7 +10348,7 @@
 "variant_id":"42956613254"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Brazilian coffee",
@@ -6523,7 +10472,7 @@
 "variant_id":"8729527363"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -6648,7 +10597,7 @@
 "variant_id":"42863955509328"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -6774,7 +10723,7 @@
 "variant_id":"32733184589904"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -6901,7 +10850,7 @@
 "variant_id":"43046563840080"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -6957,7 +10906,7 @@
 "variant_id":"43081675210832"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -7082,7 +11031,7 @@
 "variant_id":"42535544815696"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -7209,7 +11158,7 @@
 "variant_id":"4786564995"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -7337,7 +11286,7 @@
 "variant_id":"12892303687760"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -7465,7 +11414,7 @@
 "variant_id":"4801085507"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -7591,7 +11540,7 @@
 "variant_id":"32183887265872"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -7715,7 +11664,7 @@
 "variant_id":"32710577193040"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -7842,7 +11791,7 @@
 "variant_id":"4786325059"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -7969,7 +11918,7 @@
 "variant_id":"4788776515"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -8095,7 +12044,7 @@
 "variant_id":"4798528515"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -8216,7 +12165,7 @@
 "variant_id":"590123466758"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -8340,7 +12289,7 @@
 "variant_id":"4798561539"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -8461,7 +12410,7 @@
 "variant_id":"12417204102"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -8512,7 +12461,7 @@
 "variant_id":"39577240109136"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -8636,7 +12585,7 @@
 "variant_id":"4786359939"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -8758,7 +12707,7 @@
 "variant_id":"40843988294"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -8883,7 +12832,7 @@
 "variant_id":"4793282563"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9005,7 +12954,7 @@
 "variant_id":"4787787267"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9131,7 +13080,7 @@
 "variant_id":"4801086659"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -9257,7 +13206,7 @@
 "variant_id":"4801099779"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9385,7 +13334,7 @@
 "variant_id":"4786445571"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9508,7 +13457,7 @@
 "variant_id":"44802513926"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Fair Trade green beans",
@@ -9634,7 +13583,7 @@
 "variant_id":"32583568097360"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9762,7 +13711,7 @@
 "variant_id":"4798563587"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -9887,7 +13836,7 @@
 "variant_id":"4799302211"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -10012,7 +13961,7 @@
 "variant_id":"4801074307"
 }
 ],
-"updated_at":"2026-11-02T14:52:26-05:00",
+"updated_at":"2026-11-02T14:59:34-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10065,11 +14014,11 @@
 },
 {
 "title":"2 kg ($6.14 / lb)",
-"price":119.22,
+"price":27.04,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":27.04,
+"price_per_lb":6.13,
 "size_class":"home",
 "variant_id":"40888656887946"
 },
@@ -10094,7 +14043,7 @@
 "variant_id":"43044878909578"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Brazil",
@@ -10176,7 +14125,7 @@
 "variant_id":"49522148606090"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Burundi",
@@ -10258,7 +14207,7 @@
 "variant_id":"49942541566090"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -10339,7 +14288,7 @@
 "variant_id":"43044881498250"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -10395,11 +14344,11 @@
 },
 {
 "title":"2 kg ($14.89 / lb)",
-"price":289.19,
+"price":65.59,
 "grams":2000.0,
 "available":false,
 "lb":4.409,
-"price_per_lb":65.59,
+"price_per_lb":14.88,
 "size_class":"home",
 "variant_id":"49942424486026"
 },
@@ -10424,7 +14373,7 @@
 "variant_id":"49942424551562"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Co-fermentation",
@@ -10476,11 +14425,11 @@
 },
 {
 "title":"2 kg ($6.85 / lb)",
-"price":133.02,
+"price":30.17,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":30.17,
+"price_per_lb":6.84,
 "size_class":"home",
 "variant_id":"49811655491722"
 },
@@ -10505,7 +14454,7 @@
 "variant_id":"49811655557258"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -10590,7 +14539,7 @@
 "variant_id":"47037406380170"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -10670,7 +14619,7 @@
 "variant_id":"50525245210762"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -10754,7 +14703,7 @@
 "variant_id":"49416014102666"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -10840,7 +14789,7 @@
 "variant_id":"49416377041034"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -10897,11 +14846,11 @@
 },
 {
 "title":"2 kg ($9.28 / lb)",
-"price":180.24,
+"price":40.88,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":40.88,
+"price_per_lb":9.27,
 "size_class":"home",
 "variant_id":"49629706092682"
 },
@@ -10926,7 +14875,7 @@
 "variant_id":"49629706158218"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -10939,7 +14888,7 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":9.52,
+"min_price_per_lb":9.27,
 "min_price":10.49,
 "size_classes":[
 "sample",
@@ -10981,11 +14930,11 @@
 },
 {
 "title":"2 kg ($7.17 /lb)",
-"price":139.24,
+"price":31.58,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":31.58,
+"price_per_lb":7.16,
 "size_class":"home",
 "variant_id":"50329331531914"
 },
@@ -11010,7 +14959,7 @@
 "variant_id":"50329331597450"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -11094,7 +15043,7 @@
 "variant_id":"47308624396426"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -11149,11 +15098,11 @@
 },
 {
 "title":"2 kg ($7.63 /lb)",
-"price":148.19,
+"price":33.61,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":33.61,
+"price_per_lb":7.62,
 "size_class":"home",
 "variant_id":"49858535227530"
 },
@@ -11178,7 +15127,7 @@
 "variant_id":"49858535293066"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -11272,7 +15221,7 @@
 "variant_id":"50472392229002"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -11367,7 +15316,7 @@
 "variant_id":"50510317682826"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -11421,11 +15370,11 @@
 },
 {
 "title":"2 kg ($8.14 /lb)",
-"price":158.06,
+"price":35.85,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":35.85,
+"price_per_lb":8.13,
 "size_class":"home",
 "variant_id":"50458653884554"
 },
@@ -11450,7 +15399,7 @@
 "variant_id":"50458653950090"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -11533,7 +15482,7 @@
 "variant_id":"47002481754250"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -11616,7 +15565,7 @@
 "variant_id":"50182506152074"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -11698,7 +15647,7 @@
 "variant_id":"50573726220426"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -11780,7 +15729,7 @@
 "variant_id":"47002488176778"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -11863,7 +15812,7 @@
 "variant_id":"47657777463434"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -11944,7 +15893,7 @@
 "variant_id":"47657764814986"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -12025,7 +15974,7 @@
 "variant_id":"47133370450058"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12108,7 +16057,7 @@
 "variant_id":"47133221093514"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12191,7 +16140,7 @@
 "variant_id":"50380748718218"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12274,7 +16223,7 @@
 "variant_id":"47037431480458"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12356,7 +16305,7 @@
 "variant_id":"50510210957450"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12447,7 +16396,7 @@
 "variant_id":"47053764329610"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -12529,7 +16478,7 @@
 "variant_id":"50456815861898"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12610,7 +16559,7 @@
 "variant_id":"46302487806090"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12692,7 +16641,7 @@
 "variant_id":"50176974192778"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12774,7 +16723,7 @@
 "variant_id":"50089681682570"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -12859,7 +16808,7 @@
 "variant_id":"47707678605450"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "gesha",
@@ -12943,7 +16892,7 @@
 "variant_id":"47707670839434"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -13025,7 +16974,7 @@
 "variant_id":"47707462697098"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -13076,11 +17025,11 @@
 },
 {
 "title":"2 kg ($8.51 /lb)",
-"price":147.61,
+"price":33.48,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":33.48,
+"price_per_lb":7.59,
 "size_class":"home",
 "variant_id":"47169508671626"
 },
@@ -13105,7 +17054,7 @@
 "variant_id":"47169508737162"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13118,7 +17067,7 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":7.84,
+"min_price_per_lb":7.59,
 "min_price":8.64,
 "size_classes":[
 "sample",
@@ -13160,11 +17109,11 @@
 },
 {
 "title":"2 kg ($7.52 /lb)",
-"price":146.03,
+"price":33.12,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":33.12,
+"price_per_lb":7.51,
 "size_class":"home",
 "variant_id":"47168374800522"
 },
@@ -13189,7 +17138,7 @@
 "variant_id":"47168374866058"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13273,7 +17222,7 @@
 "variant_id":"47175672365194"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -13325,11 +17274,11 @@
 },
 {
 "title":"2 kg ($7.66 /lb)",
-"price":148.76,
+"price":33.74,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":33.74,
+"price_per_lb":7.65,
 "size_class":"home",
 "variant_id":"50255487172746"
 },
@@ -13354,7 +17303,7 @@
 "variant_id":"50255487238282"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13407,11 +17356,11 @@
 },
 {
 "title":"2 kg ($7.38 /lb)",
-"price":143.34,
+"price":32.51,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":32.51,
+"price_per_lb":7.37,
 "size_class":"home",
 "variant_id":"50255489597578"
 },
@@ -13436,7 +17385,7 @@
 "variant_id":"50255489663114"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13490,11 +17439,11 @@
 },
 {
 "title":"2 kg ($7.33 /lb)",
-"price":142.37,
+"price":32.29,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":32.29,
+"price_per_lb":7.32,
 "size_class":"home",
 "variant_id":"50056016167050"
 },
@@ -13519,7 +17468,7 @@
 "variant_id":"50056016232586"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13604,7 +17553,7 @@
 "variant_id":"47320819990666"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13658,11 +17607,11 @@
 },
 {
 "title":"2 kg ($8.65/lb)",
-"price":167.98,
+"price":38.1,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":38.1,
+"price_per_lb":8.64,
 "size_class":"home",
 "variant_id":"48086001352842"
 },
@@ -13687,7 +17636,7 @@
 "variant_id":"48086001418378"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -13698,7 +17647,7 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.89,
+"min_price_per_lb":8.64,
 "min_price":9.8,
 "size_classes":[
 "sample",
@@ -13740,11 +17689,11 @@
 },
 {
 "title":"2 kg ($7.84 / lb)",
-"price":152.24,
+"price":34.53,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":34.53,
+"price_per_lb":7.83,
 "size_class":"home",
 "variant_id":"49698430517386"
 },
@@ -13769,7 +17718,7 @@
 "variant_id":"49698430582922"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13825,11 +17774,11 @@
 },
 {
 "title":"2 kg ($8.16 /lb)",
-"price":158.46,
+"price":35.94,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":35.94,
+"price_per_lb":8.15,
 "size_class":"home",
 "variant_id":"49858310668426"
 },
@@ -13854,7 +17803,7 @@
 "variant_id":"49858310733962"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13938,7 +17887,7 @@
 "variant_id":"47014941524106"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -13994,11 +17943,11 @@
 },
 {
 "title":"2 kg ($7.09 /lb)",
-"price":137.69,
+"price":31.23,
 "grams":2000.0,
 "available":false,
 "lb":4.409,
-"price_per_lb":31.23,
+"price_per_lb":7.08,
 "size_class":"home",
 "variant_id":"47004679340170"
 },
@@ -14023,7 +17972,7 @@
 "variant_id":"47004679405706"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -14078,11 +18027,11 @@
 },
 {
 "title":"2 kg ($7.24 /lb)",
-"price":140.6,
+"price":31.89,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":31.89,
+"price_per_lb":7.23,
 "size_class":"home",
 "variant_id":"47133885726858"
 },
@@ -14107,7 +18056,7 @@
 "variant_id":"47133885792394"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -14189,7 +18138,7 @@
 "variant_id":"47133899915402"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -14243,11 +18192,11 @@
 },
 {
 "title":"2 kg ($6.31 /lb)",
-"price":122.53,
+"price":27.79,
 "grams":2000.0,
 "available":false,
 "lb":4.409,
-"price_per_lb":27.79,
+"price_per_lb":6.3,
 "size_class":"home",
 "variant_id":"50174620696714"
 },
@@ -14272,7 +18221,7 @@
 "variant_id":"50174620762250"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -14354,7 +18303,7 @@
 "variant_id":"49494144614538"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -14405,11 +18354,11 @@
 },
 {
 "title":"2 kg (8.52/lb)",
-"price":165.47,
+"price":37.53,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":37.53,
+"price_per_lb":8.51,
 "size_class":"home",
 "variant_id":"49446690783370"
 },
@@ -14434,7 +18383,7 @@
 "variant_id":"49446690848906"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -14485,11 +18434,11 @@
 },
 {
 "title":"2 kg (7.79/lb)",
-"price":151.27,
+"price":34.31,
 "grams":2000.0,
 "available":true,
 "lb":4.409,
-"price_per_lb":34.31,
+"price_per_lb":7.78,
 "size_class":"home",
 "variant_id":"49468274213002"
 },
@@ -14514,7 +18463,7 @@
 "variant_id":"49468274278538"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -14594,7 +18543,7 @@
 "variant_id":"49449436348554"
 }
 ],
-"updated_at":"2026-11-02T11:52:20-08:00",
+"updated_at":"2026-11-02T11:59:27-08:00",
 "wholesale":false,
 "tags":[
 "Decaf",
@@ -14646,7 +18595,7 @@
 "variant_id":"19630885830744"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -14692,7 +18641,7 @@
 "variant_id":"19894490005592"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -14738,7 +18687,7 @@
 "variant_id":"48965077434655"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -14785,7 +18734,7 @@
 "variant_id":"19630886781016"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -14832,7 +18781,7 @@
 "variant_id":"49100840698143"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -14878,7 +18827,7 @@
 "variant_id":"19630891597912"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -14924,7 +18873,7 @@
 "variant_id":"53146075463967"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -14970,7 +18919,7 @@
 "variant_id":"33673258958936"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15016,7 +18965,7 @@
 "variant_id":"19630899495000"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15062,7 +19011,7 @@
 "variant_id":"32797543891032"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15108,7 +19057,7 @@
 "variant_id":"19630892679256"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15156,7 +19105,7 @@
 "variant_id":"51480491622687"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15202,7 +19151,7 @@
 "variant_id":"19630901100632"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15248,7 +19197,7 @@
 "variant_id":"19630885306456"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -15295,7 +19244,7 @@
 "variant_id":"19630885994584"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -15342,7 +19291,7 @@
 "variant_id":"19630895595608"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15388,7 +19337,7 @@
 "variant_id":"19630891696216"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -15438,7 +19387,7 @@
 "variant_id":"52924652945695"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15486,7 +19435,7 @@
 "variant_id":"20130299052120"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15534,7 +19483,7 @@
 "variant_id":"19630893465688"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15582,7 +19531,7 @@
 "variant_id":"33119856918616"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15630,7 +19579,7 @@
 "variant_id":"19630892843096"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15676,7 +19625,7 @@
 "variant_id":"29915682406488"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -15723,7 +19672,7 @@
 "variant_id":"44461843087647"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15769,7 +19718,7 @@
 "variant_id":"20072324005976"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15815,7 +19764,7 @@
 "variant_id":"53073436705055"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15863,7 +19812,7 @@
 "variant_id":"39991137402968"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -15911,7 +19860,7 @@
 "variant_id":"29155184181336"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -15958,7 +19907,7 @@
 "variant_id":"19630886649944"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16004,7 +19953,7 @@
 "variant_id":"19630886682712"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -16051,7 +20000,7 @@
 "variant_id":"49993586540831"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -16098,7 +20047,7 @@
 "variant_id":"52808005910815"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16147,7 +20096,7 @@
 "variant_id":"33287575994456"
 }
 ],
-"updated_at":"2026-11-02T14:52:23-05:00",
+"updated_at":"2026-11-02T14:59:30-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -16194,7 +20143,7 @@
 "variant_id":"52556275187999"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16240,7 +20189,7 @@
 "variant_id":"52838999556383"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16286,7 +20235,7 @@
 "variant_id":"19630891925592"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16334,7 +20283,7 @@
 "variant_id":"51823882010911"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16380,7 +20329,7 @@
 "variant_id":"53169520935199"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -16429,7 +20378,7 @@
 "variant_id":"19630885929048"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -16476,7 +20425,7 @@
 "variant_id":"50818373091615"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -16523,7 +20472,7 @@
 "variant_id":"19630886486104"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16569,7 +20518,7 @@
 "variant_id":"19894348611672"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16617,7 +20566,7 @@
 "variant_id":"47835100021023"
 }
 ],
-"updated_at":"2026-11-02T14:52:22-05:00",
+"updated_at":"2026-11-02T14:59:29-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -16663,7 +20612,7 @@
 "variant_id":"52925485449503"
 }
 ],
-"updated_at":"2026-11-02T14:52:21-05:00",
+"updated_at":"2026-11-02T14:59:28-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -16731,7 +20680,7 @@
 "variant_id":"50582921838831"
 }
 ],
-"updated_at":"2026-11-02T12:52:19-07:00",
+"updated_at":"2026-11-02T12:59:27-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -16801,7 +20750,7 @@
 "variant_id":"49569965474031"
 }
 ],
-"updated_at":"2026-11-02T12:52:19-07:00",
+"updated_at":"2026-11-02T12:59:27-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -16870,7 +20819,7 @@
 "variant_id":"50777050448111"
 }
 ],
-"updated_at":"2026-11-02T12:52:19-07:00",
+"updated_at":"2026-11-02T12:59:27-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -16979,7 +20928,7 @@
 "variant_id":"46423518970006"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17089,7 +21038,7 @@
 "variant_id":"46423110680726"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17199,7 +21148,7 @@
 "variant_id":"46423116087446"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17249,7 +21198,7 @@
 "variant_id":"67632915382422"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -17349,7 +21298,7 @@
 "variant_id":"46545132191894"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17448,7 +21397,7 @@
 "variant_id":"50519985717398"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17549,7 +21498,7 @@
 "variant_id":"46542625996950"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17616,7 +21565,7 @@
 "variant_id":"67653824381078"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17682,7 +21631,7 @@
 "variant_id":"67653823856790"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17788,7 +21737,7 @@
 "variant_id":"67633121820822"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -17898,7 +21847,7 @@
 "variant_id":"46565090295958"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18009,7 +21958,7 @@
 "variant_id":"46548219854998"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18119,7 +22068,7 @@
 "variant_id":"67651795288214"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18169,7 +22118,7 @@
 "variant_id":"67662982578326"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18245,7 +22194,7 @@
 "variant_id":"46529009811606"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -18292,7 +22241,7 @@
 "variant_id":"67632907124886"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -18350,7 +22299,7 @@
 "variant_id":"67632912629910"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -18458,7 +22407,7 @@
 "variant_id":"67568824483990"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18568,7 +22517,7 @@
 "variant_id":"67633139187862"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18678,7 +22627,7 @@
 "variant_id":"67568581869718"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -18789,7 +22738,7 @@
 "variant_id":"67577899024534"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -18899,7 +22848,7 @@
 "variant_id":"50520125833366"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -19010,7 +22959,7 @@
 "variant_id":"67651797713046"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19120,7 +23069,7 @@
 "variant_id":"46449809555606"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19230,7 +23179,7 @@
 "variant_id":"67633059987606"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19340,7 +23289,7 @@
 "variant_id":"46558890066070"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19450,7 +23399,7 @@
 "variant_id":"46453373730966"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19560,7 +23509,7 @@
 "variant_id":"46530071134358"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19670,7 +23619,7 @@
 "variant_id":"46530079162518"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19780,7 +23729,7 @@
 "variant_id":"46498393718934"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -19838,7 +23787,7 @@
 "variant_id":"46204805644438"
 }
 ],
-"updated_at":"2026-11-02T11:50:46-08:00",
+"updated_at":"2026-11-02T11:57:38-08:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -19946,7 +23895,7 @@
 "variant_id":"67633021780118"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20058,7 +24007,7 @@
 "variant_id":"46556994535574"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20128,7 +24077,7 @@
 "variant_id":"50517307850902"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -20237,7 +24186,7 @@
 "variant_id":"67577860259990"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -20348,7 +24297,7 @@
 "variant_id":"46551181066390"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20449,7 +24398,7 @@
 "variant_id":"46563520577686"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20559,7 +24508,7 @@
 "variant_id":"46565078794390"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20670,7 +24619,7 @@
 "variant_id":"67651787292822"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20782,7 +24731,7 @@
 "variant_id":"67651800858774"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20894,7 +24843,7 @@
 "variant_id":"67600235266198"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21006,7 +24955,7 @@
 "variant_id":"67633127522454"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21056,7 +25005,7 @@
 "variant_id":"46558877876374"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21112,7 +25061,7 @@
 "variant_id":"67570543558806"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21220,7 +25169,7 @@
 "variant_id":"67572239073430"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21330,7 +25279,7 @@
 "variant_id":"67633114677398"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21430,7 +25379,7 @@
 "variant_id":"67576936398998"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21539,7 +25488,7 @@
 "variant_id":"46536590885014"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21629,7 +25578,7 @@
 "variant_id":"67657033941142"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21738,7 +25687,7 @@
 "variant_id":"46562543829142"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21808,7 +25757,7 @@
 "variant_id":"67653942476950"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21886,7 +25835,7 @@
 "variant_id":"46548231422102"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21995,7 +25944,7 @@
 "variant_id":"67586215248022"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22105,7 +26054,7 @@
 "variant_id":"46551185948822"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22207,7 +26156,7 @@
 "variant_id":"67572185137302"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22277,7 +26226,7 @@
 "variant_id":"67653830934678"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22376,7 +26325,7 @@
 "variant_id":"67568584589462"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22465,7 +26414,7 @@
 "variant_id":"46535580549270"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22524,7 +26473,7 @@
 "variant_id":"67577674465430"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22632,7 +26581,7 @@
 "variant_id":"46532620157078"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22722,7 +26671,7 @@
 "variant_id":"46412124356758"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22779,7 +26728,7 @@
 "variant_id":"46204781002902"
 }
 ],
-"updated_at":"2026-11-02T11:50:47-08:00",
+"updated_at":"2026-11-02T11:57:39-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22826,7 +26775,7 @@
 "variant_id":"46282513809558"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22870,7 +26819,7 @@
 "variant_id":"46287401549974"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -22912,7 +26861,7 @@
 "variant_id":"46205124575382"
 }
 ],
-"updated_at":"2026-11-02T11:50:47-08:00",
+"updated_at":"2026-11-02T11:57:39-08:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -22966,7 +26915,7 @@
 "variant_id":"46204780839062"
 }
 ],
-"updated_at":"2026-11-02T11:50:47-08:00",
+"updated_at":"2026-11-02T11:57:39-08:00",
 "wholesale":false,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -23055,7 +27004,7 @@
 "variant_id":"46426302906518"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -23164,7 +27113,7 @@
 "variant_id":"67633144889494"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23272,7 +27221,7 @@
 "variant_id":"67586792882326"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23370,7 +27319,7 @@
 "variant_id":"46545128816790"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23477,7 +27426,7 @@
 "variant_id":"46204810133654"
 }
 ],
-"updated_at":"2026-11-02T11:50:47-08:00",
+"updated_at":"2026-11-02T11:57:39-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view"
@@ -23589,7 +27538,7 @@
 "variant_id":"46566697238678"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view"
@@ -23697,7 +27646,7 @@
 "variant_id":"46204775301270"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -23808,7 +27757,7 @@
 "variant_id":"46529702625430"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23918,7 +27867,7 @@
 "variant_id":"46567030423702"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -24029,7 +27978,7 @@
 "variant_id":"46538089824406"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -24137,7 +28086,7 @@
 "variant_id":"46204774842518"
 }
 ],
-"updated_at":"2026-11-02T11:50:47-08:00",
+"updated_at":"2026-11-02T11:57:39-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -24251,7 +28200,7 @@
 "variant_id":"46448500834454"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -24312,7 +28261,7 @@
 "variant_id":"67653833654422"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -24360,7 +28309,7 @@
 "variant_id":"46558875353238"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24468,7 +28417,7 @@
 "variant_id":"67572126122134"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -24519,7 +28468,7 @@
 "variant_id":"50523072168086"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -24628,7 +28577,7 @@
 "variant_id":"46518413459606"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -24739,7 +28688,7 @@
 "variant_id":"67651792601238"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24849,7 +28798,7 @@
 "variant_id":"46536695611542"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24959,7 +28908,7 @@
 "variant_id":"46548228800662"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25069,7 +29018,7 @@
 "variant_id":"67657065496726"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25179,7 +29128,7 @@
 "variant_id":"67600223961238"
 }
 ],
-"updated_at":"2026-11-02T11:50:45-08:00",
+"updated_at":"2026-11-02T11:57:37-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25269,7 +29218,7 @@
 "variant_id":"47347318849625"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25379,7 +29328,7 @@
 "variant_id":"41855664881753"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25484,7 +29433,7 @@
 "variant_id":"42850128167001"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25582,7 +29531,7 @@
 "variant_id":"42858258071641"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25681,7 +29630,7 @@
 "variant_id":"42856048033881"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25791,7 +29740,7 @@
 "variant_id":"42140534374489"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -25891,7 +29840,7 @@
 "variant_id":"41100813074521"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26001,7 +29950,7 @@
 "variant_id":"42358809755737"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26099,7 +30048,7 @@
 "variant_id":"47346863898713"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26207,7 +30156,7 @@
 "variant_id":"42140545876057"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26270,41 +30219,41 @@
 },
 {
 "title":"3 lbs - $10.64/lb",
-"price":95.76,
+"price":31.92,
 "grams":1360.7759999999998,
 "available":true,
 "lb":3.0,
-"price_per_lb":31.92,
+"price_per_lb":10.64,
 "size_class":"home",
 "variant_id":"42793506930777"
 },
 {
 "title":"5 lbs - $10.39/lb",
-"price":259.75,
+"price":51.95,
 "grams":2267.96,
 "available":true,
 "lb":5.0,
-"price_per_lb":51.95,
+"price_per_lb":10.39,
 "size_class":"home",
 "variant_id":"42793506963545"
 },
 {
 "title":"10 lbs - $10.14/lb",
-"price":1014.0,
+"price":101.4,
 "grams":4535.92,
 "available":true,
 "lb":10.0,
-"price_per_lb":101.4,
+"price_per_lb":10.14,
 "size_class":"box",
 "variant_id":"42793506996313"
 },
 {
 "title":"20 lbs - $9.89/lb",
-"price":3956.0,
+"price":197.8,
 "grams":9071.84,
 "available":true,
 "lb":20.0,
-"price_per_lb":197.8,
+"price_per_lb":9.89,
 "size_class":"box",
 "variant_id":"42793507029081"
 },
@@ -26319,7 +30268,7 @@
 "variant_id":"42793507061849"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26339,7 +30288,7 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":10.89,
+"min_price_per_lb":9.89,
 "min_price":10.89,
 "size_classes":[
 "home",
@@ -26430,7 +30379,7 @@
 "variant_id":"41855632474201"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26539,7 +30488,7 @@
 "variant_id":"42140496887897"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26651,7 +30600,7 @@
 "variant_id":"42923047125081"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26752,7 +30701,7 @@
 "variant_id":"40581381750873"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26862,7 +30811,7 @@
 "variant_id":"41976754241625"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -26970,7 +30919,7 @@
 "variant_id":"43044643438681"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -27072,7 +31021,7 @@
 "variant_id":"42975758745689"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -27170,7 +31119,7 @@
 "variant_id":"41972896202841"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -27278,7 +31227,7 @@
 "variant_id":"41855703482457"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -27385,7 +31334,7 @@
 "variant_id":"41855703679065"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -27489,7 +31438,7 @@
 "variant_id":"42545199448153"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -27599,7 +31548,7 @@
 "variant_id":"41912356470873"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -27707,7 +31656,7 @@
 "variant_id":"41855707775065"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -27815,7 +31764,7 @@
 "variant_id":"41855709085785"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -27923,7 +31872,7 @@
 "variant_id":"41855710691417"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28023,7 +31972,7 @@
 "variant_id":"42554471252057"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28123,7 +32072,7 @@
 "variant_id":"44257192673369"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28231,7 +32180,7 @@
 "variant_id":"41855716819033"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28339,7 +32288,7 @@
 "variant_id":"41855725207641"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28450,7 +32399,7 @@
 "variant_id":"41855771443289"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28550,7 +32499,7 @@
 "variant_id":"43200430473305"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28650,7 +32599,7 @@
 "variant_id":"40397557792857"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28760,7 +32709,7 @@
 "variant_id":"43592663269465"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28870,7 +32819,7 @@
 "variant_id":"41855933972569"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -28950,7 +32899,7 @@
 "variant_id":"44959991365721"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29019,7 +32968,7 @@
 "variant_id":"47326356406361"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29088,7 +33037,7 @@
 "variant_id":"47326339530841"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29147,41 +33096,41 @@
 },
 {
 "title":"3 lbs - $9.24/lb",
-"price":83.16,
+"price":27.72,
 "grams":1360.7759999999998,
 "available":true,
 "lb":3.0,
-"price_per_lb":27.72,
+"price_per_lb":9.24,
 "size_class":"home",
 "variant_id":"42612111016025"
 },
 {
 "title":"5 lbs - $8.99/lb",
-"price":224.75,
+"price":44.95,
 "grams":2267.96,
 "available":true,
 "lb":5.0,
-"price_per_lb":44.95,
+"price_per_lb":8.99,
 "size_class":"home",
 "variant_id":"42612111048793"
 },
 {
 "title":"10 lbs - $8.74/lb",
-"price":874.0,
+"price":87.4,
 "grams":4535.92,
 "available":true,
 "lb":10.0,
-"price_per_lb":87.4,
+"price_per_lb":8.74,
 "size_class":"box",
 "variant_id":"42612111081561"
 },
 {
 "title":"20 lbs - $8.49/lb",
-"price":3396.0,
+"price":169.8,
 "grams":9071.84,
 "available":true,
 "lb":20.0,
-"price_per_lb":169.8,
+"price_per_lb":8.49,
 "size_class":"box",
 "variant_id":"42612111114329"
 },
@@ -29196,7 +33145,7 @@
 "variant_id":"42612113768537"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29213,7 +33162,7 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":9.49,
+"min_price_per_lb":8.49,
 "min_price":9.49,
 "size_classes":[
 "home",
@@ -29301,7 +33250,7 @@
 "variant_id":"41855782027353"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29400,7 +33349,7 @@
 "variant_id":"43269927403609"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29500,7 +33449,7 @@
 "variant_id":"43029814640729"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29600,7 +33549,7 @@
 "variant_id":"43030598287449"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29700,7 +33649,7 @@
 "variant_id":"42997312847961"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Balanced",
@@ -29800,7 +33749,7 @@
 "variant_id":"43255649665113"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29898,7 +33847,7 @@
 "variant_id":"42973237543001"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -29967,7 +33916,7 @@
 "variant_id":"47326337204313"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30074,7 +34023,7 @@
 "variant_id":"41855822889049"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Complex",
@@ -30179,7 +34128,7 @@
 "variant_id":"41855834751065"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -30287,7 +34236,7 @@
 "variant_id":"41855853953113"
 }
 ],
-"updated_at":"2026-11-02T14:52:17-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Balanced",
@@ -30392,7 +34341,7 @@
 "variant_id":"43289102286937"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Blends",
@@ -30497,7 +34446,7 @@
 "variant_id":"43441027448921"
 }
 ],
-"updated_at":"2026-11-02T14:43:50-05:00",
+"updated_at":"2026-11-02T14:59:24-05:00",
 "wholesale":false,
 "tags":[
 "Blends",
@@ -30595,7 +34544,7 @@
 "variant_id":"42835119079513"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -30685,7 +34634,7 @@
 "variant_id":"43046675710041"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -30762,7 +34711,7 @@
 "variant_id":"44856706367577"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -30859,7 +34808,7 @@
 "variant_id":"4171413159964"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -30958,7 +34907,7 @@
 "variant_id":"43146582851673"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -31043,7 +34992,7 @@
 "variant_id":"42839538204761"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31123,7 +35072,7 @@
 "variant_id":"29133544521"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31202,7 +35151,7 @@
 "variant_id":"29130651529"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31281,7 +35230,7 @@
 "variant_id":"29133533321"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31358,7 +35307,7 @@
 "variant_id":"29133542985"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31435,7 +35384,7 @@
 "variant_id":"43590423904345"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31512,7 +35461,7 @@
 "variant_id":"43590827311193"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31589,7 +35538,7 @@
 "variant_id":"43590851297369"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31676,7 +35625,7 @@
 "variant_id":"41787226390617"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31753,7 +35702,7 @@
 "variant_id":"29133541513"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31830,7 +35779,7 @@
 "variant_id":"29130656649"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31907,7 +35856,7 @@
 "variant_id":"29133532361"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -31984,7 +35933,7 @@
 "variant_id":"13929958801497"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32061,7 +36010,7 @@
 "variant_id":"41843214876761"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32138,7 +36087,7 @@
 "variant_id":"29130655881"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32215,7 +36164,7 @@
 "variant_id":"29133533065"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32292,7 +36241,7 @@
 "variant_id":"29133555721"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32373,7 +36322,7 @@
 "variant_id":"29133556297"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32460,7 +36409,7 @@
 "variant_id":"40040358674521"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32538,7 +36487,7 @@
 "variant_id":"29133541833"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32615,7 +36564,7 @@
 "variant_id":"42652135227481"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -32694,7 +36643,7 @@
 "variant_id":"43635133481049"
 }
 ],
-"updated_at":"2026-11-02T14:39:16-05:00",
+"updated_at":"2026-11-02T14:59:26-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
