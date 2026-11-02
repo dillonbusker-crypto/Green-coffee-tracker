@@ -31,7 +31,7 @@ log = logging.getLogger("gct")
 
 RECENTLY_SOLD_OUT_DAYS = 14
 ALLOWED_SHIPS_FROM = {"US", "CA"}      # only suppliers shipping from the US or Canada
-RETAIL_MAX_LB = 1.1                    # a supplier must sell a size of 1 lb or less
+RETAIL_MAX_LB = 1.15                   # a supplier must sell a size of 1 lb (or 500 g) or less
 
 
 def supplier_rule_violation(mod, found) -> str | None:

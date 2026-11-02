@@ -248,6 +248,7 @@ function card(c){
   if(!c.in_stock) tags.push(`<span class="tag oosl">Sold out</span>`);
   if(c.process) tags.push(`<span class="tag proc">${esc(c.process)}</span>`);
   if(c.decaf) tags.push(`<span class="tag proc">Decaf</span>`);
+  if(c.currency && c.currency!=='USD') tags.push(`<span class="tag ws" title="Priced in ${esc(c.currency)}; shown converted to USD">${esc(c.currency)}→USD</span>`);
   for(const v of (c.varietals||[]).slice(0,3)) tags.push(`<span class="tag">${esc(v)}</span>`);
   for(const s of (c.size_classes||[])) tags.push(`<span class="tag size">${esc(SIZE_LABELS[s]||s)}</span>`);
   if(c.stale) tags.push(`<span class="tag ws" title="Supplier could not be reached on the last run">stale</span>`);

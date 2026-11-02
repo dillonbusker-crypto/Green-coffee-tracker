@@ -560,6 +560,7 @@ class Coffee:
     tags: list[str] = field(default_factory=list)
     first_seen: Optional[str] = None
     enriched: bool = False
+    currency: str = "USD"               # the store's own currency; prices are converted to USD
 
     # derived
     in_stock: bool = False

@@ -36,6 +36,20 @@ def probe(host: str) -> dict:
                                     else "wix" if "wix.com" in html.lower() else "unknown")
         except Exception as e2:  # noqa: BLE001
             out["homepage_error"] = f"{type(e2).__name__}: {str(e2)[:80]}"
+        if out.get("platform_hint") == "woocommerce":
+            try:
+                w = get(f"{base}/wp-json/wc/store/v1/products?per_page=100&page=1", retries=1, timeout=20, sleep=0)
+                items = w.json()
+                out["woo_store_api"] = True
+                out["woo_products_page1"] = len(items)
+                out["woo_total_header"] = w.headers.get("X-WP-Total")
+                out["woo_categories"] = dict(Counter(c.get("name") for it in items for c in it.get("categories", [])).most_common(12))
+                out["woo_samples"] = [f"{it.get('name')} | cats={[c.get('name') for c in it.get('categories', [])]} | "
+                                      f"price={it.get('prices', {}).get('price')} {it.get('prices', {}).get('currency_code')} | "
+                                      f"variations={len(it.get('variations', []))} | attrs={[a.get('name') + ':' + ','.join(t.get('name') for t in a.get('terms', [])[:4]) for a in it.get('attributes', [])][:3]} | "
+                                      f"in_stock={it.get('is_in_stock')}" for it in items[:8]]
+            except Exception as e3:  # noqa: BLE001
+                out["woo_store_api_error"] = f"{type(e3).__name__}: {str(e3)[:100]}"
         return out
     try:
         products = r.json().get("products", [])

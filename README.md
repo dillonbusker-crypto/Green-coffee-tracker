@@ -49,9 +49,18 @@ and the reason recorded in `meta.json`).
 | `captainscoffee` | The Captain's Coffee | Olympia, WA | Shopify, "green" keyword filter |
 | `thetaridge` | Theta Ridge Coffee | Indiana | Shopify, everything is green coffee |
 | `prodigal` | Prodigal Coffee | US | Shopify, "green" keyword filter (mostly roasted coffee, a few greens) |
+| `hacea` | Hacea Coffee Source | San Diego, CA | Shopify, product type "Coffee"; 500 g / 2 kg / 20 kg |
+| `happymug` | Happy Mug | Pennsylvania | Shopify; green coffees are typed by origin and sold by the pound (single default variant) |
+| `greenbeanery` | Green Beanery | Toronto, ON | Shopify, product type "Unroasted Beans"; 0.5/1/2/5 lb; priced in CAD, converted to USD at a fixed rate in `generic_shopify.py` |
 
 Kept but disabled because they only sell bulk: Royal Coffee (full bags, 22/50 lb boxes),
 Mill City Roasters (10 lb minimum), Showroom Coffee (2 lb minimum), Coffee Shrub.
+Disabled but ready if wanted (commodity-grade organic lots): Dean's Beans, Home Roast Coffee.
+Not Shopify, so they would need their own adapter: Burman Coffee Traders and Smokin' Beans
+(WooCommerce), Len's Coffee (BigCommerce), West Coast Coffee Traders (Squarespace).
+
+To check a new store before adding it, run the workflow with the `probe` input set to its
+host name; the job summary reports the platform, product types, sizes and sample titles.
 
 Add a Shopify store by appending to `STORES` in `generic_shopify.py`. Anything else gets its
 own module in `scraper/suppliers/` exposing `KEY`, `NAME` and `scrape()`.

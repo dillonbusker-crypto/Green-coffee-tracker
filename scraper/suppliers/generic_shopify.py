@@ -28,6 +28,20 @@ STORES: list[dict] = [
      "all_green": True, "enabled": True},
     {"key": "prodigal", "name": "Prodigal Coffee", "base": "https://getprodigal.com", "ships_from": "US",
      "all_green": False, "enabled": True},
+    {"key": "hacea", "name": "Hacea Coffee Source", "base": "https://haceacoffee.com", "ships_from": "US",
+     "all_green": True, "enabled": True, "product_types": ["Coffee"]},
+    {"key": "happymug", "name": "Happy Mug", "base": "https://happymugcoffee.com", "ships_from": "US",
+     "all_green": True, "enabled": True, "only_default_variant": True, "default_grams": 453.6,
+     "product_type_regex": r"^(africa|asia|central america|south america|indonesia|colombia|ethiopia|guatemala|brazil|kenya|"
+                           r"costa rica|honduras|el salvador|nicaragua|mexico|peru|panama|burundi|rwanda|tanzania|uganda|"
+                           r"sumatra|india|papua|yemen|bolivia|ecuador|decaf.*|green coffee)$"},
+    {"key": "greenbeanery", "name": "Green Beanery", "base": "https://greenbeanery.ca", "ships_from": "CA",
+     "all_green": True, "enabled": True, "product_types": ["Unroasted Beans"], "currency": "CAD",
+     "title_strip": r"^unroasted\s*[-–:]\s*"},
+    {"key": "deansbeans", "name": "Dean's Beans", "base": "https://deansbeans.com", "ships_from": "US",
+     "all_green": False, "enabled": False, "reason": "organic/fair-trade commodity lots rather than microlots; enable if wanted"},
+    {"key": "homeroastcoffee", "name": "Home Roast Coffee", "base": "https://homeroastcoffee.com", "ships_from": "US",
+     "all_green": True, "enabled": False, "product_types": ["Coffee Bean"], "reason": "commodity lots; enable if wanted"},
     {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "ships_from": "US",
      "all_green": True, "enabled": False, "reason": "2 lb minimum, no 1 lb size",
      "product_types": ["Coffee"], "title_style": "commas"},
@@ -38,6 +52,8 @@ STORES: list[dict] = [
 ]
 
 GREEN_RE = re.compile(r"\bgreen\b|unroasted|\braw\s+coffee", re.I)
+# Approximate conversion for stores that price in another currency; prices on the page are shown in USD.
+CURRENCY_TO_USD = {"USD": 1.0, "CAD": 0.72}
 EXCLUDE_RE = re.compile(
     r"roaster(?!y)|grinder|gift\s*card|t-?shirt|mug\b|book|burlap|jute|sack|sampler|sample\s*pack|filter|thermometer|"
     r"scale|kettle|brewer|press|chaff|cooling\s*tray|scoop|storage|container|subscription|membership|cupping\s*(?:kit|spoon|bowl)|"
@@ -55,6 +71,10 @@ def _make(store: dict) -> types.ModuleType:
     mod.SHIPS_FROM = store.get("ships_from", "?")
     all_green = store.get("all_green", False)
     product_types = {t.lower() for t in store.get("product_types", [])}
+    type_re = re.compile(store["product_type_regex"], re.I) if store.get("product_type_regex") else None
+    title_strip = re.compile(store["title_strip"], re.I) if store.get("title_strip") else None
+    currency = store.get("currency", "USD")
+    rate = CURRENCY_TO_USD.get(currency, 1.0)
 
     def is_green(p: dict) -> bool:
         title = p.get("title") or ""
@@ -63,6 +83,12 @@ def _make(store: dict) -> types.ModuleType:
         pt = p.get("product_type") or ""
         if product_types and pt.lower() not in product_types:
             return False
+        if type_re and not type_re.match(pt.strip()):
+            return False
+        if store.get("only_default_variant"):
+            vts = [(v.get("title") or "").strip().lower() for v in p.get("variants", [])]
+            if not vts or any(t not in ("default title", "default", "") for t in vts):
+                return False
         tags = " ".join(t for t in (p.get("tags") or []) if isinstance(t, str))
         if EXCLUDE_RE.search(pt) and not GREEN_RE.search(pt):
             return False
@@ -75,6 +101,8 @@ def _make(store: dict) -> types.ModuleType:
             return None
         title = clean_title(p.get("title", ""))
         title = re.sub(r"\s*[\(\[]?\s*(?:green|unroasted)\s+coffee\s*(?:beans?)?\s*[\)\]]?\s*", " ", title, flags=re.I).strip(" -–|,")
+        if title_strip:
+            title = title_strip.sub("", title).strip(" -–|,")
         body = html_to_text(p.get("body_html"))
         c = Coffee(
             id=f"{mod.KEY}:{p['id']}",
@@ -85,8 +113,13 @@ def _make(store: dict) -> types.ModuleType:
             image=product_image(p),
             updated_at=p.get("updated_at"),
             tags=[t for t in (p.get("tags") or []) if isinstance(t, str)][:12],
-            variants=shopify_variants(p),
+            variants=shopify_variants(p, default_grams=store.get("default_grams")),
+            currency=currency,
         )
+        if rate != 1.0:
+            for v in c.variants:
+                v.price = round(v.price * rate, 2)
+                v.finalize()
         if store.get("title_style") == "dashes":
             # "Colombia - Arnulfo Leguizamo - Finca La Primavera - Sidra - Washed" / "Brazil - Serra Negra, Natural"
             parts = [x.strip() for x in re.split(r"\s+-\s+|,\s+", title) if x.strip()]
