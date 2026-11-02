@@ -1,56 +1,42 @@
 {
-"generated_at":"2026-11-02T19:30:15+00:00",
-"count":511,
-"in_stock":511,
-"new_today":511,
+"generated_at":"2026-11-02T19:37:15+00:00",
+"count":269,
+"in_stock":269,
+"new_today":269,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
+"ships_from":"US",
 "count":88,
 "in_stock":88,
 "with_score":475,
 "error":null,
-"seconds":105.0,
+"seconds":115.0,
 "scraped":483
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
+"ships_from":"US",
 "count":48,
 "in_stock":48,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.6,
 "scraped":50
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
+"ships_from":"US",
 "count":51,
 "in_stock":51,
 "with_score":1,
 "error":null,
-"seconds":1.2,
+"seconds":1.1,
 "scraped":84
-},
-"royalcoffee":{
-"name":"Royal Coffee",
-"count":194,
-"in_stock":194,
-"with_score":0,
-"error":null,
-"seconds":56.8,
-"scraped":195
-},
-"showroom":{
-"name":"Showroom Coffee",
-"count":35,
-"in_stock":35,
-"with_score":0,
-"error":null,
-"seconds":1.7,
-"scraped":166
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
+"ships_from":"US",
 "count":52,
 "in_stock":52,
 "with_score":0,
@@ -60,6 +46,7 @@
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
+"ships_from":"US",
 "count":27,
 "in_stock":27,
 "with_score":0,
@@ -67,14 +54,15 @@
 "seconds":0.6,
 "scraped":29
 },
-"millcity":{
-"name":"Mill City Roasters",
-"count":16,
-"in_stock":16,
+"prodigal":{
+"name":"Prodigal Coffee",
+"ships_from":"US",
+"count":3,
+"in_stock":3,
 "with_score":0,
 "error":null,
-"seconds":1.0,
-"scraped":17
+"seconds":0.7,
+"scraped":3
 }
 },
 "size_labels":{
