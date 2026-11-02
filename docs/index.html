@@ -249,7 +249,6 @@ function card(c){
   if(c.decaf) tags.push(`<span class="tag proc">Decaf</span>`);
   for(const v of (c.varietals||[]).slice(0,3)) tags.push(`<span class="tag">${esc(v)}</span>`);
   for(const s of (c.size_classes||[])) tags.push(`<span class="tag size">${esc(SIZE_LABELS[s]||s)}</span>`);
-  if(c.wholesale) tags.push(`<span class="tag ws">wholesale</span>`);
   if(c.stale) tags.push(`<span class="tag ws" title="Supplier could not be reached on the last run">stale</span>`);
   const ppl = c.min_price_per_lb;
   el.innerHTML = `

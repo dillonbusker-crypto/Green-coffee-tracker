@@ -17,6 +17,8 @@ log = logging.getLogger("gct.royalcoffee")
 
 KEY = "royalcoffee"
 NAME = "Royal Coffee"
+SHIPS_FROM = "US"
+ENABLED = False  # wholesale only: full bags and 22/50 lb boxes, no 1 lb size
 BASE = "https://royalcoffee.com"
 
 EXCLUDE_RE = re.compile(r"gift\s*card|merch|t-?shirt|hat\b|tote|mug|book|sample\s*set|membership|subscription|donation|class|course|ticket", re.I)

@@ -36,13 +36,21 @@ process, cupping score and bag size, an in-stock toggle, and sorting by $/lb or 
 
 ## Suppliers
 
-| key | supplier | notes |
-|---|---|---|
-| `sweetmarias` | Sweet Maria's | `product_type == "Green Coffee"`; country from `Category_…` tags; score/varietal/process scraped from the product page; `Category_Coffee Shrub` tags mark lots also sold wholesale |
-| `bodhileaf` | Bodhi Leaf | titles contain "(Green Coffee)"; specs parsed from description prose; no scores |
-| `coffeebeancorral` | Coffee Bean Corral | Shopify; equipment filtered out by title/type |
-| `royalcoffee` | Royal Coffee | importer; full bags priced per lb are normalised, Crown Jewel 22 lb boxes priced per box |
-| `showroom`, `captainscoffee`, `thetaridge`, `millcity` | extra Shopify stores | config-driven adapter in `scraper/suppliers/generic_shopify.py`; strict "green/unroasted" keyword filter |
+Two rules decide who is included, and `scraper/scrape.py` enforces both on every run:
+the supplier ships from the US or Canada (`SHIPS_FROM` on each adapter), and it sells a
+1 lb or smaller size (a supplier whose listings have no variant of 1 lb or less is dropped
+and the reason recorded in `meta.json`).
+
+| key | supplier | ships from | notes |
+|---|---|---|---|
+| `sweetmarias` | Sweet Maria's | Oakland, CA | `product_type == "Green Coffee"`; country from `Category_…` tags; score/varietal/process scraped from the product page and cached |
+| `bodhileaf` | Bodhi Leaf | Orange, CA | titles contain "(Green Coffee)"; specs parsed from description prose; no scores |
+| `coffeebeancorral` | Coffee Bean Corral | Mississippi | green product types only; "Country: Name, Region" titles |
+| `captainscoffee` | The Captain's Coffee | Olympia, WA | Shopify, "green" keyword filter |
+| `thetaridge` | Theta Ridge Coffee | Indiana | Shopify, everything is green coffee |
+
+Kept but disabled because they only sell bulk: Royal Coffee (full bags, 22/50 lb boxes),
+Mill City Roasters (10 lb minimum), Showroom Coffee (2 lb minimum), Coffee Shrub.
 
 Add a Shopify store by appending to `STORES` in `generic_shopify.py`. Anything else gets its
 own module in `scraper/suppliers/` exposing `KEY`, `NAME` and `scrape()`.

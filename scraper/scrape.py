@@ -30,6 +30,16 @@ log = logging.getLogger("gct")
 
 
 RECENTLY_SOLD_OUT_DAYS = 14
+ALLOWED_SHIPS_FROM = {"US", "CA"}      # only suppliers shipping from the US or Canada
+RETAIL_MAX_LB = 1.1                    # a supplier must sell a size of 1 lb or less
+
+
+def supplier_rule_violation(mod, found) -> str | None:
+    if getattr(mod, "SHIPS_FROM", "?") not in ALLOWED_SHIPS_FROM:
+        return f"ships from {getattr(mod, 'SHIPS_FROM', 'unknown')}, not US/CA"
+    if found and not any(v.lb and v.lb <= RETAIL_MAX_LB for c in found for v in c.variants):
+        return "no 1 lb offerings (bulk only)"
+    return None
 
 
 def keep_listing(c, prev: dict | None, today: str) -> bool:
@@ -99,10 +109,16 @@ def main() -> int:
         if only and mod.KEY not in only:
             continue
         t0 = time.time()
-        entry = {"name": mod.NAME, "count": 0, "in_stock": 0, "with_score": 0, "error": None, "seconds": 0}
+        entry = {"name": mod.NAME, "ships_from": getattr(mod, "SHIPS_FROM", "?"), "count": 0, "in_stock": 0,
+                 "with_score": 0, "error": None, "seconds": 0}
         try:
             found = mod.scrape()
             entry["scraped"] = len(found)
+            violation = supplier_rule_violation(mod, found)
+            if violation:
+                log.error("supplier %s excluded: %s", mod.KEY, violation)
+                entry["excluded"] = violation
+                found = []
             entry["in_stock"] = sum(1 for c in found if c.in_stock)
             entry["with_score"] = sum(1 for c in found if c.score)
             found = [c for c in found if keep_listing(c, previous.get(c.id), today)]

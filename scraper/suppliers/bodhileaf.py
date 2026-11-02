@@ -14,6 +14,7 @@ log = logging.getLogger("gct.bodhileaf")
 
 KEY = "bodhileaf"
 NAME = "Bodhi Leaf"
+SHIPS_FROM = "US"
 BASE = "https://www.bodhileafcoffee.com"
 _GREEN_RE = re.compile(r"\(\s*green\s+coffee\s*\)|\bgreen\s+coffee\b|\bunroasted\b", re.I)
 

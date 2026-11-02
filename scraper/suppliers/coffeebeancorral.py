@@ -16,6 +16,7 @@ log = logging.getLogger("gct.coffeebeancorral")
 
 KEY = "coffeebeancorral"
 NAME = "Coffee Bean Corral"
+SHIPS_FROM = "US"
 BASE = "https://www.coffeebeancorral.com"
 
 EXCLUDE_RE = re.compile(

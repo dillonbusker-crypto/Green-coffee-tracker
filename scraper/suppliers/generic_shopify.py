@@ -18,15 +18,21 @@ from common import (Coffee, clean_title, detect_country, detect_process, detect_
 
 log = logging.getLogger("gct.generic")
 
+# Rules for inclusion: ships from the US or Canada, and sells 1 lb (or smaller) sizes. Stores that only sell
+# bulk stay here disabled so their parsing is kept, and scrape.py double-checks both rules at run time.
 STORES: list[dict] = [
-    # key, name, base url, all_green (skip keyword filter), enabled
-    {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "all_green": True, "enabled": True,
+    # key, name, base url, ships_from, all_green (skip keyword filter), enabled
+    {"key": "captainscoffee", "name": "The Captain's Coffee", "base": "https://thecaptainscoffee.com", "ships_from": "US",
+     "all_green": False, "enabled": True},
+    {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "ships_from": "US",
+     "all_green": True, "enabled": True},
+    {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "ships_from": "US",
+     "all_green": True, "enabled": False, "reason": "2 lb minimum, no 1 lb size",
      "product_types": ["Coffee"], "title_style": "commas"},
-    {"key": "captainscoffee", "name": "The Captain's Coffee", "base": "https://thecaptainscoffee.com", "all_green": False, "enabled": True},
-    {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "all_green": True, "enabled": True},
-    {"key": "millcity", "name": "Mill City Roasters", "base": "https://millcityroasters.com", "all_green": False, "enabled": True,
-     "title_style": "dashes"},
-    {"key": "coffeeshrub", "name": "Coffee Shrub", "base": "https://www.coffeeshrub.com", "all_green": False, "enabled": False},
+    {"key": "millcity", "name": "Mill City Roasters", "base": "https://millcityroasters.com", "ships_from": "US",
+     "all_green": False, "enabled": False, "reason": "10 lb minimum, no 1 lb size", "title_style": "dashes"},
+    {"key": "coffeeshrub", "name": "Coffee Shrub", "base": "https://www.coffeeshrub.com", "ships_from": "US",
+     "all_green": False, "enabled": False, "reason": "Sweet Maria's wholesale arm, bulk only"},
 ]
 
 GREEN_RE = re.compile(r"\bgreen\b|unroasted|\braw\s+coffee", re.I)
@@ -44,6 +50,7 @@ def _make(store: dict) -> types.ModuleType:
     mod.KEY = store["key"]
     mod.NAME = store["name"]
     mod.BASE = store["base"]
+    mod.SHIPS_FROM = store.get("ships_from", "?")
     all_green = store.get("all_green", False)
     product_types = {t.lower() for t in store.get("product_types", [])}
 

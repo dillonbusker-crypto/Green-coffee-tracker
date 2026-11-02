@@ -20,6 +20,7 @@ log = logging.getLogger("gct.sweetmarias")
 
 KEY = "sweetmarias"
 NAME = "Sweet Maria's"
+SHIPS_FROM = "US"
 BASE = "https://www.sweetmarias.com"
 FETCH_PAGES = True  # set False in tests
 
