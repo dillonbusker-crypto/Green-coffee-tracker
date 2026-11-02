@@ -1,0 +1,415 @@
+{
+"product_type_counts":{
+"Roasted Coffee":19,
+"":29,
+"Venting":25,
+"Green Coffee":19,
+"Roastery Equipment":60,
+"Roasters":5,
+"Equipment Component":11,
+"Accessories":2,
+"Replacement Parts":4,
+"Books":6,
+"Cleaning Products":7,
+"Packaging & Wares":7,
+"Apparel":6,
+"Lubricants":2
+},
+"products":[
+{
+"id":7076440997959,
+"title":"Ethiopia - Yirgacheffe Chelchele, Washed",
+"handle":"ethiopia-yirgacheffe-chelchele-washed-1",
+"body_html":"<p>Floral and bright with notes of peach, jasmine, and mixed berries</p>",
+"published_at":"2026-11-02T12:47:03-06:00",
+"created_at":"2024-06-11T15:55:06-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"Roasted Coffee",
+"tags":[],
+"variants":[
+{
+"id":40992974962759,
+"title":"Light",
+"option1":"Light",
+"option2":null,
+"option3":null,
+"sku":"RC-529",
+"requires_shipping":true,
+"taxable":false,
+"featured_image":null,
+"available":true,
+"price":"13.75",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":7076440997959,
+"created_at":"2024-06-11T15:55:06-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":29465117786183,
+"created_at":"2023-10-03T12:52:39-05:00",
+"position":1,
+"updated_at":"2023-10-03T12:52:41-05:00",
+"product_id":7076440997959,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/ethiopia-toll-5lb-bag_76f93628-adcf-4d5a-af52-0b143e6d5807.jpg?v=1696355561",
+"width":1389,
+"height":1390
+}
+],
+"options":[
+{
+"name":"Roast Level",
+"position":1,
+"values":[
+"Light"
+]
+}
+]
+},
+{
+"id":7311470788679,
+"title":"Hibernate Holiday Blend",
+"handle":"blend-hibernate-holiday-blend",
+"body_html":"<p><meta charset=\"utf-8\">Round and cozy with notes of fudge, mixed berries, and red wine</p>",
+"published_at":"2026-11-02T08:44:27-06:00",
+"created_at":"2025-10-13T13:04:23-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"Roasted Coffee",
+"tags":[],
+"variants":[
+{
+"id":42091773984839,
+"title":"Medium",
+"option1":"Medium",
+"option2":null,
+"option3":null,
+"sku":"RC-510",
+"requires_shipping":true,
+"taxable":false,
+"featured_image":null,
+"available":true,
+"price":"12.95",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":7311470788679,
+"created_at":"2025-10-13T13:04:23-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":32312462147655,
+"created_at":"2025-10-13T13:06:56-05:00",
+"position":1,
+"updated_at":"2025-10-13T13:06:58-05:00",
+"product_id":7311470788679,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/hibernate-toll-5lb-bag_77467824-7a2d-4c05-8ba0-1b21d402406a.jpg?v=1760378818",
+"width":1390,
+"height":1390
+}
+],
+"options":[
+{
+"name":"Roast Level",
+"position":1,
+"values":[
+"Medium"
+]
+}
+]
+},
+{
+"id":9141269168199,
+"title":"Snowblind Holiday Blend",
+"handle":"blend-snowblind-holiday-blend",
+"body_html":"<p><meta charset=\"utf-8\">Crisp and lively with notes of key lime, hibiscus, and honey<br></p>",
+"published_at":"2026-11-02T08:43:55-06:00",
+"created_at":"2026-11-02T08:33:20-06:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"Roasted Coffee",
+"tags":[],
+"variants":[
+{
+"id":49966222344263,
+"title":"Light",
+"option1":"Light",
+"option2":null,
+"option3":null,
+"sku":"RC-500",
+"requires_shipping":true,
+"taxable":false,
+"featured_image":null,
+"available":true,
+"price":"12.95",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":9141269168199,
+"created_at":"2026-11-02T08:33:20-06:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":35158195404871,
+"created_at":"2026-11-02T08:34:49-06:00",
+"position":1,
+"updated_at":"2026-11-02T08:34:51-06:00",
+"product_id":9141269168199,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/snowblind-toll-5lb-bag_d528e030-00c9-4470-8ada-4b9ade1c370e.jpg?v=1793630091",
+"width":1390,
+"height":1390
+}
+],
+"options":[
+{
+"name":"Roast Level",
+"position":1,
+"values":[
+"Light"
+]
+}
+]
+},
+{
+"id":9112309989447,
+"title":"Colombia - Carlos Sequera Finca La Esperanza Pink Bourbon, Washed",
+"handle":"colombia-carlos-sequera-finca-la-esperanza-pink-bourbon-washed-1",
+"body_html":"<p data-pm-slice=\"1 1 []\">Candy-like sweetness and winey acidity. Notes of Lychee, dried strawberry, and hibiscus.</p>",
+"published_at":"2026-10-22T15:44:38-05:00",
+"created_at":"2026-10-22T14:26:19-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"Roasted Coffee",
+"tags":[],
+"variants":[
+{
+"id":49861264048199,
+"title":"Light",
+"option1":"Light",
+"option2":null,
+"option3":null,
+"sku":"RC-496",
+"requires_shipping":true,
+"taxable":false,
+"featured_image":null,
+"available":true,
+"price":"15.85",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":9112309989447,
+"created_at":"2026-10-22T14:26:20-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":29931841290311,
+"created_at":"2024-03-20T15:06:26-05:00",
+"position":1,
+"updated_at":"2024-03-20T15:06:26-05:00",
+"product_id":9112309989447,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/colombia-toll-5lb-bag_d29e5263-0d8d-4f93-a5c3-ec6795535343.jpg?v=1710965186",
+"width":1390,
+"height":1390
+}
+],
+"options":[
+{
+"name":"Roast Level",
+"position":1,
+"values":[
+"Light"
+]
+}
+]
+},
+{
+"id":9108723564615,
+"title":"Private - Crest Coffee Roasters",
+"handle":"private-crest-coffee-roasters",
+"body_html":"<p>Hi Crest Coffee! This is your private ordering page for your medium roast Brazil, packaged in 5lb bags. Case size information is below.</p>",
+"published_at":"2026-10-21T13:48:07-05:00",
+"created_at":"2026-10-21T09:43:45-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"",
+"tags":[],
+"variants":[
+{
+"id":49846869917767,
+"title":"Full case / Brazil Serra Negra Natural - Medium Roast",
+"option1":"Full case",
+"option2":"Brazil Serra Negra Natural - Medium Roast",
+"option3":null,
+"sku":"RC-CREST-BRA-FC",
+"requires_shipping":true,
+"taxable":false,
+"featured_image":null,
+"available":true,
+"price":"415.94",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":9108723564615,
+"created_at":"2026-10-21T09:43:45-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":34980112990279,
+"created_at":"2026-10-21T15:06:05-05:00",
+"position":1,
+"updated_at":"2026-10-21T15:06:07-05:00",
+"product_id":9108723564615,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/CrestCoffeeBag.jpg?v=1792613167",
+"width":1836,
+"height":2494
+}
+],
+"options":[
+{
+"name":"Case Size",
+"position":1,
+"values":[
+"Full case"
+]
+},
+{
+"name":"Coffee",
+"position":2,
+"values":[
+"Brazil Serra Negra Natural - Medium Roast"
+]
+}
+]
+},
+{
+"id":9092353327175,
+"title":"Quick-Connect Kits for M-Series MCR-6, MCR-10, and MCR-20",
+"handle":"quick-connect-kits-for-m-series-mcr-6-mcr-10-and-mcr-20",
+"body_html":"<p><span>The Quick-Connect Kits for the M-Series offer owners a way to quickly gang your two exhausts into one line if you are venting your coffee roaster through the roof.</span></p>\n<ul>\n<li><span>Our kits are designed for current models of M-Series Coffee Roasters. If you have a previous generation model, contact us to get the correct kit. </span></li>\n<li><span>All stainless steel venting pipe, elbows and wye branch with heavy-duty, two-part clamps.</span></li>\n<li><span>Made in the USA</span></li>\n</ul>\n<p><span>These parts will often have long lead times of up to 5 weeks. </span></p>",
+"published_at":"2026-10-13T17:43:28-05:00",
+"created_at":"2026-10-13T17:25:16-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00",
+"vendor":"Mill City Roasters®",
+"product_type":"Venting",
+"tags":[],
+"variants":[
+{
+"id":49767160381511,
+"title":"MCR-6 (M-Series) / Layout G",
+"option1":"MCR-6 (M-Series)",
+"option2":"Layout G",
+"option3":null,
+"sku":"VK-6M-G",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"1960.00",
+"grams":0,
+"compare_at_price":null,
+"position":1,
+"product_id":9092353327175,
+"created_at":"2026-10-13T17:25:16-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+},
+{
+"id":49767160414279,
+"title":"MCR-10 (M-Series) / Layout G",
+"option1":"MCR-10 (M-Series)",
+"option2":"Layout G",
+"option3":null,
+"sku":"VK-10M-G",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"2060.00",
+"grams":0,
+"compare_at_price":null,
+"position":2,
+"product_id":9092353327175,
+"created_at":"2026-10-13T17:25:16-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+},
+{
+"id":49767160447047,
+"title":"MCR-20 (M-Series) / Layout G",
+"option1":"MCR-20 (M-Series)",
+"option2":"Layout G",
+"option3":null,
+"sku":"VK-20M-G",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"2260.00",
+"grams":0,
+"compare_at_price":null,
+"position":3,
+"product_id":9092353327175,
+"created_at":"2026-10-13T17:25:16-05:00",
+"updated_at":"2026-11-02T13:26:54-06:00"
+}
+],
+"images":[
+{
+"id":34881854996551,
+"created_at":"2026-10-13T17:25:25-05:00",
+"position":1,
+"updated_at":"2026-10-13T17:25:27-05:00",
+"product_id":9092353327175,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/Coffee-roaster-quick-connect-venting-6-10.jpg?v=1791930327",
+"width":1000,
+"height":1000
+},
+{
+"id":34881874231367,
+"created_at":"2026-10-13T17:32:21-05:00",
+"position":2,
+"updated_at":"2026-10-13T17:32:23-05:00",
+"product_id":9092353327175,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0552/1011/5143/files/Coffee-roaster-quick-connect-venting-RR-6-10.jpg?v=1791930743",
+"width":1000,
+"height":1000
+}
+],
+"options":[
+{
+"name":"Coffee Roaster Model",
+"position":1,
+"values":[
+"MCR-6 (M-Series)",
+"MCR-10 (M-Series)",
+"MCR-20 (M-Series)"
+]
+},
+{
+"name":"Layout",
+"position":2,
+"values":[
+"Layout G"
+]
+}
+]
+}
+]
+}

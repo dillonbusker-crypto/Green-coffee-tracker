@@ -1,0 +1,744 @@
+{
+"product_type_counts":{
+"":21,
+"Green Coffee":361,
+"Roasters":10,
+"Coffee Tray":1,
+"Supplies":3,
+"Brewers":21,
+"Hats":2,
+"Shirts":9,
+"Sweatshirts":1,
+"Hoodies":2,
+"Mugs":1,
+"Grinders":8,
+"Scale":3,
+"Gift Cards":1
+},
+"products":[
+{
+"id":9521253417049,
+"title":"Colombia Honey Aponte",
+"handle":"colombia-honey-aponte",
+"body_html":"<p class=\"isSelectedEnd\"><em>From the high-altitude mountains of Aponte, Nariño, Colombia, this exceptional Honey-Processed coffee is produced by smallholder indigenous growers working at elevations between 1,700 and 2,100 meters.</em></p>\n<p class=\"isSelectedEnd\"><em>The Honey process brings together the clarity of a washed coffee with the sweetness and fruit character often associated with natural processing. In the cup, expect a bright and juicy profile with notes of <strong>grapefruit, guava, stone fruit, and caramel</strong>, followed by a smooth sweetness and balanced finish.</em></p>\n<p><em>This is a beautiful representation of specialty coffee from Nariño high grown, vibrant, sweet, and complex, with a distinctive fruit-forward character that makes it a great choice for anyone looking to explore something beyond a traditional Colombian profile`</em></p>\n<p><em>Some of our crew in Captain's Coffee that cupped the Aponte Honey lot reported profiles including <strong data-start=\"1547\" data-end=\"1649\">apricot, peach, marzipan, floral notes, red apple, blood orange, treacle, and honey-like sweetness</strong>.</em></p>",
+"published_at":"2026-09-29T09:42:18-04:00",
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"De La Finca Coffee",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Balanced",
+"Bright",
+"Caramel",
+"Clean",
+"Colombia",
+"Floral",
+"Fruit",
+"Grape",
+"Honey",
+"Light",
+"Light-Medium",
+"Medium",
+"Medium-Light",
+"Rich"
+],
+"variants":[
+{
+"id":47346863767641,
+"title":"1 lb - $ $9.95/lb",
+"option1":"1 lb - $ $9.95/lb",
+"option2":null,
+"option3":null,
+"sku":"CHAC",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"9.95",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":9521253417049,
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47346863800409,
+"title":"3 lbs - $9.85/lb",
+"option1":"3 lbs - $9.85/lb",
+"option2":null,
+"option3":null,
+"sku":"CHAC-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"29.55",
+"grams":1361,
+"compare_at_price":null,
+"position":2,
+"product_id":9521253417049,
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47346863833177,
+"title":"5 lbs - $9.75/lb",
+"option1":"5 lbs - $9.75/lb",
+"option2":null,
+"option3":null,
+"sku":"CHAC-5",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"48.75",
+"grams":2291,
+"compare_at_price":null,
+"position":3,
+"product_id":9521253417049,
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47346863865945,
+"title":"10 lbs - $9.65/lb",
+"option1":"10 lbs - $9.65/lb",
+"option2":null,
+"option3":null,
+"sku":"CHAC-10",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"96.50",
+"grams":4581,
+"compare_at_price":null,
+"position":4,
+"product_id":9521253417049,
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47346863898713,
+"title":"20 lbs - $9.55/lb",
+"option1":"20 lbs - $9.55/lb",
+"option2":null,
+"option3":null,
+"sku":"CHAC-20",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"9.55",
+"grams":9163,
+"compare_at_price":null,
+"position":5,
+"product_id":9521253417049,
+"created_at":"2026-09-29T07:23:34-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37448826781785,
+"created_at":"2026-09-29T08:14:22-04:00",
+"position":1,
+"updated_at":"2026-09-29T08:14:23-04:00",
+"product_id":9521253417049,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/1_e2e7e291-fa6b-4bfa-86ca-ec9504b2df9a.png?v=1790684063",
+"width":720,
+"height":720
+},
+{
+"id":37448831205465,
+"created_at":"2026-09-29T08:14:36-04:00",
+"position":2,
+"updated_at":"2026-09-29T08:14:38-04:00",
+"product_id":9521253417049,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/Aponte.png?v=1790684078",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $ $9.95/lb",
+"3 lbs - $9.85/lb",
+"5 lbs - $9.75/lb",
+"10 lbs - $9.65/lb",
+"20 lbs - $9.55/lb"
+]
+}
+]
+},
+{
+"id":9521388847193,
+"title":"Brazil Lagoinha Farm Yellow Bourbon",
+"handle":"brazil-lagoinha-farm-yellow-bourbon",
+"body_html":"<p><em>A beautifully selected Yellow Bourbon from Lagoinha Farm in Brazil, showcasing the naturally sweet and balanced character for which Brazilian specialty coffees are known. This coffee offers a smooth, rounded cup with a pleasant sweetness, approachable acidity and a rich, satisfying mouthfeel. A great choice for coffee drinkers who enjoy a classic Brazilian profile with added complexity and refinement.</em></p>",
+"published_at":"2026-09-29T09:41:53-04:00",
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"De La Finca Coffee",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Balanced",
+"Brazil",
+"Caramel",
+"Chocolate",
+"Clean",
+"Grape",
+"Light",
+"Light-Medium",
+"Medium",
+"Medium-Dark",
+"Medium-Light",
+"Milk Chocolate",
+"Natural"
+],
+"variants":[
+{
+"id":47347318718553,
+"title":"1 lb - $9.49/lb",
+"option1":"1 lb - $9.49/lb",
+"option2":null,
+"option3":null,
+"sku":"BLFYB",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"9.49",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":9521388847193,
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47347318751321,
+"title":"3 lbs - $9.34/lb",
+"option1":"3 lbs - $9.34/lb",
+"option2":null,
+"option3":null,
+"sku":"BLFYB-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"28.02",
+"grams":1374,
+"compare_at_price":null,
+"position":2,
+"product_id":9521388847193,
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47347318784089,
+"title":"5 lbs - $9.19/lb",
+"option1":"5 lbs - $9.19/lb",
+"option2":null,
+"option3":null,
+"sku":"BLFYB-5",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"45.95",
+"grams":2291,
+"compare_at_price":null,
+"position":3,
+"product_id":9521388847193,
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47347318816857,
+"title":"10 lbs - $9.04/lb",
+"option1":"10 lbs - $9.04/lb",
+"option2":null,
+"option3":null,
+"sku":"BLFYB-10",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"90.40",
+"grams":4581,
+"compare_at_price":null,
+"position":4,
+"product_id":9521388847193,
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47347318849625,
+"title":"20 lbs - $8.89/lb",
+"option1":"20 lbs - $8.89/lb",
+"option2":null,
+"option3":null,
+"sku":"BLFYB-20",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"177.80",
+"grams":9163,
+"compare_at_price":null,
+"position":5,
+"product_id":9521388847193,
+"created_at":"2026-09-29T08:41:49-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37449933258841,
+"created_at":"2026-09-29T09:36:57-04:00",
+"position":1,
+"updated_at":"2026-09-29T09:36:58-04:00",
+"product_id":9521388847193,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/1_e451d096-be54-4942-a86c-a248aac02e63.png?v=1790689018",
+"width":720,
+"height":720
+},
+{
+"id":31609388367961,
+"created_at":"2023-05-18T09:34:10-04:00",
+"position":2,
+"updated_at":"2024-04-06T17:31:48-04:00",
+"product_id":9521388847193,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/BrazilFazendaVilaBoaAnaerobicNaturalscaled5.png?v=1712439108",
+"width":720,
+"height":720
+},
+{
+"id":31607516168281,
+"created_at":"2023-05-17T15:49:12-04:00",
+"position":3,
+"updated_at":"2024-04-06T17:31:48-04:00",
+"product_id":9521388847193,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/BrazilFazendaVilaBoaAnaerobicNaturalscaled6.png?v=1712439108",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $9.49/lb",
+"3 lbs - $9.34/lb",
+"5 lbs - $9.19/lb",
+"10 lbs - $9.04/lb",
+"20 lbs - $8.89/lb"
+]
+}
+]
+},
+{
+"id":9514894131289,
+"title":"Jairo Arcila Santa Monica Honey Pink Bourbon (Tartaric Acid / Cinnamon)",
+"handle":"jairo-arcila-santa-monica-honey-pink-bourbon-tartaric-acid-cinnamon",
+"body_html":"<p dir=\"auto\" class=\"PDq2pG_selectionAnchorContainer\"><em>The ripe Pink Bourbon cherries undergo a <strong>dry anaerobic fermentation</strong>. During the fermentation, <strong>tartaric acid and organic cinnamon are introduced into the fermentation environment</strong>. Documented versions of this coffee report either <strong>48 or 72 hours</strong>, depending on the specific lot. After fermentation, the cherries are pulped and the coffee is dried slowly on raised beds. <span class=\"contents\"><span class=\"\"></span></span><span class=\"PDq2pG_selectionAnchor\"></span></em></p>\n<p dir=\"auto\"><em>The <strong>honey process does NOT mean honey is added</strong>. It refers to leaving some of the sticky mucilage on the seed after pulping while the coffee dries.</em></p>\n<p dir=\"auto\"><em>Tartaric acid is naturally associated with grapes and wine. In controlled coffee fermentation, it can help push the cup toward <strong>brighter fruit, wine-like acidity and greater aromatic definition</strong>.</em></p>\n<p><em><strong>Very limited. Very special. Don’t wait too long!</strong> </em></p>\n<p> </p>",
+"published_at":"2026-09-24T10:09:18-04:00",
+"created_at":"2026-09-24T05:40:11-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"Cofinet",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Berries",
+"Bright",
+"Clean",
+"Colombia",
+"Complex",
+"Fruit",
+"Honey",
+"Light",
+"Light-Medium",
+"Pink Bourbon",
+"Rich",
+"Sweet"
+],
+"variants":[
+{
+"id":47326356373593,
+"title":"1 lb - $ $19.89/lb",
+"option1":"1 lb - $ $19.89/lb",
+"option2":null,
+"option3":null,
+"sku":"JAHPB",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"19.89",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":9514894131289,
+"created_at":"2026-09-24T05:40:12-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47326356406361,
+"title":"3 lbs - $19.74/lb",
+"option1":"3 lbs - $19.74/lb",
+"option2":null,
+"option3":null,
+"sku":"JAHPB-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"59.22",
+"grams":1374,
+"compare_at_price":null,
+"position":2,
+"product_id":9514894131289,
+"created_at":"2026-09-24T05:40:12-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37401527451737,
+"created_at":"2026-09-24T08:51:14-04:00",
+"position":1,
+"updated_at":"2026-09-24T08:51:15-04:00",
+"product_id":9514894131289,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/PinkBourbon.png?v=1790254275",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $ $19.89/lb",
+"3 lbs - $19.74/lb"
+]
+}
+]
+},
+{
+"id":9514891149401,
+"title":"Jairo Arcila Santa Monica Washed Castillo (Wine Castillo / Lychee)",
+"handle":"jairo-arcila-santa-monica-washed-castillo-wine-castillo-lychee",
+"body_html":"<p class=\"isSelectedEnd\"><em>The <strong>Jairo Arcila Santa Monica Washed Castillo – Wine Yeast / Lychee</strong> is one of the more expressive co-fermented coffees from Finca Santa Monica.</em></p>\n<p class=\"isSelectedEnd\"><em>The ripe coffee cherries are carefully selected and fermented in a low-oxygen environment. During fermentation, <strong>lychee and wine yeast are added</strong>. After fermentation, the coffee is <strong>washed and dried on raised beds</strong>. That washed finish is important because it gives the coffee considerably more clarity than some of Arcila's heavier honey or natural co-ferments. <span class=\"contents\"><span class=\"\"></span></span><span class=\"PDq2pG_selectionAnchor\"></span></em></p>\n<p dir=\"auto\"><em>The wine yeast helps convert sugars during fermentation and contributes additional aromatic compounds, while the lychee brings a very distinctive tropical/floral character</em></p>\n<p><em><strong>Very limited. Very special. Don’t wait too long!</strong> </em></p>",
+"published_at":"2026-09-24T10:09:17-04:00",
+"created_at":"2026-09-24T05:39:07-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"Cofinet",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Bright",
+"Clean",
+"Colombia",
+"Complex",
+"Grape",
+"Light",
+"Light-Medium",
+"Lychee",
+"Rich",
+"Sweet"
+],
+"variants":[
+{
+"id":47326339498073,
+"title":"1 lb - $ $19.49/lb",
+"option1":"1 lb - $ $19.49/lb",
+"option2":null,
+"option3":null,
+"sku":"JAWCL",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"19.49",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":9514891149401,
+"created_at":"2026-09-24T05:39:07-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47326339530841,
+"title":"3 lbs - $19.34/lb",
+"option1":"3 lbs - $19.34/lb",
+"option2":null,
+"option3":null,
+"sku":"JAWCL-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"58.02",
+"grams":1374,
+"compare_at_price":null,
+"position":2,
+"product_id":9514891149401,
+"created_at":"2026-09-24T05:39:07-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37402283901017,
+"created_at":"2026-09-24T09:42:52-04:00",
+"position":1,
+"updated_at":"2026-09-24T09:42:54-04:00",
+"product_id":9514891149401,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/Lychee_020d646f-32d0-4063-a154-86bfa4073fe0.png?v=1790257374",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $ $19.49/lb",
+"3 lbs - $19.34/lb"
+]
+}
+]
+},
+{
+"id":9514888265817,
+"title":"Sebastian Gomez La Divisa Natural Gesha",
+"handle":"sebastian-gomez-la-divisa-natural-gesha",
+"body_html":"<p class=\"isSelectedEnd\"><em>If you know Gesha, you know this is a coffee worth paying attention to.</em></p>\n<p class=\"isSelectedEnd\"><em>Produced by Sebastián Gómez at his family farm, <strong>Finca La Divisa</strong>, in the highlands of Circasia, Quindío, Colombia, this 100% Gesha microlot represents the combination of exceptional genetics, high elevation, careful harvesting, and meticulous processing.</em></p>\n<p><em>The cherries are selectively hand-picked at peak ripeness and carefully sorted before being naturally processed and slowly dried. The result is an expressive and complex cup with beautiful floral aromatics and vibrant fruit character.</em></p>\n<p><em><strong><em>Very limited</em>. Very special. Don’t wait too long!</strong> </em></p>",
+"published_at":"2026-09-24T10:09:16-04:00",
+"created_at":"2026-09-24T05:37:23-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"Cofinet",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Berries",
+"Bright",
+"Chocolate",
+"Clean",
+"Colombia",
+"Complex",
+"Fruit",
+"Gesha",
+"Light",
+"Light-Medium",
+"Passion Fruit",
+"Red Apple",
+"Red Fruit",
+"Rich",
+"Sweet",
+"Tropical Fruit"
+],
+"variants":[
+{
+"id":47326337171545,
+"title":"1 lb - $ $27.19/lb",
+"option1":"1 lb - $ $27.19/lb",
+"option2":null,
+"option3":null,
+"sku":"SGNG",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"27.19",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":9514888265817,
+"created_at":"2026-09-24T05:37:23-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":47326337204313,
+"title":"3 lbs - $27.04/lb",
+"option1":"3 lbs - $27.04/lb",
+"option2":null,
+"option3":null,
+"sku":"SGNG-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"81.12",
+"grams":1374,
+"compare_at_price":null,
+"position":2,
+"product_id":9514888265817,
+"created_at":"2026-09-24T05:37:23-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37401309380697,
+"created_at":"2026-09-24T07:06:45-04:00",
+"position":1,
+"updated_at":"2026-09-24T07:06:46-04:00",
+"product_id":9514888265817,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/NaturalGesha.png?v=1790248006",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $ $27.19/lb",
+"3 lbs - $27.04/lb"
+]
+}
+]
+},
+{
+"id":8396881199193,
+"title":"Jairo Arcila Natural Geisha Carbonic Maceration",
+"handle":"jairo-arcila-natural-gesha-carbonic-maceration",
+"body_html":"<p class=\"isSelectedEnd\"><em>If you know, you know and <strong>this coffee is truly something special!</strong></em></p>\n<p class=\"isSelectedEnd\"><em>We were fortunate enough to receive a <strong>very limited quantity</strong> of this exceptional coffee. Once it’s gone, it’s gone!</em></p>\n<p class=\"isSelectedEnd\"><em>This coffee comes from a <strong>rock-star producer Jairo Arcila</strong>, and we couldn’t be more excited to share it with you. We had an incredible time <strong>cupping this beauty</strong>, and we hope you enjoy drinking it as much as we enjoyed tasting and experiencing it.</em></p>\n<p><em><strong>Very limited. Very special. Don’t wait too long!</strong> </em></p>",
+"published_at":"2026-09-24T10:09:15-04:00",
+"created_at":"2026-09-23T16:26:37-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00",
+"vendor":"Cofinet",
+"product_type":"Green Coffee",
+"tags":[
+"Americas",
+"Berries",
+"Bright",
+"Carbonic Maceration",
+"Clean",
+"Colombia",
+"Complex",
+"Fruit",
+"Light",
+"Light-Medium",
+"Passion Fruit",
+"Rich",
+"Sweet",
+"Tropical Fruit"
+],
+"variants":[
+{
+"id":44959991300185,
+"title":"1 lb - $ $26.19/lb",
+"option1":"1 lb - $ $26.19/lb",
+"option2":null,
+"option3":null,
+"sku":"JAGCM",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"26.19",
+"grams":458,
+"compare_at_price":null,
+"position":1,
+"product_id":8396881199193,
+"created_at":"2026-09-23T16:26:38-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":44959991332953,
+"title":"3 lbs - $26.04/lb",
+"option1":"3 lbs - $26.04/lb",
+"option2":null,
+"option3":null,
+"sku":"JAGCM-3",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"78.12",
+"grams":1374,
+"compare_at_price":null,
+"position":2,
+"product_id":8396881199193,
+"created_at":"2026-09-23T16:26:38-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+},
+{
+"id":44959991365721,
+"title":"5 lbs - $25.89/lb",
+"option1":"5 lbs - $25.89/lb",
+"option2":null,
+"option3":null,
+"sku":"JAGCM-5",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"129.45",
+"grams":2291,
+"compare_at_price":null,
+"position":3,
+"product_id":8396881199193,
+"created_at":"2026-09-23T16:26:38-04:00",
+"updated_at":"2026-11-02T14:26:49-05:00"
+}
+],
+"images":[
+{
+"id":37396552581209,
+"created_at":"2026-09-23T17:05:00-04:00",
+"position":1,
+"updated_at":"2026-09-23T17:05:02-04:00",
+"product_id":8396881199193,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/Mace.png?v=1790197502",
+"width":720,
+"height":720
+},
+{
+"id":37396554580057,
+"created_at":"2026-09-23T17:06:34-04:00",
+"position":2,
+"updated_at":"2026-09-23T17:06:35-04:00",
+"product_id":8396881199193,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/1221/0224/files/mace_2.png?v=1790197595",
+"width":720,
+"height":720
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 lb - $ $26.19/lb",
+"3 lbs - $26.04/lb",
+"5 lbs - $25.89/lb"
+]
+}
+]
+}
+]
+}

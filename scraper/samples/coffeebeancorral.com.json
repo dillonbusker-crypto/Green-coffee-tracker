@@ -1,0 +1,471 @@
+{
+"product_type_counts":{
+"Bulk Green - Conventional":56,
+"Accessories":23,
+"Bulk Green - Organic":20,
+"Bulk Green Coffee":8,
+"Coffee Sets":2,
+"Sets":12,
+"Coffee Roaster":1,
+"Digital":9,
+"Brewer":5,
+"Roaster":7,
+"Merch":2
+},
+"products":[
+{
+"id":8927613878408,
+"title":"Sumatra: Mandheling G1, Aceh",
+"handle":"sumatra-mandheling-grade-1",
+"body_html":"<p>This shade-grown Sumatran coffee is a classic, so steeped in the history of this Indonesian island that the name itself is not of a region, but rather the result of a language barrier. Sumatra Mandheling is grown on the slopes of Mount Leuser, a volcano near the port of Pandang, in the Batak area of Aceh. It is home to one of the most ancient ecosystems in the world!</p>\n<p>The flavor profile is vibrant and spicy, a heavy coffee reminiscent of the atmosphere on this tropical paradise. If you're looking for a Sumatran coffee that won't let you down, this is a go-to.</p>\n<p><strong>Cupping Notes:</strong> Chocolate, cedar, sweet tobacco, and spice, along with a mild acidity and creamy body.</p>",
+"published_at":"2026-10-27T15:39:52-05:00",
+"created_at":"2026-05-27T18:53:29-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Coffee Bean Corral",
+"product_type":"Bulk Green - Conventional",
+"tags":[
+"ALL-GREEN_COFFEE_BEANS",
+"LABORDAY",
+"LABORDAY26",
+"Overstock"
+],
+"variants":[
+{
+"id":46123988189320,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"SUMMAN",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"9.00",
+"grams":454,
+"compare_at_price":"11.15",
+"position":1,
+"product_id":8927613878408,
+"created_at":"2026-06-18T11:33:11-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263044812936,
+"created_at":"2026-06-28T17:40:41-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:40:44-05:00",
+"product_id":8927613878408,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_0347.jpg?v=1782686444",
+"width":2400,
+"height":2400
+},
+{
+"id":51263044845704,
+"created_at":"2026-06-28T17:40:41-05:00",
+"position":2,
+"updated_at":"2026-06-28T17:40:44-05:00",
+"product_id":8927613878408,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_0348.jpg?v=1782686444",
+"width":2400,
+"height":2400
+},
+{
+"id":51263044878472,
+"created_at":"2026-06-28T17:40:41-05:00",
+"position":3,
+"updated_at":"2026-06-28T17:40:44-05:00",
+"product_id":8927613878408,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_0349_ed14ce29-3ab5-46fd-9c13-c6eb7120121d.jpg?v=1782686444",
+"width":2400,
+"height":2400
+},
+{
+"id":51263044911240,
+"created_at":"2026-06-28T17:40:41-05:00",
+"position":4,
+"updated_at":"2026-06-28T17:40:44-05:00",
+"product_id":8927613878408,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_0350.jpg?v=1782686444",
+"width":2400,
+"height":2400
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+},
+{
+"id":8927615713416,
+"title":"Fresh Roast Roasting Chamber 800",
+"handle":"fresh-roast-roasting-chamber-800",
+"body_html":"<p>SR800 Glass Roasting Chamber for the new SR roaster.</p>",
+"published_at":"2026-10-21T10:17:48-05:00",
+"created_at":"2026-05-27T18:54:07-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Fresh Roast",
+"product_type":"Accessories",
+"tags":[],
+"variants":[
+{
+"id":45909063794824,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"SR800RC",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"38.45",
+"grams":2722,
+"compare_at_price":null,
+"position":1,
+"product_id":8927615713416,
+"created_at":"2026-05-27T18:54:07-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263054676104,
+"created_at":"2026-06-28T17:41:24-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:41:25-05:00",
+"product_id":8927615713416,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/sr800-glass-full-700_97e333d5-96a9-46e9-bec3-c7c9d09ee3ca.jpg?v=1782686485",
+"width":700,
+"height":700
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+},
+{
+"id":8927612698760,
+"title":"Ethiopia: Organic Limu G2, Oromia",
+"handle":"ethiopian-organic-limu-g2",
+"body_html":"<p><strong>New arrival: Oct. '26</strong></p>\n<p>This grade 2 Ethiopian coffee from the Limu region is one of the most interesting coffees we've come across recently, and for an Ethiopian coffee, that's saying something! We cupped one sample and immediately knew we had to bring this one in.</p>\n<p>Jimma zone is located to the southwest of Ethiopia’s capital, Addis Ababa. Much of Jimma, like other coffee-growing regions in Ethiopia, is a vast, gently sloping plateau with incredibly fertile soil at high elevations. <br>The top-quality coffees from Jimma, especially those from the Limu, Gera, and Goma districts, are renowned for their vibrant and delicate fruit flavors. <br>The region’s renowned \"white\" honey, collected by bees from the blossoms of coffee plants and the surrounding forests, is a well-known symbol of Jimma and brings immense pleasure to the senses.<br>Coffees from this zone, along with those from the nearby Illubabor region, are often labeled as “Limu”, a distinction based more on terroir and shared flavor profiles rather than geographical boundaries.</p>\n<p><strong>Cupping notes</strong>: Bergamot citrus, jasmine, cherry</p>",
+"published_at":"2026-10-14T15:32:26-05:00",
+"created_at":"2026-05-27T18:53:05-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Coffee Bean Corral",
+"product_type":"Bulk Green - Organic",
+"tags":[
+"ALL-GREEN_COFFEE_BEANS"
+],
+"variants":[
+{
+"id":46123985830024,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"ETHORGLIMU",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"8.85",
+"grams":454,
+"compare_at_price":null,
+"position":1,
+"product_id":8927612698760,
+"created_at":"2026-06-18T11:32:39-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263038619784,
+"created_at":"2026-06-28T17:40:15-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:40:18-05:00",
+"product_id":8927612698760,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/Ethiopia_Limu_Front.jpg?v=1782686418",
+"width":3024,
+"height":3024
+},
+{
+"id":51263038652552,
+"created_at":"2026-06-28T17:40:15-05:00",
+"position":2,
+"updated_at":"2026-06-28T17:40:18-05:00",
+"product_id":8927612698760,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/Ethiopia_Limu_Front_202.jpg?v=1782686418",
+"width":3024,
+"height":3024
+},
+{
+"id":51263038685320,
+"created_at":"2026-06-28T17:40:15-05:00",
+"position":3,
+"updated_at":"2026-06-28T17:40:18-05:00",
+"product_id":8927612698760,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/Ethiopia_Limu_Side_79bb8c65-5d6c-40bd-aee3-3191aedceb72.jpg?v=1782686418",
+"width":3024,
+"height":3024
+},
+{
+"id":51263038718088,
+"created_at":"2026-06-28T17:40:15-05:00",
+"position":4,
+"updated_at":"2026-06-28T17:40:18-05:00",
+"product_id":8927612698760,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/Ethiopia_Limu_Full_b22bc5dd-9426-4ce7-abde-628aa56f982d.jpg?v=1782686418",
+"width":3024,
+"height":3024
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+},
+{
+"id":8927614861448,
+"title":"Honduras: Organic 18 Rabbit Natural, Marcala",
+"handle":"honduras-organic-18-rabbit-natural",
+"body_html":"<div class=\"videoWrapper\" style=\"margin-bottom: 1em;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VeRiW3dtAK4\" title=\"YouTube video player\"></iframe></div>\n<p>Señora Flhor refers to the 18 Rabbit Natural as her “crunchberry” coffee due to the sweet flavor it develops after natural processing––a back-to-basics approach stemming from Ethiopia also known as “dry processing.” In natural processing, the fruit is left on the bean and the coffee is barely disrupted while drying. This process differs from washed coffee because naturally processed beans are sun-dried with the cherry intact.</p>\n<p> </p>\n<p>The 18 Rabbit Naturals are grown on their namesake farmland family-owned by Señora Flhor, her mother, and 11 other relatives. 18 Rabbit’s beans are grown on a micro-lot in the Marcala region, and roasts well at medium (crisp) or dark (sweet).</p>\n<p> </p>\n<p><strong>Cupping notes:</strong> Strawberry aromas that carry over into the cup with fruit forward flavors, hints of chocolate, and a thin body-well balanced.</p>\n<p><br></p>",
+"published_at":"2026-10-01T18:00:59-05:00",
+"created_at":"2026-05-27T18:53:50-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Coffee Bean Corral",
+"product_type":"Bulk Green - Organic",
+"tags":[
+"ALL-GREEN_COFFEE_BEANS"
+],
+"variants":[
+{
+"id":46212242342024,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"HON18ORGNAT",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"11.60",
+"grams":454,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":8927614861448,
+"created_at":"2026-07-17T07:57:18-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263048614024,
+"created_at":"2026-06-28T17:41:06-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:41:08-05:00",
+"product_id":8927614861448,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_8247.jpg?v=1782686468",
+"width":2400,
+"height":2400
+},
+{
+"id":51263048646792,
+"created_at":"2026-06-28T17:41:06-05:00",
+"position":2,
+"updated_at":"2026-06-28T17:41:08-05:00",
+"product_id":8927614861448,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_8251_20copy.jpg?v=1782686468",
+"width":2400,
+"height":2400
+},
+{
+"id":51263048679560,
+"created_at":"2026-06-28T17:41:06-05:00",
+"position":3,
+"updated_at":"2026-06-28T17:41:08-05:00",
+"product_id":8927614861448,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_8252_20copy_d1d1285e-2285-45c9-957f-e378a0a52ea9.jpg?v=1782686468",
+"width":2400,
+"height":2400
+},
+{
+"id":51263048712328,
+"created_at":"2026-06-28T17:41:06-05:00",
+"position":4,
+"updated_at":"2026-06-28T17:41:08-05:00",
+"product_id":8927614861448,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_8254_20copy.jpg?v=1782686468",
+"width":2400,
+"height":2400
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+},
+{
+"id":8927614697608,
+"title":"CBC Blend: Verso l'Alto Blend",
+"handle":"highlands-cbc-blend",
+"body_html":"<p><strong>NEW BLEND! </strong></p>\n<p><strong>Cupping notes:</strong> Chocolate, brown sugar, tangerine</p>",
+"published_at":"2026-10-01T17:59:13-05:00",
+"created_at":"2026-05-27T18:53:46-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Coffee Bean Corral",
+"product_type":"Bulk Green - Conventional",
+"tags":[
+"ALL-GREEN_COFFEE_BEANS"
+],
+"variants":[
+{
+"id":46124000870536,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"HIGHBLEND",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"9.50",
+"grams":454,
+"compare_at_price":null,
+"position":1,
+"product_id":8927614697608,
+"created_at":"2026-06-18T11:33:34-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263047467144,
+"created_at":"2026-06-28T17:41:01-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:41:04-05:00",
+"product_id":8927614697608,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/IMG_1064.jpg?v=1782686464",
+"width":2400,
+"height":2400
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+},
+{
+"id":8992801554568,
+"title":"Colombia: Cattleya,Excelso",
+"handle":"colombia-cattleya-excelso",
+"body_html":"<p><span>Named after </span><strong><span>Colombia's national flower</span></strong><span>, Cattleya is a coffee that embodies the beauty, balance, and elegance of one of the world's most celebrated coffee origins. This carefully crafted offering highlights everything coffee lovers appreciate about Colombian coffees—bright acidity, smooth sweetness, and delicate floral complexity.</span></p>\n<p><span>Cattleya is sourced from a network of dedicated smallholder farmers in the <strong>Tequendama region of Cundinamarca</strong> and the <strong>Lengupá province of Boyacá</strong>. By selecting coffees from multiple producers, each harvest is blended to maintain a dependable flavor profile while celebrating the unique character of Colombia's Eastern Andes.</span></p>\n<p> </p>\n<p><strong>Cupping Notes:</strong> Well balanced, bright, complex acidity, citrus, grapefruit, floral, roasted nut and cocoa, good body, clean finish</p>\n<p> </p>",
+"published_at":"2026-10-01T17:58:59-05:00",
+"created_at":"2026-07-23T11:39:02-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00",
+"vendor":"Coffee Bean Corral",
+"product_type":"Bulk Green - Conventional",
+"tags":[
+"ALL-GREEN_COFFEE_BEANS",
+"Overstock"
+],
+"variants":[
+{
+"id":46239940083848,
+"title":"Default Title",
+"option1":"Default Title",
+"option2":null,
+"option3":null,
+"sku":"COLEXC",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"7.30",
+"grams":454,
+"compare_at_price":null,
+"position":1,
+"product_id":8992801554568,
+"created_at":"2026-07-23T11:39:03-05:00",
+"updated_at":"2026-11-02T13:25:33-06:00"
+}
+],
+"images":[
+{
+"id":51263035310216,
+"created_at":"2026-06-28T17:40:05-05:00",
+"position":1,
+"updated_at":"2026-06-28T17:40:07-05:00",
+"product_id":8992801554568,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/53-Product.jpg?v=1782686407",
+"width":1352,
+"height":1352
+},
+{
+"id":51466276274312,
+"created_at":"2026-07-23T11:58:12-05:00",
+"position":2,
+"updated_at":"2026-07-23T11:58:14-05:00",
+"product_id":8992801554568,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0729/1043/8536/files/OIP.jpg?v=1784825894",
+"width":220,
+"height":220
+}
+],
+"options":[
+{
+"name":"Title",
+"position":1,
+"values":[
+"Default Title"
+]
+}
+]
+}
+]
+}
