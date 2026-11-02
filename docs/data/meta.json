@@ -1,5 +1,5 @@
 {
-"generated_at":"2026-11-02T19:37:15+00:00",
+"generated_at":"2026-11-02T19:42:14+00:00",
 "count":269,
 "in_stock":269,
 "new_today":269,
@@ -11,7 +11,7 @@
 "in_stock":88,
 "with_score":475,
 "error":null,
-"seconds":115.0,
+"seconds":93.4,
 "scraped":483
 },
 "bodhileaf":{
@@ -21,7 +21,7 @@
 "in_stock":48,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.7,
 "scraped":50
 },
 "coffeebeancorral":{
@@ -31,7 +31,7 @@
 "in_stock":51,
 "with_score":1,
 "error":null,
-"seconds":1.1,
+"seconds":0.9,
 "scraped":84
 },
 "captainscoffee":{
@@ -41,7 +41,7 @@
 "in_stock":52,
 "with_score":0,
 "error":null,
-"seconds":3.2,
+"seconds":1.9,
 "scraped":353
 },
 "thetaridge":{
@@ -61,7 +61,7 @@
 "in_stock":3,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.8,
 "scraped":3
 }
 },
