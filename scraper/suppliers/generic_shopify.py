@@ -34,7 +34,7 @@ EXCLUDE_RE = re.compile(
     r"roaster(?!y)|grinder|gift\s*card|t-?shirt|mug\b|book|burlap|jute|sack|sampler|sample\s*pack|filter|thermometer|"
     r"scale|kettle|brewer|press|chaff|cooling\s*tray|scoop|storage|container|subscription|membership|cupping\s*(?:kit|spoon|bowl)|"
     r"spoon|apparel|hat\b|sticker|poster|accessor|equipment|part[s]?\b|replacement|class\b|course|workshop|ticket|drum|probe|"
-    r"\bwhole\s*bean\b|\bground\b|\broasted\b|cold\s*brew|k-?cup|pods?\b|tea\b|cocoa|cacao|syrup|merch",
+    r"\bwhole\s*bean\b|\bground\b|\broasted\b|cold\s*brew|k-?cup|pods?\b|tea\b|cocoa|cacao|syrup|merch|^evaluation$|consult|shipping|deposit",
     re.I,
 )
 

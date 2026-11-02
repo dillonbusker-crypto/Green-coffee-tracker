@@ -207,7 +207,8 @@ COUNTRY_REGIONS: dict[str, str] = {
     # Africa
     "Ethiopia": "Africa", "Kenya": "Africa", "Rwanda": "Africa", "Burundi": "Africa", "Tanzania": "Africa",
     "Uganda": "Africa", "DR Congo": "Africa", "Congo": "Africa", "Malawi": "Africa", "Zambia": "Africa",
-    "Zimbabwe": "Africa", "Cameroon": "Africa", "Ivory Coast": "Africa", "Yemen": "Arabia",
+    "Zimbabwe": "Africa", "Cameroon": "Africa", "Ivory Coast": "Africa", "Madagascar": "Africa", "Mozambique": "Africa",
+    "South Sudan": "Africa", "Yemen": "Arabia", "Saudi Arabia": "Arabia",
     # Central America & Mexico
     "Guatemala": "Central America", "Honduras": "Central America", "El Salvador": "Central America",
     "Nicaragua": "Central America", "Costa Rica": "Central America", "Panama": "Central America",
@@ -235,6 +236,7 @@ COUNTRY_ALIASES: dict[str, str] = {
     "sumatran": "Sumatra", "png": "Papua New Guinea", "papua": "Papua New Guinea", "indian": "India", "vietnamese": "Vietnam",
     "thai": "Thailand", "burma": "Myanmar", "chinese": "China", "yunnan": "China", "hawaiian": "Hawaii", "kona": "Hawaii",
     "east timor": "Timor", "timor-leste": "Timor", "timor leste": "Timor", "jamaican": "Jamaica", "blue mountain": "Jamaica",
+    "komodo": "Indonesia", "mandheling": "Sumatra", "lintong": "Sumatra", "gayo": "Sumatra", "toraja": "Sulawesi",
     "dominican": "Dominican Republic", "haitian": "Haiti", "galapagos": "Ecuador", "zambian": "Zambia",
 }
 _COUNTRY_PATTERNS: list[tuple[re.Pattern, str]] = []
@@ -509,6 +511,26 @@ def shopify_variants(product: dict, *, price_is_per_lb: bool = False, default_gr
 # Coffee record
 # --------------------------------------------------------------------------
 
+_PER_LB_IN_TITLE = re.compile(r"\$\s*(\d+(?:\.\d+)?)\s*(?:/|per)\s*(?:lb|pound)", re.I)
+
+
+def fix_per_lb_priced_variants(variants: list["Variant"]) -> None:
+    """Some stores enter the per-pound price as the variant price for bulk sizes (e.g. '20 lbs - $9.55/lb'
+    priced at 9.55). Detect a variant that is implausibly cheap next to its siblings, or whose price equals the
+    $/lb figure in its own title, and scale it to the pack price."""
+    ppls = [v.price_per_lb for v in variants if v.price_per_lb]
+    ref = max(ppls) if ppls else None
+    for v in variants:
+        if not v.lb or v.lb <= 1.5 or not v.price_per_lb:
+            continue
+        m = _PER_LB_IN_TITLE.search(v.title)
+        title_says = m and abs(float(m.group(1)) - v.price) < 0.05
+        implausible = v.price_per_lb < 1.5 or (ref and v.price_per_lb < 0.4 * ref and v.price < 1.5 * ref)
+        if title_says or implausible:
+            v.price = round(v.price * v.lb, 2)
+            v.price_per_lb = round(v.price / v.lb, 2)
+
+
 @dataclass
 class Coffee:
     id: str
@@ -543,6 +565,7 @@ class Coffee:
 
     def finalize(self) -> "Coffee":
         self.variants = [v for v in self.variants if v.price and v.price > 0]
+        fix_per_lb_priced_variants(self.variants)
         self.in_stock = any(v.available for v in self.variants)
         avail = [v for v in self.variants if v.available] or self.variants
         ppl = [v.price_per_lb for v in avail if v.price_per_lb]
