@@ -11,7 +11,10 @@ import logging
 import re
 import types
 
-from common import Coffee, clean_title, fill_from_text, html_to_text, product_image, shopify_products, shopify_variants
+from collections import Counter
+
+from common import (Coffee, clean_title, detect_country, detect_process, detect_varietals, fill_from_text, html_to_text,
+                    product_image, shopify_products, shopify_variants)
 
 log = logging.getLogger("gct.generic")
 
@@ -19,8 +22,9 @@ STORES: list[dict] = [
     # key, name, base url, all_green (skip keyword filter), enabled
     {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "all_green": False, "enabled": True},
     {"key": "captainscoffee", "name": "The Captain's Coffee", "base": "https://thecaptainscoffee.com", "all_green": False, "enabled": True},
-    {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "all_green": False, "enabled": True},
-    {"key": "millcity", "name": "Mill City Roasters", "base": "https://millcityroasters.com", "all_green": False, "enabled": True},
+    {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "all_green": True, "enabled": True},
+    {"key": "millcity", "name": "Mill City Roasters", "base": "https://millcityroasters.com", "all_green": False, "enabled": True,
+     "title_style": "dashes"},
     {"key": "coffeeshrub", "name": "Coffee Shrub", "base": "https://www.coffeeshrub.com", "all_green": False, "enabled": False},
 ]
 
@@ -70,11 +74,26 @@ def _make(store: dict) -> types.ModuleType:
             tags=[t for t in (p.get("tags") or []) if isinstance(t, str)][:12],
             variants=shopify_variants(p),
         )
+        if store.get("title_style") == "dashes":
+            # "Colombia - Arnulfo Leguizamo - Finca La Primavera - Sidra - Washed" / "Brazil - Serra Negra, Natural"
+            parts = [x.strip() for x in re.split(r"\s+-\s+|,\s+", title) if x.strip()]
+            if len(parts) >= 2:
+                c.country = detect_country(parts[0])
+                rest = parts[1:]
+                proc_or_var = [x for x in rest if detect_process(x) or detect_varietals(x)]
+                descriptive = [x for x in rest if x not in proc_or_var]
+                if descriptive:
+                    if re.search(r"finca|farm|hacienda|estate|mill|station|coop|cooperative|producers|women", " ".join(descriptive), re.I) or len(descriptive) >= 2:
+                        c.producer = " / ".join(descriptive[:2])
+                    else:
+                        c.subregion = descriptive[0]
         fill_from_text(c, body_text=body)
         return c.finalize()
 
     def scrape() -> list[Coffee]:
         products = shopify_products(mod.BASE)
+        types = Counter((p.get("product_type") or "<none>") for p in products)
+        log.info("%s: product_type counts: %s", mod.KEY, dict(types.most_common(12)))
         coffees = [c for c in (parse_product(p) for p in products) if c]
         log.info("%s: %d products, %d green coffees", mod.KEY, len(products), len(coffees))
         return coffees

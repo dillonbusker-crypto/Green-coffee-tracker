@@ -43,6 +43,27 @@ def keep_listing(c, prev: dict | None, today: str) -> bool:
     return (dt.date.fromisoformat(today) - dt.date.fromisoformat(last)).days <= RECENTLY_SOLD_OUT_DAYS
 
 
+def write_samples(n: int = 6) -> None:
+    """Copy a few raw products per store from the raw dumps into scraper/samples/ for offline parser tuning."""
+    raw_dir = os.environ.get("GCT_RAW_DIR")
+    if not raw_dir or not os.path.isdir(raw_dir):
+        return
+    out_dir = ROOT / "scraper" / "samples"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for fn in sorted(os.listdir(raw_dir)):
+        try:
+            with open(os.path.join(raw_dir, fn), encoding="utf-8") as f:
+                products = json.load(f).get("products", [])
+        except (OSError, ValueError):
+            continue
+        avail = [p for p in products if any(v.get("available") for v in p.get("variants", []))]
+        sample = (avail or products)[:n]
+        types = {}
+        for p in products:
+            types[p.get("product_type") or ""] = types.get(p.get("product_type") or "", 0) + 1
+        dump_json(out_dir / fn, {"product_type_counts": types, "products": sample})
+
+
 def load_previous() -> dict[str, dict]:
     if not COFFEES_PATH.exists():
         return {}
@@ -120,6 +141,9 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             log.error("enrichment failed: %s\n%s", e, traceback.format_exc())
             suppliers_meta["_enrichment"] = {"error": f"{type(e).__name__}: {e}"[:300]}
+
+    if os.environ.get("GCT_SAMPLES"):
+        write_samples()
 
     coffees.sort(key=lambda c: (c.get("supplier", ""), c.get("title", "")))
     dump_json(COFFEES_PATH, {"generated_at": now, "count": len(coffees), "coffees": coffees})

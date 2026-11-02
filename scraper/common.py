@@ -145,9 +145,14 @@ SPEC_LABELS = {
 _LABEL_TO_KEY = {lbl: key for key, labels in SPEC_LABELS.items() for lbl in labels}
 _SPEC_RE = re.compile(r"^\s*(?:[•\-\*·]\s*)?([A-Za-z][A-Za-z /\-\(\)]{1,32}?)\s*[:：\-–]\s+(.{1,220})$")
 # "Label value" with no separator, as rendered by attribute tables (Sweet Maria's). Only unambiguous labels.
-_BARE_LABELS = ["cupping score", "cup score", "score", "processing", "process", "varietals", "varietal", "variety", "varieties",
-                "cultivar", "region", "arrival date", "arrival", "producer", "farm", "altitude", "elevation", "grade", "harvest"]
-_BARE_SPEC_RE = re.compile(r"^\s*(" + "|".join(re.escape(l) for l in _BARE_LABELS) + r")\s+(?!:)(\S.{0,78})$", re.I)
+_BARE_LABELS = ["cupping score", "cup score", "score", "processing method", "process method", "processing", "process",
+                "varietals", "varietal", "variety", "varieties", "cultivar", "region", "arrival date", "arrival", "producer",
+                "farm", "altitude", "elevation", "grade", "harvest"]
+_LABEL_TO_KEY.update({"processing method": "process", "process method": "process"})
+_BARE_SPEC_RE = re.compile(r"^\s*(" + "|".join(re.escape(l) for l in sorted(_BARE_LABELS, key=len, reverse=True))
+                           + r")\s+(?!:)(\S.{0,78})$", re.I)
+# "Producer Notes", "Arrival date", "Tasting notes" are headings, not values
+_HEADING_TAILS = {"notes", "note", "date", "info", "information", "details", "profile", "method", "type", "name"}
 
 
 _ALL_LABELS_RE = re.compile(
@@ -182,8 +187,11 @@ def extract_specs(text: str) -> dict[str, str]:
         m = _BARE_SPEC_RE.match(line)
         if m:
             key = _LABEL_TO_KEY.get(m.group(1).lower())
+            val = m.group(2).strip().rstrip(".;,")
+            if val.lower() in _HEADING_TAILS or val.lower() in _LABEL_TO_KEY or len(val) < 2:
+                continue  # a heading such as "Producer Notes" or "Arrival date", not a value
             if key and key not in bare:
-                bare[key] = m.group(2).strip().rstrip(".;,")
+                bare[key] = val
     for k, v in bare.items():
         out.setdefault(k, v)
     return out
@@ -327,8 +335,12 @@ _VARIETAL_PATTERNS = [
 ]
 
 
-def detect_varietals(*texts: str, limit: int = 6) -> list[str]:
-    """Return canonical varietal names found, in order of appearance in the first text that has any."""
+PLACE_NAME_VARIETALS = {"Colombia", "Java", "Kenya AA", "Blue Mountain", "Harar"}
+
+
+def detect_varietals(*texts: str, limit: int = 6, allow_places: bool = False) -> list[str]:
+    """Return canonical varietal names found, in order of appearance in the first text that has any.
+    Names that are also places (Colombia, Java...) only count when allow_places is set (spec lines)."""
     for text in texts:
         if not text:
             continue
@@ -338,8 +350,7 @@ def detect_varietals(*texts: str, limit: int = 6) -> list[str]:
             for m in pat.finditer(text):
                 if canon in seen:
                     break
-                # "Colombia" and "Java" are also places: only count them as varietals in a spec-ish context
-                if canon in ("Colombia", "Java", "Kenya AA", "Blue Mountain") and len(text) > 120:
+                if canon in PLACE_NAME_VARIETALS and not allow_places:
                     break
                 seen.add(canon)
                 found.append((m.start(), canon))
@@ -420,7 +431,7 @@ def size_class(lb: Optional[float]) -> str:
         return "sample"
     if lb <= 5.5:
         return "home"
-    if lb <= 35:
+    if lb < 60:
         return "box"
     return "bag"
 
@@ -428,8 +439,8 @@ def size_class(lb: Optional[float]) -> str:
 SIZE_LABELS = {
     "sample": "Sample (<1 lb)",
     "home": "Home (1–5 lb)",
-    "box": "Box (6–35 lb)",
-    "bag": "Full bag (>35 lb)",
+    "box": "Bulk box (6–59 lb)",
+    "bag": "Full bag (60+ lb)",
     "unknown": "Unknown size",
 }
 
@@ -573,7 +584,8 @@ def fill_from_text(c: Coffee, *, body_text: str, specs: dict[str, str] | None = 
     if not c.producer and specs.get("producer"):
         c.producer = specs["producer"]
     if not c.varietals:
-        c.varietals = detect_varietals(specs.get("varietal", ""), title, body_text[:800], body_text)
+        c.varietals = detect_varietals(specs.get("varietal", ""), allow_places=True) or \
+            detect_varietals(title, body_text[:800], body_text)
     if not c.process:
         c.process = detect_process(specs.get("process", ""), title, body_text[:800], body_text)
     c.decaf = c.decaf or is_decaf(title, specs.get("process", ""), body_text[:400])

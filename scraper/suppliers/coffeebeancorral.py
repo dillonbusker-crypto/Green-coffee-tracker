@@ -10,7 +10,7 @@ import logging
 import re
 from collections import Counter
 
-from common import Coffee, clean_title, fill_from_text, html_to_text, product_image, shopify_products, shopify_variants
+from common import Coffee, clean_title, detect_country, fill_from_text, html_to_text, product_image, shopify_products, shopify_variants
 
 log = logging.getLogger("gct.coffeebeancorral")
 
@@ -69,7 +69,19 @@ def parse_product(p: dict) -> Coffee | None:
         tags=[t for t in (p.get("tags") or []) if isinstance(t, str)][:12],
         variants=shopify_variants(p),
     )
+    m = re.match(r"^([A-Za-z .'\-]+):\s*(.+?)(?:,\s*([^,]+))?$", title)
+    if m:
+        head = m.group(1).strip()
+        if head.lower().startswith("cbc blend"):
+            c.country = None
+        else:
+            c.country = detect_country(head)
+            if m.group(3):
+                c.subregion = m.group(3).strip()
     fill_from_text(c, body_text=body)
+    if m and m.group(1).strip().lower().startswith("cbc blend"):
+        c.country = None
+        c.region = None
     return c.finalize()
 
 

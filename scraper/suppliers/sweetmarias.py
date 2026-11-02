@@ -66,10 +66,12 @@ def parse_product_page(html: str) -> dict:
     lines = text.splitlines()
     for i, ln in enumerate(lines[:-1]):
         key = ln.strip().lower().rstrip(":")
-        if key in ("process", "processing") and "process" not in out and len(lines[i + 1]) < 60:
+        if key in ("process", "processing", "processing method") and "process" not in out and len(lines[i + 1]) < 60:
             out["process"] = lines[i + 1].strip()
         elif key in ("varietal", "variety", "cultivar") and "varietal" not in out and len(lines[i + 1]) < 80:
             out["varietal"] = lines[i + 1].strip()
+        elif key in ("producer", "farm", "producer name") and "producer" not in out and len(lines[i + 1]) < 80:
+            out["producer"] = lines[i + 1].strip()
         elif key in ("region",) and "region" not in out and len(lines[i + 1]) < 60:
             out["region"] = lines[i + 1].strip()
         elif key in ("arrival", "arrival date") and "arrival" not in out and len(lines[i + 1]) < 40:
@@ -127,6 +129,11 @@ def parse_product(p: dict, page_html: str | None = None, page_attrs: dict | None
 
 
 PAGE_CACHE = Path(__file__).resolve().parent.parent / "cache" / "sweetmarias_pages.json"
+PARSER_VERSION = "v2"  # bump when parse_product_page changes so cached attributes are refreshed
+
+
+def cache_key(p: dict) -> str:
+    return f"{p['id']}|{p.get('updated_at') or ''}|{PARSER_VERSION}"
 WORKERS = 4
 MAX_CONSECUTIVE_FAILURES = 3
 
@@ -152,7 +159,7 @@ def fetch_page_attrs(greens: list[dict]) -> dict[str, dict]:
     attrs: dict[str, dict] = {}
     todo: list[dict] = []
     for p in greens:
-        key = f"{p['id']}|{p.get('updated_at') or ''}"
+        key = cache_key(p)
         hit = cache.get(key)
         if hit is not None:
             attrs[str(p["id"])] = hit
@@ -183,8 +190,8 @@ def fetch_page_attrs(greens: list[dict]) -> dict[str, dict]:
                     continue
                 failures = 0
                 attrs[str(p["id"])] = got
-                cache[f"{p['id']}|{p.get('updated_at') or ''}"] = got
-    live = {f"{p['id']}|{p.get('updated_at') or ''}" for p in greens}
+                cache[cache_key(p)] = got
+    live = {cache_key(p) for p in greens}
     _save_cache({k: v for k, v in cache.items() if k in live})
     return attrs
 

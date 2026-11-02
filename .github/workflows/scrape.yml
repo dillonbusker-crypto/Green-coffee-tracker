@@ -9,6 +9,11 @@ on:
         description: "Comma separated supplier keys to scrape (blank = all)"
         required: false
         default: ""
+      debug:
+        description: "Also commit a few raw products per store to scraper/samples/ for parser tuning"
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -40,6 +45,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ONLY: ${{ github.event.inputs.only }}
           GCT_RAW_DIR: ${{ github.workspace }}/scraper/raw
+          GCT_SAMPLES: ${{ github.event.inputs.debug == 'true' && '1' || '' }}
         run: |
           if [ -n "$ONLY" ]; then
             python scraper/scrape.py --only "$ONLY"
@@ -79,6 +85,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A docs/data scraper/cache
+          [ -d scraper/samples ] && git add -A scraper/samples || true
           if git diff --cached --quiet; then
             echo "no changes"
           else

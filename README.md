@@ -66,4 +66,4 @@ Each entry in `coffees.json` has `id`, `supplier`, `title`, `url`, `image`, `cou
 `price_per_lb`, `available`, `size_class`), `in_stock`, `min_price_per_lb`, `min_price`,
 `size_classes[]`, `first_seen`, `wholesale`, `enriched`.
 
-Size classes: `sample` (<1 lb), `home` (1–5 lb), `box` (6–35 lb), `bag` (>35 lb).
+Size classes: `sample` (<1 lb), `home` (1–5 lb), `box` (6–59 lb, e.g. 10/20/22/50 lb boxes), `bag` (60+ lb full bags).

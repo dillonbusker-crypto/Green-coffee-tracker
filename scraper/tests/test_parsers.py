@@ -28,7 +28,7 @@ def test_helpers():
     assert abs(grams_from_text("69 kg") - 69000) < 0.1
     assert abs(grams_from_text("12 oz") - 340.19) < 0.1
     assert size_class(0.5) == "sample" and size_class(1) == "home" and size_class(5) == "home"
-    assert size_class(22) == "box" and size_class(132) == "bag"
+    assert size_class(22) == "box" and size_class(50) == "box" and size_class(132) == "bag"
     specs = extract_specs(html_to_text("<p><strong>Region:</strong> Huila<br><strong>Producer:</strong> Diego</p>"))
     assert specs == {"region": "Huila", "producer": "Diego"}
 
@@ -84,7 +84,7 @@ def test_royalcoffee():
     assert v.price_per_lb == 4.15 and abs(v.price - 4.15 * 70000 / 453.592) < 0.05 and v.size_class == "bag"
     cj = coffees[1]
     assert cj.score == 87.25 and cj.variants[0].size_class == "box" and abs(cj.variants[0].price_per_lb - 7.18) < 0.01
-    assert cj.varietals == ["74110", "74112"] and cj.tags[0] == "Crown Jewel"
+    assert cj.varietals == ["74110", "74112"] and cj.tags[0] == "Crown Jewel" and cj.title == "Ethiopia Guji Shakiso Natural"
 
 
 if __name__ == "__main__":
