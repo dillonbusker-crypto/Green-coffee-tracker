@@ -82,9 +82,10 @@ details.fs[open] summary::after{transform:rotate(-90deg)}
 .card.oos{opacity:.62}
 .card .t{font-weight:600;font-size:15px;line-height:1.25;grid-column:1}
 .card .t a{text-decoration:none}
-.card .price{grid-column:2;grid-row:1/span 2;text-align:right;white-space:nowrap}
+.card .price{grid-column:2;grid-row:1/span 3;text-align:right;white-space:nowrap}
 .card .price b{font-size:18px;display:block}
-.card .price small{color:var(--muted);font-size:11px}
+.card .price small{color:var(--muted);font-size:11px;display:block}
+.card .price .buy{display:inline-block;margin-top:6px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-size:13px;font-weight:600;padding:5px 11px;border-radius:8px}
 .card .sub{grid-column:1;color:var(--muted);font-size:13px}
 .card .sub .sup{color:var(--ink);font-weight:500}
 .card .meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:5px;margin-top:4px;align-items:flex-start;align-content:flex-start}
@@ -253,7 +254,7 @@ function card(c){
   const ppl = c.min_price_per_lb;
   el.innerHTML = `
     <div class="t"><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.title)}</a></div>
-    <div class="price"><b>${ppl!=null? fmtMoney(ppl)+'<small>/lb</small>' : '—'}</b><small>${c.min_price!=null?'from '+fmtMoney(c.min_price):''}</small></div>
+    <div class="price"><b>${ppl!=null? fmtMoney(ppl)+'<small>/lb</small>' : '—'}</b><small>${c.min_price!=null?'from '+fmtMoney(c.min_price):''}</small><a class="buy" href="${esc(c.url)}" target="_blank" rel="noopener">Buy ↗</a></div>
     <div class="sub"><span class="sup">${esc(c.supplier)}</span>${sub?' · '+esc(sub):''}${c.producer?' · '+esc(c.producer):''}</div>
     <div class="meta">${tags.join('')}</div>
     ${c.notes?`<div class="notes">${esc(c.notes)}</div>`:''}

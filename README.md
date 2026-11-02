@@ -48,6 +48,7 @@ and the reason recorded in `meta.json`).
 | `coffeebeancorral` | Coffee Bean Corral | Mississippi | green product types only; "Country: Name, Region" titles |
 | `captainscoffee` | The Captain's Coffee | Olympia, WA | Shopify, "green" keyword filter |
 | `thetaridge` | Theta Ridge Coffee | Indiana | Shopify, everything is green coffee |
+| `prodigal` | Prodigal Coffee | US | Shopify, "green" keyword filter (mostly roasted coffee, a few greens) |
 
 Kept but disabled because they only sell bulk: Royal Coffee (full bags, 22/50 lb boxes),
 Mill City Roasters (10 lb minimum), Showroom Coffee (2 lb minimum), Coffee Shrub.

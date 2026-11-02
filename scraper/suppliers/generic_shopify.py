@@ -26,6 +26,8 @@ STORES: list[dict] = [
      "all_green": False, "enabled": True},
     {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "ships_from": "US",
      "all_green": True, "enabled": True},
+    {"key": "prodigal", "name": "Prodigal Coffee", "base": "https://getprodigal.com", "ships_from": "US",
+     "all_green": False, "enabled": True},
     {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "ships_from": "US",
      "all_green": True, "enabled": False, "reason": "2 lb minimum, no 1 lb size",
      "product_types": ["Coffee"], "title_style": "commas"},
