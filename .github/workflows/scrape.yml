@@ -90,6 +90,7 @@ jobs:
             echo "no changes"
           else
             git commit -m "data: $(date -u +%Y-%m-%d) scrape"
-            git pull --rebase origin main
+            # on a conflict with a concurrent data commit, keep this run's (newer) files
+            git pull --rebase -X theirs origin main
             git push origin HEAD:main
           fi
