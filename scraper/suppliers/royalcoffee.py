@@ -28,9 +28,15 @@ def is_green(p: dict) -> bool:
     if EXCLUDE_RE.search(title):
         return False
     pt = (p.get("product_type") or "").lower()
-    if any(w in pt for w in ("merch", "gift", "apparel", "event", "equipment", "roasted")):
+    if any(w in pt for w in ("merch", "gift", "apparel", "event", "equipment", "roasted", "class", "course", "ticket")):
         return False
-    return bool(p.get("variants"))
+    variants = p.get("variants") or []
+    if not variants:
+        return False
+    # Royal keeps every past lot online as a sold-out "Full Size Bags" listing (13k+). Keep only what is buyable.
+    if "full size" in pt or "bag" in pt:
+        return any(v.get("available") for v in variants)
+    return True
 
 
 def _fix_variants(p: dict, variants):

@@ -29,6 +29,20 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name
 log = logging.getLogger("gct")
 
 
+STALE_DAYS = 60
+
+
+def is_stale_archive(c, today: str) -> bool:
+    """Sold-out listings a supplier has not touched in STALE_DAYS are archive pages, not inventory."""
+    if c.in_stock or not c.updated_at:
+        return False
+    try:
+        upd = dt.datetime.fromisoformat(c.updated_at.replace("Z", "+00:00")).date()
+    except ValueError:
+        return False
+    return (dt.date.fromisoformat(today) - upd).days > STALE_DAYS
+
+
 def load_previous() -> dict[str, dict]:
     if not COFFEES_PATH.exists():
         return {}
@@ -70,6 +84,7 @@ def main() -> int:
             entry["count"] = len(found)
             entry["in_stock"] = sum(1 for c in found if c.in_stock)
             entry["with_score"] = sum(1 for c in found if c.score)
+            found = [c for c in found if not is_stale_archive(c, today)]
             for c in found:
                 d = c.to_dict()
                 prev = previous.get(d["id"])

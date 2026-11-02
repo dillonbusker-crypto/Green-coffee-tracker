@@ -28,17 +28,28 @@ ROASTED_TYPE_RE = re.compile(r"roasted|equipment|merch|supplies|accessor|gear|ha
 GREEN_RE = re.compile(r"green|unroasted|raw", re.I)
 
 
+NON_COFFEE_TYPE_RE = re.compile(r"set|digital|roaster|brewer|accessor|merch|equipment|gift|sample", re.I)
+
+
 def is_green(p: dict) -> bool:
+    """Real product types seen: 'Bulk Green - Conventional', 'Bulk Green - Organic', 'Bulk Green Coffee',
+    'Sets', 'Coffee Sets', 'Digital', 'Accessories', 'Roaster', 'Brewer', 'Merch'."""
     title = p.get("title") or ""
     pt = p.get("product_type") or ""
-    tags = " ".join(t for t in (p.get("tags") or []) if isinstance(t, str))
-    if GREEN_RE.search(pt) or GREEN_RE.search(title) or re.search(r"green\s*coffee|unroasted", tags, re.I):
-        return not EXCLUDE_RE.search(title)
-    if ROASTED_TYPE_RE.search(pt) or EXCLUDE_RE.search(title):
+    if NON_COFFEE_TYPE_RE.search(pt) and not GREEN_RE.search(pt):
         return False
-    # No signal either way: Coffee Bean Corral is a green coffee store, assume coffee if it has a weight-based variant
+    if EXCLUDE_RE.search(title):
+        return False
+    if GREEN_RE.search(pt):
+        return True
+    tags = " ".join(t for t in (p.get("tags") or []) if isinstance(t, str))
+    if GREEN_RE.search(title) or re.search(r"green\s*coffee|unroasted", tags, re.I):
+        return True
+    if ROASTED_TYPE_RE.search(pt):
+        return False
+    # No product_type at all: assume coffee if it has a weight-based variant
     variants = p.get("variants") or []
-    return any((v.get("grams") or 0) >= 400 for v in variants) and bool(variants)
+    return not pt and any((v.get("grams") or 0) >= 400 for v in variants)
 
 
 def parse_product(p: dict) -> Coffee | None:

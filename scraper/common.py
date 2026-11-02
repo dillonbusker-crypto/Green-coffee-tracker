@@ -4,6 +4,7 @@ from __future__ import annotations
 import html as htmllib
 import json
 import logging
+import os
 import re
 import time
 from dataclasses import dataclass, field, asdict
@@ -32,27 +33,42 @@ def session() -> requests.Session:
     return _session
 
 
-def get(url: str, *, retries: int = 3, timeout: int = 40, sleep: float = 0.4) -> requests.Response:
-    """GET with simple retry/backoff. Raises on final failure."""
+def get(url: str, *, retries: int = 2, timeout: int = 20, sleep: float = 0.2) -> requests.Response:
+    """GET with at most `retries` retries. A 4xx (blocked / missing) is never retried: we move on."""
     last: Exception | None = None
-    for attempt in range(retries):
+    for attempt in range(retries + 1):
         try:
             r = session().get(url, timeout=timeout)
-            if r.status_code in (429, 500, 502, 503, 504):
-                raise requests.HTTPError(f"{r.status_code} for {url}", response=r)
             if 400 <= r.status_code < 500:
-                # blocked or missing: retrying will not help
                 raise FetchBlocked(f"{r.status_code} for {url}")
-            r.raise_for_status()
-            time.sleep(sleep)
+            if r.status_code >= 500:
+                raise requests.HTTPError(f"{r.status_code} for {url}", response=r)
+            if sleep:
+                time.sleep(sleep)
             return r
         except FetchBlocked:
             raise
         except Exception as e:  # noqa: BLE001
             last = e
-            time.sleep(1.5 * (attempt + 1))
+            if attempt < retries:
+                time.sleep(1.0 * (attempt + 1))
     assert last is not None
     raise last
+
+
+RAW_DIR = os.environ.get("GCT_RAW_DIR")
+
+
+def _dump_raw(base: str, products: list[dict]) -> None:
+    if not RAW_DIR:
+        return
+    try:
+        os.makedirs(RAW_DIR, exist_ok=True)
+        host = re.sub(r"^https?://(www\.)?", "", base).strip("/").replace("/", "_")
+        with open(os.path.join(RAW_DIR, f"{host}.json"), "w", encoding="utf-8") as f:
+            json.dump({"products": products}, f, ensure_ascii=False)
+    except OSError as e:
+        log.warning("raw dump failed for %s: %s", base, e)
 
 
 class FetchBlocked(Exception):
@@ -71,6 +87,7 @@ def shopify_products(base: str, *, max_pages: int = 40) -> list[dict]:
         out.extend(products)
         if len(products) < 250:
             break
+    _dump_raw(base, out)
     return out
 
 

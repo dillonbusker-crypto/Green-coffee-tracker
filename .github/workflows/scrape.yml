@@ -39,6 +39,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ONLY: ${{ github.event.inputs.only }}
+          GCT_RAW_DIR: ${{ github.workspace }}/scraper/raw
         run: |
           if [ -n "$ONLY" ]; then
             python scraper/scrape.py --only "$ONLY"
@@ -64,11 +65,20 @@ jobs:
           PY
           fi
 
+      - name: Upload raw catalogs (for debugging parsers)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-catalogs
+          path: scraper/raw/
+          retention-days: 3
+          if-no-files-found: ignore
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data scraper/cache
+          git add -A docs/data scraper/cache
           if git diff --cached --quiet; then
             echo "no changes"
           else
