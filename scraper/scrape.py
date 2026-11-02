@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""Scrape every supplier and write docs/data/coffees.json + docs/data/meta.json.
+
+Usage: python scraper/scrape.py [--only sweetmarias,bodhileaf] [--no-pages] [--no-enrich]
+"""
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import json
+import logging
+import os
+import sys
+import time
+import traceback
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from common import dump_json, SIZE_LABELS  # noqa: E402
+from suppliers import SUPPLIERS  # noqa: E402
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "docs" / "data"
+COFFEES_PATH = DATA_DIR / "coffees.json"
+META_PATH = DATA_DIR / "meta.json"
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
+log = logging.getLogger("gct")
+
+
+def load_previous() -> dict[str, dict]:
+    if not COFFEES_PATH.exists():
+        return {}
+    try:
+        with open(COFFEES_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return {c["id"]: c for c in data.get("coffees", [])}
+    except Exception as e:  # noqa: BLE001
+        log.warning("could not read previous coffees.json: %s", e)
+        return {}
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--only", help="comma separated supplier keys")
+    ap.add_argument("--no-pages", action="store_true", help="skip per-product page fetches (Sweet Maria's scores)")
+    ap.add_argument("--no-enrich", action="store_true", help="skip the optional Anthropic enrichment step")
+    args = ap.parse_args()
+
+    only = set(args.only.split(",")) if args.only else None
+    if args.no_pages:
+        from suppliers import sweetmarias
+        sweetmarias.FETCH_PAGES = False
+
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    previous = load_previous()
+    today = dt.date.today().isoformat()
+    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+
+    coffees: list[dict] = []
+    suppliers_meta: dict[str, dict] = {}
+    for mod in SUPPLIERS:
+        if only and mod.KEY not in only:
+            continue
+        t0 = time.time()
+        entry = {"name": mod.NAME, "count": 0, "in_stock": 0, "with_score": 0, "error": None, "seconds": 0}
+        try:
+            found = mod.scrape()
+            entry["count"] = len(found)
+            entry["in_stock"] = sum(1 for c in found if c.in_stock)
+            entry["with_score"] = sum(1 for c in found if c.score)
+            for c in found:
+                d = c.to_dict()
+                prev = previous.get(d["id"])
+                d["first_seen"] = (prev or {}).get("first_seen") or today
+                coffees.append(d)
+        except Exception as e:  # noqa: BLE001
+            entry["error"] = f"{type(e).__name__}: {e}"[:300]
+            log.error("supplier %s failed: %s\n%s", mod.KEY, e, traceback.format_exc())
+            # keep yesterday's rows for a supplier that failed today so the page doesn't go blank
+            kept = [c for c in previous.values() if c.get("supplier_key") == mod.KEY]
+            for c in kept:
+                c["stale"] = True
+            coffees.extend(kept)
+            entry["count"] = len(kept)
+            entry["stale"] = True
+        entry["seconds"] = round(time.time() - t0, 1)
+        suppliers_meta[mod.KEY] = entry
+        log.info("%s: %s", mod.KEY, entry)
+
+    # carry over suppliers that were not scraped this run (--only)
+    if only:
+        for c in previous.values():
+            if c.get("supplier_key") not in only and c.get("supplier_key"):
+                coffees.append(c)
+
+    if not args.no_enrich and os.environ.get("ANTHROPIC_API_KEY"):
+        try:
+            from enrich import enrich_all
+            stats = enrich_all(coffees, cache_path=ROOT / "scraper" / "cache" / "enrich.json")
+            suppliers_meta["_enrichment"] = stats
+        except Exception as e:  # noqa: BLE001
+            log.error("enrichment failed: %s\n%s", e, traceback.format_exc())
+            suppliers_meta["_enrichment"] = {"error": f"{type(e).__name__}: {e}"[:300]}
+
+    coffees.sort(key=lambda c: (c.get("supplier", ""), c.get("title", "")))
+    dump_json(COFFEES_PATH, {"generated_at": now, "count": len(coffees), "coffees": coffees})
+    meta = {
+        "generated_at": now,
+        "count": len(coffees),
+        "in_stock": sum(1 for c in coffees if c.get("in_stock")),
+        "new_today": sum(1 for c in coffees if c.get("first_seen") == today),
+        "suppliers": suppliers_meta,
+        "size_labels": SIZE_LABELS,
+    }
+    dump_json(META_PATH, meta)
+    log.info("wrote %d coffees to %s", len(coffees), COFFEES_PATH)
+    failed = [k for k, v in suppliers_meta.items() if v.get("error") and not k.startswith("_")]
+    if failed and len(failed) == len([m for m in SUPPLIERS if not only or m.KEY in only]):
+        log.error("every supplier failed")
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

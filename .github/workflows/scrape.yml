@@ -1,0 +1,78 @@
+name: Scrape green coffee
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # daily, 11:17 UTC (~3:17am Pacific)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma separated supplier keys to scrape (blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - run: pip install -r scraper/requirements.txt
+
+      - name: Parser tests
+        run: python scraper/tests/test_parsers.py
+
+      - name: Scrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ONLY: ${{ github.event.inputs.only }}
+        run: |
+          if [ -n "$ONLY" ]; then
+            python scraper/scrape.py --only "$ONLY"
+          else
+            python scraper/scrape.py
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f docs/data/meta.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          m = json.load(open("docs/data/meta.json"))
+          print(f"### {m['count']} coffees ({m['in_stock']} in stock, {m['new_today']} new today)\n")
+          print("| supplier | count | in stock | with score | seconds | error |")
+          print("|---|---|---|---|---|---|")
+          for k, v in m["suppliers"].items():
+              if k.startswith("_"):
+                  print(f"| {k} | | | | | {json.dumps(v)} |")
+              else:
+                  print(f"| {v['name']} | {v['count']} | {v['in_stock']} | {v['with_score']} | {v['seconds']} | {v['error'] or ''} |")
+          PY
+          fi
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data scraper/cache
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: $(date -u +%Y-%m-%d) scrape"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

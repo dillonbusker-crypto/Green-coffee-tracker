@@ -1,0 +1,63 @@
+# Green Coffee Tracker
+
+A daily snapshot of green (unroasted) coffee for sale at popular suppliers, shown on a
+phone-friendly page with filters for supplier, region/country, producer, varietal,
+process, cupping score and bag size, an in-stock toggle, and sorting by $/lb or score.
+
+**Live page:** https://dillonbusker-crypto.github.io/Green-coffee-tracker/
+
+## How it works
+
+- `scraper/` (Python, requests + beautifulsoup4) pulls each supplier's catalog. Most
+  suppliers run Shopify, which publishes everything at `/products.json`; Sweet Maria's
+  product pages are fetched too because scores live only there.
+- `.github/workflows/scrape.yml` runs it once a day (and on demand from the Actions tab)
+  and commits `docs/data/coffees.json` and `docs/data/meta.json`. `first_seen` is kept per
+  listing so the page can show a NEW badge for the first week.
+- `docs/index.html` is a single vanilla-JS page served by GitHub Pages. Filters are saved
+  in localStorage, and a PWA manifest lets it go on the home screen.
+
+## One-time setup
+
+1. **GitHub Pages:** Settings → Pages → Source "Deploy from a branch", branch `main`, folder `/docs`.
+2. **Run the first scrape:** Actions → "Scrape green coffee" → Run workflow. The page shows
+   "no data yet" until the first run has committed data.
+3. **Optional AI fill-in:** add a repository secret `ANTHROPIC_API_KEY`. When present, the
+   scraper asks Claude Haiku (`claude-haiku-5-5`) to fill in missing producer / varietal /
+   region / process from the description. Results are cached in `scraper/cache/enrich.json`
+   by product id + `updated_at`, so each listing is only ever sent once.
+   `GCT_ENRICH_MAX` (default 400) caps the number of listings sent per run.
+
+## Suppliers
+
+| key | supplier | notes |
+|---|---|---|
+| `sweetmarias` | Sweet Maria's | `product_type == "Green Coffee"`; country from `Category_…` tags; score/varietal/process scraped from the product page; `Category_Coffee Shrub` tags mark lots also sold wholesale |
+| `bodhileaf` | Bodhi Leaf | titles contain "(Green Coffee)"; specs parsed from description prose; no scores |
+| `coffeebeancorral` | Coffee Bean Corral | Shopify; equipment filtered out by title/type |
+| `royalcoffee` | Royal Coffee | importer; full bags priced per lb are normalised, Crown Jewel 22 lb boxes priced per box |
+| `showroom`, `captainscoffee`, `thetaridge`, `millcity` | extra Shopify stores | config-driven adapter in `scraper/suppliers/generic_shopify.py`; strict "green/unroasted" keyword filter |
+
+Add a Shopify store by appending to `STORES` in `generic_shopify.py`. Anything else gets its
+own module in `scraper/suppliers/` exposing `KEY`, `NAME` and `scrape()`.
+
+## Local development
+
+```bash
+pip install -r scraper/requirements.txt
+python scraper/tests/test_parsers.py          # offline parser tests on fixture catalogs
+python scraper/tests/mock_run.py              # full pipeline on fixtures -> docs/data/*.json
+python scraper/scrape.py --only bodhileaf     # real scrape of one supplier
+python scraper/scrape.py --no-pages           # skip Sweet Maria's per-product page fetches
+cd docs && python -m http.server 8000         # open http://localhost:8000
+```
+
+## Data shape
+
+Each entry in `coffees.json` has `id`, `supplier`, `title`, `url`, `image`, `country`,
+`region` (continent group), `subregion`, `producer`, `varietals[]`, `process`, `decaf`,
+`score`, `altitude`, `notes`, `description`, `variants[]` (`title`, `price`, `grams`, `lb`,
+`price_per_lb`, `available`, `size_class`), `in_stock`, `min_price_per_lb`, `min_price`,
+`size_classes[]`, `first_seen`, `wholesale`, `enriched`.
+
+Size classes: `sample` (<1 lb), `home` (1–5 lb), `box` (6–35 lb), `bag` (>35 lb).

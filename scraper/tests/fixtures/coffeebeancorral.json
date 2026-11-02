@@ -1,0 +1,7 @@
+{"products":[
+ {"id":7001,"title":"Brazil Cerrado Natural","handle":"brazil-cerrado","body_html":"<p>Farm: Fazenda Santa Ines. Variety: Yellow Catuai, Mundo Novo. Process: Natural. Cupping score: 84. Nutty, chocolate, low acid.</p>","product_type":"Green Coffee Beans","tags":["South America"],"updated_at":"2026-10-28T00:00:00-05:00","images":[],
+  "variants":[{"id":21,"title":"1 lb","price":"6.50","grams":454,"available":true},{"id":22,"title":"25 lb","price":"130.00","grams":11340,"available":true},{"id":23,"title":"132 lb","price":"620.00","grams":59874,"available":true}]},
+ {"id":7002,"title":"Gene Cafe Roaster","handle":"gene-cafe","body_html":"<p>Roaster</p>","product_type":"Equipment","tags":[],"updated_at":"2026-10-28T00:00:00-05:00","images":[],"variants":[{"id":24,"title":"Default Title","price":"700.00","grams":6000,"available":true}]},
+ {"id":7003,"title":"Sumatra Mandheling Grade 1","handle":"sumatra-mandheling","body_html":"<p>Wet hulled Mandheling from Lintong at 1200m. Earthy, syrupy.</p>","product_type":"","tags":[],"updated_at":"2026-10-28T00:00:00-05:00","images":[],
+  "variants":[{"id":25,"title":"1 lb","price":"7.25","grams":454,"available":true}]}
+]}

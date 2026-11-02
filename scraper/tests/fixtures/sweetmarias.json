@@ -1,0 +1,9 @@
+{"products":[
+ {"id":8001,"title":"Kenya Nyeri Gatomboya AA","handle":"kenya-nyeri-gatomboya-aa","body_html":"<p>Gatomboya is a factory of the Barichu FCS. Bright blackcurrant, grapefruit and brown sugar sweetness.</p>","product_type":"Green Coffee","tags":["Category_Sweet Marias/Green Coffee/Africa/Kenya","Category_Coffee Shrub/Green Coffee/Africa/Kenya","Arrival_Recent"],"updated_at":"2026-10-30T10:00:00-07:00","images":[{"src":"https://cdn.shopify.com/s/files/1/0001/kenya.jpg?v=1"}],
+  "variants":[{"id":1,"title":"1 LB","price":"9.95","grams":454,"available":true},{"id":2,"title":"5 LB","price":"46.50","grams":2268,"available":true},{"id":3,"title":"20 LB","price":"172.00","grams":9072,"available":false}]},
+ {"id":8002,"title":"Guatemala Huehuetenango Finca Rosma","handle":"guatemala-huehue-rosma","body_html":"<p>Chocolate bomb with a creamy body.</p>","product_type":"Green Coffee","tags":["Category_Sweet Marias/Green Coffee/Central America/Guatemala"],"updated_at":"2026-10-30T10:00:00-07:00","images":[],
+  "variants":[{"id":4,"title":"1 LB","price":"7.45","grams":454,"available":false},{"id":5,"title":"5 LB","price":"34.00","grams":2268,"available":false}]},
+ {"id":8003,"title":"Decaf Ethiopia Guji SWP","handle":"decaf-ethiopia-guji","body_html":"<p>Swiss Water Process decaf with berry notes.</p>","product_type":"Green Coffee","tags":["Category_Sweet Marias/Green Coffee/Africa/Ethiopia","Decaf"],"updated_at":"2026-10-30T10:00:00-07:00","images":[],
+  "variants":[{"id":6,"title":"1 LB","price":"8.50","grams":454,"available":true}]},
+ {"id":8004,"title":"Behmor 2000AB Plus","handle":"behmor","body_html":"<p>A roaster.</p>","product_type":"Roasting Equipment","tags":[],"updated_at":"2026-10-30T10:00:00-07:00","images":[],"variants":[{"id":7,"title":"Default Title","price":"399.00","grams":9000,"available":true}]}
+]}

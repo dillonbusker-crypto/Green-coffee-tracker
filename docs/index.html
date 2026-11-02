@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Green Coffee Tracker</title>
+<meta name="description" content="Daily snapshot of green (unroasted) coffee from popular suppliers, filterable by origin, process, varietal, score and bag size.">
+<meta name="theme-color" content="#22543d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<style>
+:root{
+  --bg:#f6f4ef; --card:#ffffff; --ink:#1d1d1b; --muted:#6b6a64; --line:#e3e0d8;
+  --accent:#22543d; --accent-ink:#ffffff; --chip:#ecebe4; --chip-on:#22543d; --chip-on-ink:#fff;
+  --score:#b7791f; --new:#c05621; --ok:#2f855a; --warn:#c53030; --shadow:0 1px 2px rgba(0,0,0,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#14171a; --card:#1d2227; --ink:#ecebe6; --muted:#9a9a93; --line:#2c333a;
+    --accent:#6fbf8e; --accent-ink:#0f1a14; --chip:#262d33; --chip-on:#6fbf8e; --chip-on-ink:#0f1a14;
+    --score:#e2b04a; --new:#f0885d; --ok:#68d391; --warn:#fc8181; --shadow:none; }
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-text-size-adjust:100%}
+a{color:inherit}
+button,select,input{font:inherit;color:inherit}
+button{cursor:pointer}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:env(safe-area-inset-top) 0 0}
+.bar{display:flex;align-items:center;gap:8px;padding:10px 12px 8px;max-width:1100px;margin:0 auto}
+.bar h1{font-size:17px;margin:0;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar h1 small{display:block;font-size:11px;font-weight:400;color:var(--muted)}
+.tools{display:flex;gap:8px;padding:0 12px 10px;max-width:1100px;margin:0 auto;align-items:center}
+.search{flex:1;min-width:0;display:flex;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:0 10px;height:38px}
+.search input{flex:1;min-width:0;border:0;background:transparent;outline:none;height:100%}
+.search button{border:0;background:transparent;color:var(--muted);padding:0 2px;font-size:18px;line-height:1}
+select.sort{height:38px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:0 8px;max-width:46%}
+.btn{height:38px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:0 12px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn .count{background:var(--chip-on);color:var(--chip-on-ink);border-radius:99px;padding:0 7px;font-size:12px;min-width:20px;text-align:center}
+.toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--muted);white-space:nowrap}
+.toggle input{width:16px;height:16px;accent-color:var(--accent)}
+main{max-width:1100px;margin:0 auto;padding:10px 12px 80px;display:grid;grid-template-columns:1fr;gap:10px}
+@media(min-width:900px){main{grid-template-columns:300px 1fr;align-items:start}}
+.status{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);align-items:center}
+.status .err{color:var(--warn)}
+.active{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px}
+.active:empty{display:none}
+.active .chip{background:var(--chip-on);color:var(--chip-on-ink)}
+/* filters panel */
+#filters{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 12px 12px;box-shadow:var(--shadow)}
+@media(max-width:899px){
+  #filters{position:fixed;left:0;right:0;bottom:0;top:auto;max-height:86vh;overflow:auto;z-index:20;border-radius:16px 16px 0 0;transform:translateY(105%);transition:transform .22s ease;padding-bottom:calc(16px + env(safe-area-inset-bottom))}
+  #filters.open{transform:none}
+  #scrim{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:19;display:none}
+  #scrim.open{display:block}
+}
+#filters .fhead{display:flex;align-items:center;justify-content:space-between;padding:10px 0 6px;position:sticky;top:0;background:var(--card);z-index:1}
+#filters .fhead b{font-size:15px}
+#filters .fhead .btn{height:32px}
+details.fs{border-top:1px solid var(--line);padding:4px 0}
+details.fs summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;padding:8px 0;font-weight:600;font-size:14px}
+details.fs summary::-webkit-details-marker{display:none}
+details.fs summary .sel{font-weight:400;color:var(--accent);font-size:12px;max-width:55%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+details.fs summary::after{content:"›";transform:rotate(90deg);color:var(--muted);margin-left:8px;transition:transform .15s}
+details.fs[open] summary::after{transform:rotate(-90deg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;padding:2px 0 8px}
+.chip{border:1px solid transparent;background:var(--chip);border-radius:99px;padding:5px 10px;font-size:13px;display:inline-flex;align-items:center;gap:6px;line-height:1.2}
+.chip .n{color:var(--muted);font-size:11px}
+.chip.on{background:var(--chip-on);color:var(--chip-on-ink)}
+.chip.on .n{color:inherit;opacity:.8}
+.chip.zero{opacity:.45}
+.grp{width:100%;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin:6px 0 0}
+.more{background:transparent;border:0;color:var(--accent);font-size:13px;padding:4px 0}
+.scoreopts{display:flex;gap:6px;padding:2px 0 8px;flex-wrap:wrap}
+/* cards */
+#list{display:grid;gap:10px;grid-template-columns:1fr}
+@media(min-width:600px) and (max-width:899px){#list{grid-template-columns:1fr 1fr}}
+@media(min-width:1100px){#list{grid-template-columns:1fr 1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;box-shadow:var(--shadow);display:grid;grid-template-columns:1fr auto;gap:4px 10px;position:relative;align-content:start}
+.card.oos{opacity:.62}
+.card .t{font-weight:600;font-size:15px;line-height:1.25;grid-column:1}
+.card .t a{text-decoration:none}
+.card .price{grid-column:2;grid-row:1/span 2;text-align:right;white-space:nowrap}
+.card .price b{font-size:18px;display:block}
+.card .price small{color:var(--muted);font-size:11px}
+.card .sub{grid-column:1;color:var(--muted);font-size:13px}
+.card .sub .sup{color:var(--ink);font-weight:500}
+.card .meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:5px;margin-top:4px;align-items:flex-start;align-content:flex-start}
+.tag{font-size:12px;border-radius:7px;padding:2px 7px;background:var(--chip);color:var(--ink)}
+.tag.score{background:var(--score);color:#fff;font-weight:600}
+.tag.new{background:var(--new);color:#fff;font-weight:600}
+.tag.proc{border:1px solid var(--line);background:transparent}
+.tag.size{background:transparent;border:1px dashed var(--line);color:var(--muted)}
+.tag.oosl{background:var(--warn);color:#fff}
+.tag.ws{background:transparent;border:1px solid var(--line);color:var(--muted)}
+.card .notes{grid-column:1/-1;font-size:13px;color:var(--muted);font-style:italic}
+.card .more-btn{grid-column:1/-1;background:transparent;border:0;color:var(--accent);text-align:left;padding:4px 0 0;font-size:13px}
+.card .detail{grid-column:1/-1;font-size:13px;display:none;border-top:1px solid var(--line);padding-top:8px;margin-top:4px}
+.card.open .detail{display:block}
+.card .detail table{width:100%;border-collapse:collapse;margin:6px 0}
+.card .detail td{padding:3px 0;border-bottom:1px solid var(--line)}
+.card .detail td:last-child{text-align:right;white-space:nowrap}
+.card .detail .x{color:var(--muted)}
+.card .detail p{margin:6px 0}
+.card .img{grid-column:1/-1;display:none}
+.card .detail img{max-width:120px;max-height:120px;border-radius:8px;float:right;margin:0 0 6px 10px;background:var(--chip)}
+.empty{padding:40px 12px;text-align:center;color:var(--muted)}
+#sentinel{height:1px}
+.fab{position:fixed;right:14px;bottom:calc(16px + env(safe-area-inset-bottom));z-index:18;box-shadow:0 4px 14px rgba(0,0,0,.25);border-radius:99px;height:46px;padding:0 18px}
+@media(min-width:900px){.fab,#scrim,#done{display:none!important}}
+.sr{position:absolute;left:-9999px}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Green Coffee Tracker <small id="updated">loading…</small></h1>
+    <label class="toggle"><input type="checkbox" id="instock" checked> In stock</label>
+  </div>
+  <div class="tools">
+    <div class="search"><input id="q" type="search" placeholder="Search title, producer, notes…" autocomplete="off"><button id="clearq" title="Clear" aria-label="Clear search" hidden>×</button></div>
+    <select class="sort" id="sort" aria-label="Sort">
+      <option value="ppl">$/lb ↑</option>
+      <option value="score">Score ↓</option>
+      <option value="new">Newest</option>
+      <option value="name">Name A–Z</option>
+      <option value="price">Price ↑</option>
+    </select>
+  </div>
+</header>
+
+<main>
+  <div class="status" id="status"></div>
+  <div class="active" id="active"></div>
+  <aside id="filters" aria-label="Filters">
+    <div class="fhead"><b id="fcount">Filters</b><span><button class="btn" id="reset">Reset</button> <button class="btn primary" id="done">Done</button></span></div>
+    <div id="facets"></div>
+  </aside>
+  <section>
+    <div id="list"></div>
+    <div id="sentinel"></div>
+  </section>
+</main>
+<div id="scrim"></div>
+<button class="btn primary fab" id="fab">Filters <span class="count" id="fabn" hidden>0</span></button>
+
+<script>
+(function(){
+'use strict';
+const $ = s => document.querySelector(s);
+const LS_KEY = 'gct.filters.v1';
+const SIZE_LABELS = {sample:'Sample (<1 lb)', home:'Home (1–5 lb)', box:'Box (6–35 lb)', bag:'Full bag (>35 lb)'};
+const SIZE_ORDER = ['sample','home','box','bag'];
+const REGION_ORDER = ['Africa','Arabia','Central America','South America','Caribbean','Asia-Pacific'];
+const FACETS = [
+  {key:'supplier', label:'Supplier', get:c=>[c.supplier]},
+  {key:'region', label:'Region', get:c=>c.region?[c.region]:[], order:v=>REGION_ORDER.indexOf(v)},
+  {key:'country', label:'Country', get:c=>c.country?[c.country]:[], group:c=>c.region||'Other'},
+  {key:'process', label:'Process', get:c=>c.process?[c.process]:[]},
+  {key:'varietals', label:'Varietal', get:c=>c.varietals||[], limit:24},
+  {key:'size_classes', label:'Bag size', get:c=>c.size_classes||[], order:v=>SIZE_ORDER.indexOf(v), fmt:v=>SIZE_LABELS[v]||v},
+  {key:'producer', label:'Producer', get:c=>c.producer?[c.producer]:[], limit:16},
+];
+const DEFAULT = {instock:true, q:'', sort:'ppl', minScore:0, decaf:'any', sel:{}};
+let state = load();
+let all = [], meta = null, shown = 0, filtered = [];
+const PAGE = 48;
+
+function load(){
+  try{ const s = JSON.parse(localStorage.getItem(LS_KEY)||'null'); if(s && typeof s==='object') return Object.assign({}, DEFAULT, s, {sel:Object.assign({}, s.sel||{})}); }catch(e){}
+  return JSON.parse(JSON.stringify(DEFAULT));
+}
+function save(){ try{ localStorage.setItem(LS_KEY, JSON.stringify(state)); }catch(e){} }
+
+function fmtMoney(n){ return n==null ? '—' : '$'+(n>=100? n.toFixed(0) : n.toFixed(2)); }
+function daysAgo(iso){ if(!iso) return 1e9; const d=new Date(iso+'T00:00:00'); return (Date.now()-d.getTime())/864e5; }
+function isNew(c){ return daysAgo(c.first_seen) <= 7; }
+function relTime(iso){ if(!iso) return ''; const h=(Date.now()-new Date(iso).getTime())/36e5; if(h<1) return 'just now'; if(h<36) return Math.round(h)+'h ago'; return Math.round(h/24)+'d ago'; }
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
+
+// ---- filtering ----
+function matchesBase(c){
+  if(state.instock && !c.in_stock) return false;
+  if(state.decaf==='hide' && c.decaf) return false;
+  if(state.decaf==='only' && !c.decaf) return false;
+  if(state.minScore && !(c.score >= state.minScore)) return false;
+  if(state.q){
+    const q = state.q.toLowerCase();
+    if(!c._text.includes(q)) return false;
+  }
+  return true;
+}
+function matchesFacet(c, f){
+  const sel = state.sel[f.key];
+  if(!sel || !sel.length) return true;
+  const vals = f.get(c);
+  return vals.some(v => sel.includes(v));
+}
+function matchesAll(c, exceptKey){
+  if(!matchesBase(c)) return false;
+  for(const f of FACETS){ if(f.key!==exceptKey && !matchesFacet(c,f)) return false; }
+  return true;
+}
+function apply(){
+  filtered = all.filter(c => matchesAll(c, null));
+  sortList(filtered);
+  shown = 0;
+  $('#list').innerHTML = '';
+  renderMore();
+  renderFacets();
+  renderActive();
+  renderStatus();
+  save();
+}
+function sortList(arr){
+  const s = state.sort;
+  const big = 1e12;
+  arr.sort((a,b)=>{
+    if(s==='ppl'){ return (a.min_price_per_lb??big)-(b.min_price_per_lb??big) || cmpName(a,b); }
+    if(s==='price'){ return (a.min_price??big)-(b.min_price??big) || cmpName(a,b); }
+    if(s==='score'){ return (b.score??-1)-(a.score??-1) || (a.min_price_per_lb??big)-(b.min_price_per_lb??big); }
+    if(s==='new'){ return daysAgo(a.first_seen)-daysAgo(b.first_seen) || cmpName(a,b); }
+    return cmpName(a,b);
+  });
+}
+function cmpName(a,b){ return a.title.localeCompare(b.title); }
+
+// ---- rendering ----
+function renderMore(){
+  const frag = document.createDocumentFragment();
+  const end = Math.min(filtered.length, shown+PAGE);
+  for(let i=shown;i<end;i++) frag.appendChild(card(filtered[i]));
+  shown = end;
+  $('#list').appendChild(frag);
+  if(!filtered.length){ $('#list').innerHTML = '<div class="empty">No coffees match. Try turning off “In stock” or clearing filters.</div>'; }
+}
+function card(c){
+  const el = document.createElement('article');
+  el.className = 'card' + (c.in_stock?'':' oos');
+  const sub = [c.country, c.subregion].filter(Boolean).join(' · ');
+  const tags = [];
+  if(c.score) tags.push(`<span class="tag score">${c.score}</span>`);
+  if(isNew(c)) tags.push(`<span class="tag new">NEW</span>`);
+  if(!c.in_stock) tags.push(`<span class="tag oosl">Sold out</span>`);
+  if(c.process) tags.push(`<span class="tag proc">${esc(c.process)}</span>`);
+  if(c.decaf) tags.push(`<span class="tag proc">Decaf</span>`);
+  for(const v of (c.varietals||[]).slice(0,3)) tags.push(`<span class="tag">${esc(v)}</span>`);
+  for(const s of (c.size_classes||[])) tags.push(`<span class="tag size">${esc(SIZE_LABELS[s]||s)}</span>`);
+  if(c.wholesale) tags.push(`<span class="tag ws">wholesale</span>`);
+  if(c.stale) tags.push(`<span class="tag ws" title="Supplier could not be reached on the last run">stale</span>`);
+  const ppl = c.min_price_per_lb;
+  el.innerHTML = `
+    <div class="t"><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.title)}</a></div>
+    <div class="price"><b>${ppl!=null? fmtMoney(ppl)+'<small>/lb</small>' : '—'}</b><small>${c.min_price!=null?'from '+fmtMoney(c.min_price):''}</small></div>
+    <div class="sub"><span class="sup">${esc(c.supplier)}</span>${sub?' · '+esc(sub):''}${c.producer?' · '+esc(c.producer):''}</div>
+    <div class="meta">${tags.join('')}</div>
+    ${c.notes?`<div class="notes">${esc(c.notes)}</div>`:''}
+    <button class="more-btn" type="button">Details ▾</button>
+    <div class="detail"></div>`;
+  el.querySelector('.more-btn').addEventListener('click', ()=>{
+    el.classList.toggle('open');
+    const d = el.querySelector('.detail');
+    if(!d.innerHTML) d.innerHTML = detail(c);
+    el.querySelector('.more-btn').textContent = el.classList.contains('open') ? 'Details ▴' : 'Details ▾';
+  });
+  return el;
+}
+function detail(c){
+  const rows = (c.variants||[]).map(v => `<tr><td>${esc(v.title)}${v.available?'':' <span class="x">(sold out)</span>'}</td><td>${fmtMoney(v.price)}${v.price_per_lb?` <span class="x">${fmtMoney(v.price_per_lb)}/lb</span>`:''}</td></tr>`).join('');
+  const facts = [
+    c.producer && ['Producer', c.producer], c.subregion && ['Region', c.subregion], c.varietals&&c.varietals.length && ['Varietal', c.varietals.join(', ')],
+    c.process && ['Process', c.process], c.altitude && ['Altitude', c.altitude], c.score && ['Score', c.score],
+    c.first_seen && ['First seen', c.first_seen], c.enriched && ['Note', 'some fields were extracted from the description by AI'],
+  ].filter(Boolean).map(([k,v])=>`<b>${k}:</b> ${esc(v)}`).join(' · ');
+  return `${c.image?`<img src="${esc(c.image)}" alt="" loading="lazy">`:''}
+    <p>${facts}</p>
+    <table>${rows}</table>
+    ${c.description?`<p class="x">${esc(c.description)}</p>`:''}
+    <p><a href="${esc(c.url)}" target="_blank" rel="noopener">Open at ${esc(c.supplier)} ↗</a></p>`;
+}
+
+function renderFacets(){
+  const host = $('#facets');
+  const openState = {}; host.querySelectorAll('details').forEach(d=>openState[d.dataset.key]=d.open);
+  let html = '';
+  // score + decaf first
+  html += `<details class="fs" data-key="_score" ${openState._score!==false?'open':''}><summary>Min score <span class="sel">${state.minScore?state.minScore+'+':''}</span></summary><div class="scoreopts">`
+    + [0,84,86,88,90].map(s=>`<button class="chip ${state.minScore===s?'on':''}" data-score="${s}">${s?s+'+':'Any'}</button>`).join('')
+    + `</div><div class="scoreopts">` + [['any','Decaf: show'],['hide','Hide decaf'],['only','Only decaf']].map(([k,l])=>`<button class="chip ${state.decaf===k?'on':''}" data-decaf="${k}">${l}</button>`).join('') + `</div></details>`;
+  for(const f of FACETS){
+    const counts = new Map();
+    for(const c of all){ if(!matchesAll(c, f.key)) continue; for(const v of f.get(c)) counts.set(v, (counts.get(v)||0)+1); }
+    const sel = state.sel[f.key]||[];
+    for(const v of sel) if(!counts.has(v)) counts.set(v, 0);
+    let entries = [...counts.entries()];
+    if(f.order) entries.sort((a,b)=>f.order(a[0])-f.order(b[0]));
+    else entries.sort((a,b)=> b[1]-a[1] || a[0].localeCompare(b[0]));
+    const expanded = host.querySelector(`details[data-key="${f.key}"] .more`)?.dataset.expanded==='1';
+    let limited = false;
+    if(f.limit && entries.length > f.limit && !expanded){ const keep = entries.slice(0,f.limit); for(const e of entries.slice(f.limit)) if(sel.includes(e[0])) keep.push(e); entries = keep; limited = true; }
+    let chips = '';
+    if(f.group){
+      const groups = new Map();
+      for(const [v,n] of entries){ const c = all.find(x=>f.get(x).includes(v)); const g = c? f.group(c):'Other'; if(!groups.has(g)) groups.set(g,[]); groups.get(g).push([v,n]); }
+      const gkeys = [...groups.keys()].sort((a,b)=>(REGION_ORDER.indexOf(a)+99)%100-(REGION_ORDER.indexOf(b)+99)%100);
+      for(const g of gkeys){ chips += `<div class="grp">${esc(g)}</div>`; for(const [v,n] of groups.get(g).sort((a,b)=>a[0].localeCompare(b[0]))) chips += chip(f,v,n,sel); }
+    } else {
+      for(const [v,n] of entries) chips += chip(f,v,n,sel);
+    }
+    if(limited) chips += `<button class="more" data-expanded="0">Show all ${counts.size}…</button>`;
+    const open = openState[f.key] ?? (sel.length>0);
+    html += `<details class="fs" data-key="${f.key}" ${open?'open':''}><summary>${f.label} <span class="sel">${sel.map(v=>f.fmt?f.fmt(v):v).join(', ')}</span></summary><div class="chips">${chips||'<span class="chip zero">none</span>'}</div></details>`;
+  }
+  host.innerHTML = html;
+  const n = activeCount();
+  $('#fcount').textContent = n ? `Filters (${n})` : 'Filters';
+  $('#fabn').hidden = !n; $('#fabn').textContent = n;
+}
+function chip(f,v,n,sel){
+  const on = sel.includes(v);
+  return `<button class="chip ${on?'on':''} ${!n&&!on?'zero':''}" data-facet="${f.key}" data-value="${esc(v)}">${esc(f.fmt?f.fmt(v):v)} <span class="n">${n}</span></button>`;
+}
+function activeCount(){ let n = Object.values(state.sel).reduce((a,s)=>a+(s?s.length:0),0); if(state.minScore) n++; if(state.decaf!=='any') n++; return n; }
+function renderActive(){
+  const host = $('#active'); let html='';
+  for(const f of FACETS) for(const v of (state.sel[f.key]||[])) html += `<button class="chip" data-facet="${f.key}" data-value="${esc(v)}">${esc(f.fmt?f.fmt(v):v)} ×</button>`;
+  if(state.minScore) html += `<button class="chip" data-score="0">Score ${state.minScore}+ ×</button>`;
+  if(state.decaf!=='any') html += `<button class="chip" data-decaf="any">${state.decaf==='hide'?'Hiding decaf':'Only decaf'} ×</button>`;
+  host.innerHTML = html;
+}
+function renderStatus(){
+  const parts = [`<b>${filtered.length}</b> of ${all.length} coffees`];
+  if(meta){
+    const errs = Object.entries(meta.suppliers||{}).filter(([k,v])=>!k.startsWith('_') && v.error);
+    if(errs.length) parts.push(`<span class="err">⚠ ${errs.map(([k,v])=>v.name).join(', ')} failed on the last run</span>`);
+    const nn = all.filter(isNew).length; if(nn) parts.push(`${nn} new this week`);
+  }
+  $('#status').innerHTML = parts.join(' · ');
+}
+
+// ---- events ----
+document.addEventListener('click', e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  if(b.dataset.facet){ toggle(b.dataset.facet, b.dataset.value); }
+  else if(b.dataset.score!=null){ state.minScore = +b.dataset.score; apply(); }
+  else if(b.dataset.decaf){ state.decaf = b.dataset.decaf; apply(); }
+  else if(b.classList.contains('more')){ b.dataset.expanded='1'; const d=b.closest('details'); const key=d.dataset.key; renderFacets(); const nd=$(`details[data-key="${key}"]`); if(nd){ nd.open=true; const m=nd.querySelector('.more'); if(m) m.dataset.expanded='1'; } }
+});
+function toggle(key, value){
+  const sel = state.sel[key] = (state.sel[key]||[]).slice();
+  const i = sel.indexOf(value); if(i>=0) sel.splice(i,1); else sel.push(value);
+  if(!sel.length) delete state.sel[key];
+  apply();
+}
+$('#instock').addEventListener('change', e=>{ state.instock = e.target.checked; apply(); });
+$('#sort').addEventListener('change', e=>{ state.sort = e.target.value; apply(); });
+let qt; $('#q').addEventListener('input', e=>{ clearTimeout(qt); qt=setTimeout(()=>{ state.q = e.target.value.trim(); $('#clearq').hidden=!state.q; apply(); }, 160); });
+$('#clearq').addEventListener('click', ()=>{ $('#q').value=''; state.q=''; $('#clearq').hidden=true; apply(); });
+$('#reset').addEventListener('click', ()=>{ state = JSON.parse(JSON.stringify(DEFAULT)); syncControls(); apply(); });
+const openF = ()=>{ $('#filters').classList.add('open'); $('#scrim').classList.add('open'); };
+const closeF = ()=>{ $('#filters').classList.remove('open'); $('#scrim').classList.remove('open'); };
+$('#fab').addEventListener('click', openF); $('#done').addEventListener('click', closeF); $('#scrim').addEventListener('click', closeF);
+new IntersectionObserver(es=>{ if(es[0].isIntersecting && shown<filtered.length) renderMore(); }, {rootMargin:'600px'}).observe($('#sentinel'));
+function syncControls(){ $('#instock').checked = state.instock; $('#sort').value = state.sort; $('#q').value = state.q; $('#clearq').hidden=!state.q; }
+
+// ---- load ----
+async function loadData(){
+  try{
+    const [cr, mr] = await Promise.all([fetch('data/coffees.json', {cache:'no-cache'}), fetch('data/meta.json', {cache:'no-cache'}).catch(()=>null)]);
+    const data = await cr.json();
+    meta = mr && mr.ok ? await mr.json() : null;
+    all = (data.coffees||[]).map(c => { c._text = [c.title, c.supplier, c.country, c.subregion, c.producer, (c.varietals||[]).join(' '), c.process, c.notes, c.description].filter(Boolean).join(' ').toLowerCase(); return c; });
+    $('#updated').textContent = all.length ? `updated ${relTime(data.generated_at)} · ${all.length} listings` : 'no data yet — the first daily run has not happened';
+  }catch(e){
+    $('#updated').textContent = 'could not load data';
+    $('#list').innerHTML = `<div class="empty">Could not load data/coffees.json (${esc(e.message)}).</div>`;
+    return;
+  }
+  syncControls();
+  apply();
+}
+loadData();
+if('serviceWorker' in navigator){ window.addEventListener('load', ()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
+})();
+</script>
+</body>
+</html>

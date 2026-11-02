@@ -1,0 +1,511 @@
+{
+"generated_at":"2026-11-02T18:52:22+00:00",
+"count":9,
+"coffees":[
+{
+"id":"bodhileaf:9001",
+"supplier":"Bodhi Leaf",
+"supplier_key":"bodhileaf",
+"title":"Colombia Huila Finca El Paraiso Pink Bourbon",
+"url":"https://www.bodhileafcoffee.com/products/colombia-el-paraiso",
+"image":"https://cdn.shopify.com/s/files/1/0002/col_600x.png",
+"country":"Colombia",
+"region":"South America",
+"subregion":"Huila",
+"producer":"Diego Bermudez",
+"varietals":[
+"Pink Bourbon"
+],
+"process":"Anaerobic",
+"decaf":false,
+"score":null,
+"altitude":"1900 masl",
+"notes":"lychee, rose, bubblegum",
+"description":"Region: Huila Producer: Diego Bermudez Varietal: Pink Bourbon Process: Thermal shock anaerobic Altitude: 1900 masl Tasting Notes: lychee, rose, bubblegum From the famous Finca El Paraiso.",
+"variants":[
+{
+"title":"1 lb",
+"price":12.0,
+"grams":454.0,
+"available":true,
+"lb":1.0,
+"price_per_lb":12.0,
+"size_class":"home",
+"variant_id":"11"
+},
+{
+"title":"5 lb",
+"price":55.0,
+"grams":2268.0,
+"available":true,
+"lb":5.0,
+"price_per_lb":11.0,
+"size_class":"home",
+"variant_id":"12"
+},
+{
+"title":"20 lb",
+"price":200.0,
+"grams":9072.0,
+"available":true,
+"lb":20.0,
+"price_per_lb":10.0,
+"size_class":"box",
+"variant_id":"13"
+}
+],
+"updated_at":"2026-10-29T00:00:00-07:00",
+"wholesale":false,
+"tags":[
+"Colombia",
+"Green Coffee"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":10.0,
+"min_price":12.0,
+"size_classes":[
+"home",
+"box"
+]
+},
+{
+"id":"bodhileaf:9002",
+"supplier":"Bodhi Leaf",
+"supplier_key":"bodhileaf",
+"title":"Ethiopia Yirgacheffe Aricha Natural G1",
+"url":"https://www.bodhileafcoffee.com/products/ethiopia-aricha",
+"image":null,
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":null,
+"producer":null,
+"varietals":[
+"Heirloom"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"This natural process Yirgacheffe from the Aricha washing station is grown at 1900-2100 masl by smallholder farmers. Heirloom varietals. Expect blueberry and jasmine.",
+"variants":[
+{
+"title":"1 lb",
+"price":9.5,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.5,
+"size_class":"home",
+"variant_id":"14"
+},
+{
+"title":"5 lb",
+"price":44.0,
+"grams":2267.96,
+"available":false,
+"lb":5.0,
+"price_per_lb":8.8,
+"size_class":"home",
+"variant_id":"15"
+}
+],
+"updated_at":"2026-10-29T00:00:00-07:00",
+"wholesale":false,
+"tags":[],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":9.5,
+"min_price":9.5,
+"size_classes":[
+"home"
+]
+},
+{
+"id":"coffeebeancorral:7001",
+"supplier":"Coffee Bean Corral",
+"supplier_key":"coffeebeancorral",
+"title":"Brazil Cerrado Natural",
+"url":"https://www.coffeebeancorral.com/products/brazil-cerrado",
+"image":null,
+"country":"Brazil",
+"region":"South America",
+"subregion":null,
+"producer":"Fazenda Santa Ines",
+"varietals":[
+"Yellow Catuai",
+"Mundo Novo"
+],
+"process":"Natural",
+"decaf":false,
+"score":84.0,
+"altitude":null,
+"notes":null,
+"description":"Farm: Fazenda Santa Ines. Variety: Yellow Catuai, Mundo Novo. Process: Natural. Cupping score: 84. Nutty, chocolate, low acid.",
+"variants":[
+{
+"title":"1 lb",
+"price":6.5,
+"grams":454.0,
+"available":true,
+"lb":1.0,
+"price_per_lb":6.5,
+"size_class":"home",
+"variant_id":"21"
+},
+{
+"title":"25 lb",
+"price":130.0,
+"grams":11340.0,
+"available":true,
+"lb":25.0,
+"price_per_lb":5.2,
+"size_class":"box",
+"variant_id":"22"
+},
+{
+"title":"132 lb",
+"price":620.0,
+"grams":59874.0,
+"available":true,
+"lb":132.0,
+"price_per_lb":4.7,
+"size_class":"bag",
+"variant_id":"23"
+}
+],
+"updated_at":"2026-10-28T00:00:00-05:00",
+"wholesale":false,
+"tags":[
+"South America"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":4.7,
+"min_price":6.5,
+"size_classes":[
+"home",
+"box",
+"bag"
+]
+},
+{
+"id":"coffeebeancorral:7003",
+"supplier":"Coffee Bean Corral",
+"supplier_key":"coffeebeancorral",
+"title":"Sumatra Mandheling Grade 1",
+"url":"https://www.coffeebeancorral.com/products/sumatra-mandheling",
+"image":null,
+"country":"Sumatra",
+"region":"Asia-Pacific",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":"Wet-hulled",
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Wet hulled Mandheling from Lintong at 1200m. Earthy, syrupy.",
+"variants":[
+{
+"title":"1 lb",
+"price":7.25,
+"grams":454.0,
+"available":true,
+"lb":1.0,
+"price_per_lb":7.25,
+"size_class":"home",
+"variant_id":"25"
+}
+],
+"updated_at":"2026-10-28T00:00:00-05:00",
+"wholesale":false,
+"tags":[],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":7.25,
+"min_price":7.25,
+"size_classes":[
+"home"
+]
+},
+{
+"id":"royalcoffee:6001",
+"supplier":"Royal Coffee",
+"supplier_key":"royalcoffee",
+"title":"Colombia Nariño Buesaco Excelso EP",
+"url":"https://royalcoffee.com/products/colombia-narino-buesaco",
+"image":null,
+"country":"Colombia",
+"region":"South America",
+"subregion":"Buesaco, Nariño",
+"producer":"Various smallholders",
+"varietals":[
+"Caturra",
+"Castillo",
+"Colombia"
+],
+"process":"Washed",
+"decaf":false,
+"score":85.5,
+"altitude":null,
+"notes":null,
+"description":"Producer: Various smallholders Region: Buesaco, Nariño Variety: Caturra, Castillo, Colombia Process: Fully washed Score: 85.5",
+"variants":[
+{
+"title":"70 kg",
+"price":640.44,
+"grams":70000.0,
+"available":true,
+"lb":154.25,
+"price_per_lb":4.15,
+"size_class":"bag",
+"variant_id":"31"
+}
+],
+"updated_at":"2026-10-27T00:00:00-07:00",
+"wholesale":true,
+"tags":[
+"Spot Offerings",
+"Colombia",
+"Washed"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":4.15,
+"min_price":640.44,
+"size_classes":[
+"bag"
+]
+},
+{
+"id":"royalcoffee:6002",
+"supplier":"Royal Coffee",
+"supplier_key":"royalcoffee",
+"title":"Crown Jewel Ethiopia Guji Shakiso Natural",
+"url":"https://royalcoffee.com/products/cj-ethiopia-guji",
+"image":null,
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Guji",
+"producer":"Shakiso washing station",
+"varietals":[
+"74110",
+"74112"
+],
+"process":"Natural",
+"decaf":false,
+"score":87.25,
+"altitude":null,
+"notes":null,
+"description":"Region: Guji Producer: Shakiso washing station Varietal: 74110, 74112 Process: Natural Cupping Score: 87.25",
+"variants":[
+{
+"title":"22 lb box",
+"price":158.0,
+"grams":9979.0,
+"available":true,
+"lb":22.0,
+"price_per_lb":7.18,
+"size_class":"box",
+"variant_id":"32"
+}
+],
+"updated_at":"2026-10-27T00:00:00-07:00",
+"wholesale":true,
+"tags":[
+"Crown Jewel",
+"Crown Jewels",
+"Ethiopia"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":7.18,
+"min_price":158.0,
+"size_classes":[
+"box"
+]
+},
+{
+"id":"sweetmarias:8003",
+"supplier":"Sweet Maria's",
+"supplier_key":"sweetmarias",
+"title":"Decaf Ethiopia Guji SWP",
+"url":"https://www.sweetmarias.com/products/decaf-ethiopia-guji",
+"image":null,
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Nyeri",
+"producer":null,
+"varietals":[
+"SL28",
+"SL34",
+"Ruiru 11"
+],
+"process":"Washed",
+"decaf":true,
+"score":88.5,
+"altitude":null,
+"notes":null,
+"description":"Swiss Water Process decaf with berry notes.",
+"variants":[
+{
+"title":"1 LB",
+"price":8.5,
+"grams":454.0,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.5,
+"size_class":"home",
+"variant_id":"6"
+}
+],
+"updated_at":"2026-10-30T10:00:00-07:00",
+"wholesale":false,
+"tags":[
+"Decaf"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":8.5,
+"min_price":8.5,
+"size_classes":[
+"home"
+]
+},
+{
+"id":"sweetmarias:8002",
+"supplier":"Sweet Maria's",
+"supplier_key":"sweetmarias",
+"title":"Guatemala Huehuetenango Finca Rosma",
+"url":"https://www.sweetmarias.com/products/guatemala-huehue-rosma",
+"image":null,
+"country":"Guatemala",
+"region":"Central America",
+"subregion":"Nyeri",
+"producer":null,
+"varietals":[
+"SL28",
+"SL34",
+"Ruiru 11"
+],
+"process":"Washed",
+"decaf":false,
+"score":88.5,
+"altitude":null,
+"notes":null,
+"description":"Chocolate bomb with a creamy body.",
+"variants":[
+{
+"title":"1 LB",
+"price":7.45,
+"grams":454.0,
+"available":false,
+"lb":1.0,
+"price_per_lb":7.45,
+"size_class":"home",
+"variant_id":"4"
+},
+{
+"title":"5 LB",
+"price":34.0,
+"grams":2268.0,
+"available":false,
+"lb":5.0,
+"price_per_lb":6.8,
+"size_class":"home",
+"variant_id":"5"
+}
+],
+"updated_at":"2026-10-30T10:00:00-07:00",
+"wholesale":false,
+"tags":[],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":false,
+"min_price_per_lb":6.8,
+"min_price":7.45,
+"size_classes":[
+"home"
+]
+},
+{
+"id":"sweetmarias:8001",
+"supplier":"Sweet Maria's",
+"supplier_key":"sweetmarias",
+"title":"Kenya Nyeri Gatomboya AA",
+"url":"https://www.sweetmarias.com/products/kenya-nyeri-gatomboya-aa",
+"image":"https://cdn.shopify.com/s/files/1/0001/kenya_600x.jpg",
+"country":"Kenya",
+"region":"Africa",
+"subregion":"Nyeri",
+"producer":null,
+"varietals":[
+"SL28",
+"SL34",
+"Ruiru 11"
+],
+"process":"Washed",
+"decaf":false,
+"score":88.5,
+"altitude":null,
+"notes":null,
+"description":"Gatomboya is a factory of the Barichu FCS. Bright blackcurrant, grapefruit and brown sugar sweetness.",
+"variants":[
+{
+"title":"1 LB",
+"price":9.95,
+"grams":454.0,
+"available":true,
+"lb":1.0,
+"price_per_lb":9.95,
+"size_class":"home",
+"variant_id":"1"
+},
+{
+"title":"5 LB",
+"price":46.5,
+"grams":2268.0,
+"available":true,
+"lb":5.0,
+"price_per_lb":9.3,
+"size_class":"home",
+"variant_id":"2"
+},
+{
+"title":"20 LB",
+"price":172.0,
+"grams":9072.0,
+"available":false,
+"lb":20.0,
+"price_per_lb":8.6,
+"size_class":"box",
+"variant_id":"3"
+}
+],
+"updated_at":"2026-10-30T10:00:00-07:00",
+"wholesale":true,
+"tags":[
+"Arrival_Recent"
+],
+"first_seen":"2026-11-02",
+"enriched":false,
+"in_stock":true,
+"min_price_per_lb":9.3,
+"min_price":9.95,
+"size_classes":[
+"home",
+"box"
+]
+}
+]
+}

@@ -1,0 +1,7 @@
+{"products":[
+ {"id":6001,"title":"Colombia Nariño Buesaco Excelso EP","handle":"colombia-narino-buesaco","body_html":"<p>Producer: Various smallholders<br>Region: Buesaco, Nariño<br>Variety: Caturra, Castillo, Colombia<br>Process: Fully washed<br>Score: 85.5</p>","product_type":"Spot Offerings","tags":["Colombia","Washed"],"updated_at":"2026-10-27T00:00:00-07:00","images":[],
+  "variants":[{"id":31,"title":"70 kg","price":"4.15","grams":70000,"available":true}]},
+ {"id":6002,"title":"Crown Jewel Ethiopia Guji Shakiso Natural","handle":"cj-ethiopia-guji","body_html":"<p>Region: Guji<br>Producer: Shakiso washing station<br>Varietal: 74110, 74112<br>Process: Natural<br>Cupping Score: 87.25</p>","product_type":"Crown Jewels","tags":["Crown Jewel","Ethiopia"],"updated_at":"2026-10-27T00:00:00-07:00","images":[],
+  "variants":[{"id":32,"title":"22 lb box","price":"158.00","grams":9979,"available":true}]},
+ {"id":6003,"title":"Royal Coffee T-Shirt","handle":"tshirt","body_html":"<p>shirt</p>","product_type":"Merch","tags":[],"updated_at":"2026-10-27T00:00:00-07:00","images":[],"variants":[{"id":33,"title":"M","price":"25.00","grams":200,"available":true}]}
+]}
