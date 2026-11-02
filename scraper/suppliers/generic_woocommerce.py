@@ -26,6 +26,8 @@ STORES: list[dict] = [
      "enabled": False, "reason": "2 lb minimum, no 1 lb size", "include_categories": ["Greens: Single Origin"]},
 ]
 
+EXCLUDE_TITLE_RE = re.compile(r"bundle|sampler|sample\s*pack|gift|subscription|roaster|grinder|merch|t-?shirt|mug\b", re.I)
+
 PROCESS_CATEGORIES = [("Semi-Washed (Honey)", "Honey"), ("Honey", "Honey"), ("Natural", "Natural"), ("Washed", "Washed"),
                       ("Wet Hulled", "Wet-hulled"), ("Anaerobic", "Anaerobic")]
 
@@ -71,6 +73,8 @@ def _make(store: dict) -> types.ModuleType:
         if price <= 0:
             return None
         title = clean_title(htmllib.unescape(it.get("name") or ""))
+        if EXCLUDE_TITLE_RE.search(title):
+            return None  # bundles and samplers are priced per pack, not per lb
         body = html_to_text((it.get("description") or "") + "\n" + (it.get("short_description") or ""))
         attrs: dict[str, str] = {}
         for a in it.get("attributes", []) or []:
