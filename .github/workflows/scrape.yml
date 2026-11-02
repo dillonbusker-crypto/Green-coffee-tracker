@@ -14,6 +14,10 @@ on:
         type: boolean
         required: false
         default: false
+      probe:
+        description: "Comma separated candidate store hosts to probe (no data changes), e.g. burmancoffee.com,happymugcoffee.com"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -40,7 +44,12 @@ jobs:
       - name: Parser tests
         run: python scraper/tests/test_parsers.py
 
+      - name: Probe candidate stores
+        if: github.event.inputs.probe != ''
+        run: python scraper/probe.py "${{ github.event.inputs.probe }}" | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Scrape
+        if: github.event.inputs.probe == ''
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ONLY: ${{ github.event.inputs.only }}
@@ -54,7 +63,7 @@ jobs:
           fi
 
       - name: Summary
-        if: always()
+        if: github.event.inputs.probe == ''
         run: |
           if [ -f docs/data/meta.json ]; then
             python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
@@ -72,7 +81,7 @@ jobs:
           fi
 
       - name: Upload raw catalogs (for debugging parsers)
-        if: always()
+        if: github.event.inputs.probe == ''
         uses: actions/upload-artifact@v4
         with:
           name: raw-catalogs
@@ -81,6 +90,7 @@ jobs:
           if-no-files-found: ignore
 
       - name: Commit data
+        if: github.event.inputs.probe == ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

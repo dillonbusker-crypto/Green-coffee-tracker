@@ -190,7 +190,8 @@ def extract_specs(text: str) -> dict[str, str]:
         if m:
             key = _LABEL_TO_KEY.get(m.group(1).lower())
             val = m.group(2).strip().rstrip(".;,")
-            if val.lower() in _HEADING_TAILS or val.lower() in _LABEL_TO_KEY or len(val) < 2:
+            first = re.split(r"[\s,:]+", val.lower(), 1)[0]
+            if first in _HEADING_TAILS or val.lower() in _LABEL_TO_KEY or len(val) < 2:
                 continue  # a heading such as "Producer Notes" or "Arrival date", not a value
             if key and key not in bare:
                 bare[key] = val
