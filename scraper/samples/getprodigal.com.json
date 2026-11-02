@@ -1,0 +1,819 @@
+{
+"product_type_counts":{
+"Roasted Coffee":23,
+"Green Coffee":3,
+"":21
+},
+"products":[
+{
+"id":9705591079151,
+"title":"Heyvis Sagastume",
+"handle":"heyvis-sagastume",
+"body_html":"<p>Once again we are blessed to be friends with Angel Arturo Paz, our Honduran Hero. Late in the season he was able to secure a few special coffees for us, and this ultra-tiny lot is sure to disappear quickly. Angel works with many producers in his area, and this lot from Heyvis Sagastume is a special one. It went first to our <a href=\"https://getprodigal.com/products/monthly-coffee-subscription\">subscribers</a> in September, and our limited supply is now available to all. We love this coffee's classic, clean flavors of apricot and orange with soft floral notes. Grab a bag from our subscription roast, perfectly rested and ready to drink!</p>\n<div class=\"elementor-element elementor-element-d6bd752 elementor-widget elementor-widget-text-editor\" data-id=\"d6bd752\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<span></span>Heyvis' tiny one-hectare farm is called Bosque Nublado, \"Cloud Forest\". Heyvis picked only ripe cherries, then hand sorted them at the farm before delivering to the wet mill. The mill depulps the cherries every afternoon, and then the parchment-coffee dry fermented for 18 hours. Afterward, the coffee is washed in four changes of water, then dried for 20 days with subsequent hand sorting.</div>\n<div class=\"elementor-widget-container\"></div>\n</div>\n<p>Process: Washed</p>\n<p>Variety: Geisha</p>\n<p>Region: Santa Bárbara, Honduras</p>\n<p><strong><em>Make sure to check that the roast date you've selected is what you're looking for </em></strong><em>— if there is an</em><strong><em> </em></strong><em>\"upcoming roast\" for this coffee, the upcoming roast date is listed under the tasting notes at the top of this product page.</em></p>\n<p><em><a href=\"https://getprodigal.com/pages/shipping-information\"><strong>Please read our shipping info page!</strong></a></em></p>",
+"published_at":"2026-10-21T14:34:50-06:00",
+"created_at":"2026-10-21T14:16:49-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Roasted Coffee",
+"tags":[
+"featured",
+"filter",
+"main",
+"new",
+"roasted"
+],
+"variants":[
+{
+"id":51194657472751,
+"title":"150 grams / September 24",
+"option1":"150 grams",
+"option2":"September 24",
+"option3":null,
+"sku":"zsep24_heyvis_150",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"35.00",
+"grams":185,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":9705591079151,
+"created_at":"2026-10-21T14:16:49-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51283797803247,
+"title":"150 grams / October 26",
+"option1":"150 grams",
+"option2":"October 26",
+"option3":null,
+"sku":"zoct26_heyvis_150",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":false,
+"price":"35.00",
+"grams":185,
+"compare_at_price":"0.00",
+"position":2,
+"product_id":9705591079151,
+"created_at":"2026-10-26T12:31:15-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":50048877658351,
+"created_at":"2026-10-21T14:23:11-06:00",
+"position":1,
+"updated_at":"2026-10-21T14:23:13-06:00",
+"product_id":9705591079151,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHeyvis.jpg?v=1792614193",
+"width":3322,
+"height":3322
+},
+{
+"id":50049609400559,
+"created_at":"2026-10-21T14:36:17-06:00",
+"position":2,
+"updated_at":"2026-10-21T14:36:18-06:00",
+"product_id":9705591079151,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/IMG_6739.jpg?v=1792614978",
+"width":5184,
+"height":3456
+},
+{
+"id":50049637318895,
+"created_at":"2026-10-21T14:36:53-06:00",
+"position":3,
+"updated_at":"2026-10-21T14:36:55-06:00",
+"product_id":9705591079151,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/IMG_9253.jpg?v=1792615015",
+"width":3264,
+"height":2448
+}
+],
+"options":[
+{
+"name":"SIZE",
+"position":1,
+"values":[
+"150 grams"
+]
+},
+{
+"name":"ROAST DATE",
+"position":2,
+"values":[
+"September 24",
+"October 26"
+]
+}
+]
+},
+{
+"id":9703152550127,
+"title":"Chelbesa Danche",
+"handle":"chelbesa-danche",
+"body_html":"<p>Chelbesa Danche is practically a household name in specialty coffee, and this lot is about as clean &amp; fruity as it gets. The flavors are layered orange and tart cherry, with even a hint of pineapple, grape, and raspberry. The aromas are rose and powdered sugary blueberries. This is classic, washed Ethiopian coffee.</p>\n<div class=\"elementor-element elementor-element-dfa67e7 elementor-widget elementor-widget-text-editor\" data-id=\"dfa67e7\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\"><span>This coffee is named for the Danche washing station where it's produced. Approximately 800 farmers deliver their coffee cherries to this washing station, each farming 2-3 hectares of land at 2200 meters. </span></div>\n</div>\n<div class=\"elementor-element elementor-element-d6bd752 elementor-widget elementor-widget-text-editor\" data-id=\"d6bd752\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<span>Only ripe cherries were picke, then they were floated to remove defects. Next the coffee was pulped, dry-fermented for 96 hours, and then fully washed. The coffee then dried for 12-14 days on raised beds.</span><span></span>\n</div>\n<div class=\"elementor-widget-container\">\n<span></span><br>\n</div>\n</div>\n<p>Process: Washed</p>\n<p>Variety: Kurume &amp; Wolisho</p>\n<p>Region: Gedeb, Ethiopia</p>\n<p><strong><em>Make sure to check that the roast date you've selected is what you're looking for </em></strong><em>— if there is an</em><strong><em> </em></strong><em>\"upcoming roast\" for this coffee, the upcoming roast date is listed under the tasting notes at the top of this product page.</em></p>\n<p><em><a href=\"https://getprodigal.com/pages/shipping-information\"><strong>Please read our shipping info page!</strong></a></em></p>",
+"published_at":"2026-10-21T14:14:27-06:00",
+"created_at":"2026-10-21T11:46:15-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Roasted Coffee",
+"tags":[
+"featured",
+"filter",
+"main",
+"new",
+"roasted"
+],
+"variants":[
+{
+"id":51191412097263,
+"title":"250 grams / September 24",
+"option1":"250 grams",
+"option2":"September 24",
+"option3":null,
+"sku":"zsep24_chelbesa_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":false,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":9703152550127,
+"created_at":"2026-10-21T11:46:15-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51283798622447,
+"title":"250 grams / October 26",
+"option1":"250 grams",
+"option2":"October 26",
+"option3":null,
+"sku":"zoct26_chelbesa_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":false,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":2,
+"product_id":9703152550127,
+"created_at":"2026-10-26T12:32:14-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51392296222959,
+"title":"250 grams / November 2",
+"option1":"250 grams",
+"option2":"November 2",
+"option3":null,
+"sku":"znov2_chelbesa_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":3,
+"product_id":9703152550127,
+"created_at":"2026-11-02T08:12:33-07:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51191412130031,
+"title":"250 grams / Upcoming Roast",
+"option1":"250 grams",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_chelbesa_250*",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":4,
+"product_id":9703152550127,
+"created_at":"2026-10-21T11:46:15-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51192572772591,
+"title":"1 kilogram / Upcoming Roast",
+"option1":"1 kilogram",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_chelbesa_KG1*",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"90.00",
+"grams":1150,
+"compare_at_price":"0.00",
+"position":5,
+"product_id":9703152550127,
+"created_at":"2026-10-21T12:40:11-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51192572838127,
+"title":"2.5 kilograms / Upcoming Roast",
+"option1":"2.5 kilograms",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_chelbesa_KG2.5*",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"200.00",
+"grams":2700,
+"compare_at_price":"0.00",
+"position":6,
+"product_id":9703152550127,
+"created_at":"2026-10-21T12:40:11-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":50040682316015,
+"created_at":"2026-10-21T11:46:24-06:00",
+"position":1,
+"updated_at":"2026-10-21T11:46:26-06:00",
+"product_id":9703152550127,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBChelbesaDanche.jpg?v=1792604786",
+"width":3322,
+"height":3322
+},
+{
+"id":50045709549807,
+"created_at":"2026-10-21T13:21:13-06:00",
+"position":2,
+"updated_at":"2026-10-21T13:21:15-06:00",
+"product_id":9703152550127,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/washingchannel.png?v=1792610475",
+"width":508,
+"height":762
+}
+],
+"options":[
+{
+"name":"SIZE",
+"position":1,
+"values":[
+"250 grams",
+"1 kilogram",
+"2.5 kilograms"
+]
+},
+{
+"name":"ROAST DATE",
+"position":2,
+"values":[
+"September 24",
+"October 26",
+"November 2",
+"Upcoming Roast"
+]
+}
+]
+},
+{
+"id":9681003446511,
+"title":"La Estrella",
+"handle":"la-estrella",
+"body_html":"<p>Colombia's new harvest is churning out gem after gem, and La Estrella is a delicious recent arrival. This coffee is honey-processed, but the process notes are extremely mild, and the wonderful fruit flavors are abundant. We love the vibrant cranberry and orange, with subtle cantaloupe in the finish. This coffee went to <a href=\"https://getprodigal.com/products/monthly-coffee-subscription\">subscribers</a> first, and the last of our tiny supply is now available to all!</p>\n<p>Carlos Estrella created this lot with cherries harvested on two sub-plots of his farm, La Jacoba and El Mirador. These plots are where Carlos planted geisha and other exotic varieties, the first in La Unión to do so! </p>\n<p>Ripe cherries were picked by hand and mechanically pulped. With the mucilage intact, the coffee fermented anaerobically for 48 hours. Then the coffee dried for 20-22 days. </p>\n<p>Process: Honey</p>\n<p>Variety: Geisha</p>\n<p>Region: Nariño, Colombia</p>\n<p><strong><em>Make sure to check that the roast date you've selected is what you're looking for </em></strong><em>— if there is an</em><strong><em> </em></strong><em>\"upcoming roast\" for this coffee, the upcoming roast date is listed under the tasting notes at the top of this product page.</em></p>\n<p><em><a href=\"https://getprodigal.com/pages/shipping-information\"><strong>Please read our shipping info page!</strong></a></em></p>",
+"published_at":"2026-10-14T13:48:32-06:00",
+"created_at":"2026-10-14T12:17:46-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Roasted Coffee",
+"tags":[
+"featured",
+"filter",
+"main",
+"roasted"
+],
+"variants":[
+{
+"id":51173030527215,
+"title":"150 grams / October 19",
+"option1":"150 grams",
+"option2":"October 19",
+"option3":null,
+"sku":"zoct19_Estrella_150*",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":false,
+"price":"35.00",
+"grams":185,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":9681003446511,
+"created_at":"2026-10-20T06:48:00-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51283799081199,
+"title":"150 grams / October 26",
+"option1":"150 grams",
+"option2":"October 26",
+"option3":null,
+"sku":"zoct26_Estrella_150*",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"35.00",
+"grams":185,
+"compare_at_price":"0.00",
+"position":2,
+"product_id":9681003446511,
+"created_at":"2026-10-26T12:33:29-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":49924716101871,
+"created_at":"2026-10-14T12:30:23-06:00",
+"position":1,
+"updated_at":"2026-10-14T12:30:25-06:00",
+"product_id":9681003446511,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBLaEstrella_e1be1046-4c50-476a-bcc9-71f3ed0cbb3f.jpg?v=1792002625",
+"width":3322,
+"height":3322
+},
+{
+"id":49924801167599,
+"created_at":"2026-10-14T12:53:31-06:00",
+"position":2,
+"updated_at":"2026-10-14T12:53:33-06:00",
+"product_id":9681003446511,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/LAESTRELLA2.jpg?v=1792004013",
+"width":6000,
+"height":4000
+},
+{
+"id":49924802838767,
+"created_at":"2026-10-14T12:53:54-06:00",
+"position":3,
+"updated_at":"2026-10-14T12:53:57-06:00",
+"product_id":9681003446511,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/LAESTRELLA13.jpg?v=1792004037",
+"width":6000,
+"height":4000
+}
+],
+"options":[
+{
+"name":"SIZE",
+"position":1,
+"values":[
+"150 grams"
+]
+},
+{
+"name":"ROAST DATE",
+"position":2,
+"values":[
+"October 19",
+"October 26"
+]
+}
+]
+},
+{
+"id":9627377303791,
+"title":"Rose Drift",
+"handle":"rose-drift",
+"body_html":"<p>This semi-washed pink bourbon from Finca Buena Vista, run by husband and wife Edgar Motta and Susana Mences, just landed at the roastery! Cherries were picked based on density, depulped, and processed using a semi-washed protocol preserving part of the mucilage. The coffee dried on raised beds in a single layer for 16-22 days.</p>\n<p>We are tasting berries and citrus with a sparkling acidity and a slight savory quality.</p>\n<p>We score this lot 87.25</p>\n<p>Process: Semi-washed</p>\n<p>Region: Huila, Colombia</p>\n<p>Variety: Pink Bourbon</p>\n<h3>Get 10% off a bag of roasted coffee when you buy a bag of green coffee! Use code HOMEROASTER at checkout. *excludes First Batch and Grinder Seasoning*</h3>\n<div id=\"te-floating-button-container\"></div>",
+"published_at":"2026-09-16T16:44:10-06:00",
+"created_at":"2026-09-16T16:16:56-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Green Coffee",
+"tags":[
+"green"
+],
+"variants":[
+{
+"id":50777050382575,
+"title":"1 Pound",
+"option1":"1 Pound",
+"option2":null,
+"option3":null,
+"sku":"zgrnRoseDrift_1lb",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"17.00",
+"grams":489,
+"compare_at_price":null,
+"position":1,
+"product_id":9627377303791,
+"created_at":"2026-09-16T16:16:57-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":50777050415343,
+"title":"5 Pounds",
+"option1":"5 Pounds",
+"option2":null,
+"option3":null,
+"sku":"zgrnRoseDrift_5lb",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"80.00",
+"grams":2700,
+"compare_at_price":null,
+"position":2,
+"product_id":9627377303791,
+"created_at":"2026-09-16T16:16:57-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":50777050448111,
+"title":"25 Pounds",
+"option1":"25 Pounds",
+"option2":null,
+"option3":null,
+"sku":"zgrnRoseDrift_25lb",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"375.00",
+"grams":12000,
+"compare_at_price":null,
+"position":2,
+"product_id":9627377303791,
+"created_at":"2026-09-16T16:16:57-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":49537533804783,
+"created_at":"2026-09-16T16:23:41-06:00",
+"position":1,
+"updated_at":"2026-09-16T16:23:42-06:00",
+"product_id":9627377303791,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/RoseDrift.jpg?v=1789597422",
+"width":4284,
+"height":4284
+}
+],
+"options":[
+{
+"name":"Size",
+"position":1,
+"values":[
+"1 Pound",
+"5 Pounds",
+"25 Pounds"
+]
+}
+]
+},
+{
+"id":9627253342447,
+"title":"Habtamu Guji G1",
+"handle":"habtamu-guji-g1",
+"body_html":"<p>Habtamu's name has graced our menu all season, and this latest washed Guji is a limited lot with beautiful flavors of cranberry, rhubarb, and peach syrup. Perhaps half a dozen Ethiopian coffees we have this year are attributed to him, and we hope you're enjoying this bull market of washed Ethiopian gems along with us. This coffee went to our <a href=\"https://getprodigal.com/products/monthly-coffee-subscription\">subscribers</a> first in August, and we have a limited supply of rested coffee from August 27 ready for immediate shipping!</p>\n<p>Habtamu Fikadu Aga is the producer and exporter of this lot, which comes from Guji in southern Ethiopia. Kuri Mountain Coffee (the company name) was founded in 2015 and started back in 1945 as a family business. Pulped cherries underwent submerged fermentation for 48-72 hours, and then they dried on raised beds for 10-12 days.</p>\n<p>Process: Washed</p>\n<p>Region: Guji, Ethiopia</p>\n<p>Variety: Heirloom</p>\n<p><strong><em>Make sure to check that the roast date you've selected is what you're looking for </em></strong><em>— if there is an</em><strong><em> </em></strong><em>\"upcoming roast\" for this coffee, the upcoming roast date is listed under the tasting notes at the top of this product page.</em></p>\n<p><em><a href=\"https://getprodigal.com/pages/shipping-information\"><strong>Please read our shipping info page!</strong></a></em></p>",
+"published_at":"2026-09-16T15:59:32-06:00",
+"created_at":"2026-09-16T15:45:06-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Roasted Coffee",
+"tags":[
+"featured",
+"filter",
+"main",
+"roasted"
+],
+"variants":[
+{
+"id":51040300138735,
+"title":"250 grams / October 12",
+"option1":"250 grams",
+"option2":"October 12",
+"option3":null,
+"sku":"Zoct12_GujiG1_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":false,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":9627253342447,
+"created_at":"2026-10-13T14:12:57-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51173038653679,
+"title":"250 grams / October 19",
+"option1":"250 grams",
+"option2":"October 19",
+"option3":null,
+"sku":"Zoct19_GujiG1_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":2,
+"product_id":9627253342447,
+"created_at":"2026-10-20T06:49:56-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51283812942063,
+"title":"250 grams / October 26",
+"option1":"250 grams",
+"option2":"October 26",
+"option3":null,
+"sku":"Zoct26_GujiG1_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":3,
+"product_id":9627253342447,
+"created_at":"2026-10-26T12:35:14-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51392195952879,
+"title":"250 grams / November 2",
+"option1":"250 grams",
+"option2":"November 2",
+"option3":null,
+"sku":"Znov2_GujiG1_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"24.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":4,
+"product_id":9627253342447,
+"created_at":"2026-11-02T07:58:03-07:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":49537124106479,
+"created_at":"2026-09-16T15:52:17-06:00",
+"position":1,
+"updated_at":"2026-09-16T15:52:18-06:00",
+"product_id":9627253342447,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHabtamuGujiG1_d3244ee7-c59a-4171-9f65-e971a7025f78.jpg?v=1789595538",
+"width":3322,
+"height":3322
+}
+],
+"options":[
+{
+"name":"SIZE",
+"position":1,
+"values":[
+"250 grams"
+]
+},
+{
+"name":"ROAST DATE",
+"position":2,
+"values":[
+"October 12",
+"October 19",
+"October 26",
+"November 2"
+]
+}
+]
+},
+{
+"id":9626895057135,
+"title":"Habtamu Danche Espresso",
+"handle":"habtamu-danche-espresso",
+"body_html":"<p><b><i>Roasted just a touch darker than our <a href=\"https://getprodigal.com/products/habtamu-danche\">filter version</a>, this espresso roast makes fantastic straight shots and Americanos.</i></b></p>\n<p>This is the year of Habtamu! We roasted this gorgeous washed Ethiopian for our <a href=\"https://getprodigal.com/products/monthly-coffee-subscription\">monthly subscribers</a> in July, and now it's available for everyone. Ethiopia is having a banner year, and Habtamu is knocking it out of the park. We're loving this coffee's big, ripe apricot coupled with a touch of pineapple and jasmine-like florals. </p>\n<p>Habtamu Fikadu Aga is the producer and exporter of this lot, which comes from Danche in southern Ethiopia. Kuri Mountain Coffee (the company name) was founded in 2015 and started back in 1945 as a family business. Coffee cherry comes to the mill from many farms in the region, spanning hundreds of hectares. The ripe cherry was sorted, pulped, fermented, washed, and dried on raised beds. This is traditional washed coffee.  </p>\n<p>Process: Washed</p>\n<p>Region: Yirgacheffe, Ethiopia</p>\n<p>Variety: Heirloom</p>\n<p><strong><em>Make sure to check that the roast date you've selected is what you're looking for </em></strong><em>— if there is an</em><strong><em> </em></strong><em>\"upcoming roast\" for this coffee, the upcoming roast date is listed under the tasting notes at the top of this product page.</em></p>\n<p><em><a href=\"https://getprodigal.com/pages/shipping-information\"><strong>Please read our shipping info page!</strong></a></em></p>",
+"published_at":"2026-09-16T13:07:36-06:00",
+"created_at":"2026-09-16T12:51:03-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00",
+"vendor":"Prodigal Coffee",
+"product_type":"Roasted Coffee",
+"tags":[
+"blend",
+"espresso",
+"featured",
+"main",
+"roasted"
+],
+"variants":[
+{
+"id":51040370458863,
+"title":"250 grams / October 12",
+"option1":"250 grams",
+"option2":"October 12",
+"option3":null,
+"sku":"Zoct12_HabDancheSPRO_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"25.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":1,
+"product_id":9626895057135,
+"created_at":"2026-10-13T14:20:11-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51178105864431,
+"title":"250 grams / October 19",
+"option1":"250 grams",
+"option2":"October 19",
+"option3":null,
+"sku":"Zoct19_HabDancheSPRO_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"25.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":2,
+"product_id":9626895057135,
+"created_at":"2026-10-20T16:09:10-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51283827589359,
+"title":"250 grams / October 26",
+"option1":"250 grams",
+"option2":"October 26",
+"option3":null,
+"sku":"Zoct26_HabDancheSPRO_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"25.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":3,
+"product_id":9626895057135,
+"created_at":"2026-10-26T12:37:14-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":51392268992751,
+"title":"250 grams / November 2",
+"option1":"250 grams",
+"option2":"November 2",
+"option3":null,
+"sku":"Znov2_HabDancheSPRO_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"25.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":4,
+"product_id":9626895057135,
+"created_at":"2026-11-02T08:09:45-07:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":50776169840879,
+"title":"250 grams / Upcoming Roast",
+"option1":"250 grams",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_HabDancheSPRO_250",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"25.00",
+"grams":285,
+"compare_at_price":"0.00",
+"position":5,
+"product_id":9626895057135,
+"created_at":"2026-09-16T12:51:03-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":50776169873647,
+"title":"1 kilogram / Upcoming Roast",
+"option1":"1 kilogram",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_HabDancheSPRO_KG1",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"90.00",
+"grams":1150,
+"compare_at_price":"0.00",
+"position":6,
+"product_id":9626895057135,
+"created_at":"2026-09-16T12:51:03-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+},
+{
+"id":50776169906415,
+"title":"2.5 kilograms / Upcoming Roast",
+"option1":"2.5 kilograms",
+"option2":"Upcoming Roast",
+"option3":null,
+"sku":"nov9_HabDancheSPRO_KG2.5",
+"requires_shipping":true,
+"taxable":true,
+"featured_image":null,
+"available":true,
+"price":"200.00",
+"grams":2700,
+"compare_at_price":"0.00",
+"position":7,
+"product_id":9626895057135,
+"created_at":"2026-09-16T12:51:03-06:00",
+"updated_at":"2026-11-02T12:52:19-07:00"
+}
+],
+"images":[
+{
+"id":49536020021487,
+"created_at":"2026-09-16T12:52:22-06:00",
+"position":1,
+"updated_at":"2026-09-16T12:52:23-06:00",
+"product_id":9626895057135,
+"variant_ids":[],
+"src":"https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHabtamuDancheESPRESSO.jpg?v=1789584743",
+"width":3322,
+"height":3322
+}
+],
+"options":[
+{
+"name":"SIZE",
+"position":1,
+"values":[
+"250 grams",
+"1 kilogram",
+"2.5 kilograms"
+]
+},
+{
+"name":"ROAST DATE",
+"position":2,
+"values":[
+"October 12",
+"October 19",
+"October 26",
+"November 2",
+"Upcoming Roast"
+]
+}
+]
+}
+]
+}
