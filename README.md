@@ -14,6 +14,12 @@ process, cupping score and bag size, an in-stock toggle, and sorting by $/lb or 
 - `.github/workflows/scrape.yml` runs it once a day (and on demand from the Actions tab)
   and commits `docs/data/coffees.json` and `docs/data/meta.json`. `first_seen` is kept per
   listing so the page can show a NEW badge for the first week.
+- Only listings that are actually for sale are kept. A listing that sells out stays for 14
+  days after it was last seen buyable (shown as "Sold out" when the in-stock toggle is off),
+  then disappears. Suppliers' archive pages for past lots are never included.
+- Fetching is polite but impatient: a blocked request (any 4xx) is never retried, anything
+  else gets at most two retries, and a supplier that keeps failing is skipped for that run
+  with the failure recorded in `meta.json` (yesterday's rows for it are kept, marked `stale`).
 - `docs/index.html` is a single vanilla-JS page served by GitHub Pages. Filters are saved
   in localStorage, and a PWA manifest lets it go on the home screen.
 

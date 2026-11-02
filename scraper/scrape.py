@@ -29,18 +29,18 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name
 log = logging.getLogger("gct")
 
 
-STALE_DAYS = 60
+RECENTLY_SOLD_OUT_DAYS = 14
 
 
-def is_stale_archive(c, today: str) -> bool:
-    """Sold-out listings a supplier has not touched in STALE_DAYS are archive pages, not inventory."""
-    if c.in_stock or not c.updated_at:
+def keep_listing(c, prev: dict | None, today: str) -> bool:
+    """Only listings that are for sale. A sold-out listing is kept for RECENTLY_SOLD_OUT_DAYS after we
+    last saw it buyable (so the page can show "just sold out"); supplier archive pages never appear."""
+    if c.in_stock:
+        return True
+    last = (prev or {}).get("last_in_stock")
+    if not last:
         return False
-    try:
-        upd = dt.datetime.fromisoformat(c.updated_at.replace("Z", "+00:00")).date()
-    except ValueError:
-        return False
-    return (dt.date.fromisoformat(today) - upd).days > STALE_DAYS
+    return (dt.date.fromisoformat(today) - dt.date.fromisoformat(last)).days <= RECENTLY_SOLD_OUT_DAYS
 
 
 def load_previous() -> dict[str, dict]:
@@ -81,14 +81,16 @@ def main() -> int:
         entry = {"name": mod.NAME, "count": 0, "in_stock": 0, "with_score": 0, "error": None, "seconds": 0}
         try:
             found = mod.scrape()
-            entry["count"] = len(found)
+            entry["scraped"] = len(found)
             entry["in_stock"] = sum(1 for c in found if c.in_stock)
             entry["with_score"] = sum(1 for c in found if c.score)
-            found = [c for c in found if not is_stale_archive(c, today)]
+            found = [c for c in found if keep_listing(c, previous.get(c.id), today)]
+            entry["count"] = len(found)
             for c in found:
                 d = c.to_dict()
                 prev = previous.get(d["id"])
                 d["first_seen"] = (prev or {}).get("first_seen") or today
+                d["last_in_stock"] = today if c.in_stock else (prev or {}).get("last_in_stock")
                 coffees.append(d)
         except Exception as e:  # noqa: BLE001
             entry["error"] = f"{type(e).__name__}: {e}"[:300]
