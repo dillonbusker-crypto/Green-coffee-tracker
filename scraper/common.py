@@ -99,6 +99,8 @@ def html_to_text(html: str | None) -> str:
     """Strip HTML, keeping line breaks for block elements so 'Label: value' lines survive."""
     if not html:
         return ""
+    if "&lt;" in html and html.count("&lt;") > html.count("<"):
+        html = htmllib.unescape(html)  # some stores (Royal) store the description HTML-escaped
     soup = BeautifulSoup(html, "html.parser")
     for br in soup.find_all("br"):
         br.replace_with("\n")
@@ -147,8 +149,8 @@ _SPEC_RE = re.compile(r"^\s*(?:[•\-\*·]\s*)?([A-Za-z][A-Za-z /\-\(\)]{1,32}?)
 # "Label value" with no separator, as rendered by attribute tables (Sweet Maria's). Only unambiguous labels.
 _BARE_LABELS = ["cupping score", "cup score", "score", "processing method", "process method", "processing", "process",
                 "varietals", "varietal", "variety", "varieties", "cultivar", "region", "arrival date", "arrival", "producer",
-                "farm", "altitude", "elevation", "grade", "harvest"]
-_LABEL_TO_KEY.update({"processing method": "process", "process method": "process"})
+                "farm", "farm gate", "altitude", "elevation", "grade", "harvest"]
+_LABEL_TO_KEY.update({"processing method": "process", "process method": "process", "farm gate": "_ignore"})
 _BARE_SPEC_RE = re.compile(r"^\s*(" + "|".join(re.escape(l) for l in sorted(_BARE_LABELS, key=len, reverse=True))
                            + r")\s+(?!:)(\S.{0,78})$", re.I)
 # "Producer Notes", "Arrival date", "Tasting notes" are headings, not values
@@ -459,9 +461,9 @@ class Variant:
     def finalize(self) -> "Variant":
         if self.grams and self.grams > 0:
             lb = self.grams / GRAMS_PER_LB
-            # Shopify stores whole grams, so 1 lb is 454 g: snap to the nearest 1/4 lb when within 1%
+            # Shopify stores whole grams (454 g, sometimes 449 g, for 1 lb): snap to the nearest 1/4 lb when within 2%
             q = round(lb * 4) / 4
-            self.lb = q if q > 0 and abs(q - lb) / lb < 0.01 else round(lb, 3)
+            self.lb = q if q > 0 and abs(q - lb) / lb < 0.02 else round(lb, 3)
             if self.price is not None:
                 self.price_per_lb = round(self.price / self.lb, 2)
         self.size_class = size_class(self.lb)

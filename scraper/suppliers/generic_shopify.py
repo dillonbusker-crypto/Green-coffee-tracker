@@ -20,7 +20,8 @@ log = logging.getLogger("gct.generic")
 
 STORES: list[dict] = [
     # key, name, base url, all_green (skip keyword filter), enabled
-    {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "all_green": False, "enabled": True},
+    {"key": "showroom", "name": "Showroom Coffee", "base": "https://showroomcoffee.com", "all_green": True, "enabled": True,
+     "product_types": ["Coffee"], "title_style": "commas"},
     {"key": "captainscoffee", "name": "The Captain's Coffee", "base": "https://thecaptainscoffee.com", "all_green": False, "enabled": True},
     {"key": "thetaridge", "name": "Theta Ridge Coffee", "base": "https://thetaridgecoffee.com", "all_green": True, "enabled": True},
     {"key": "millcity", "name": "Mill City Roasters", "base": "https://millcityroasters.com", "all_green": False, "enabled": True,
@@ -44,12 +45,15 @@ def _make(store: dict) -> types.ModuleType:
     mod.NAME = store["name"]
     mod.BASE = store["base"]
     all_green = store.get("all_green", False)
+    product_types = {t.lower() for t in store.get("product_types", [])}
 
     def is_green(p: dict) -> bool:
         title = p.get("title") or ""
         if EXCLUDE_RE.search(title):
             return False
         pt = p.get("product_type") or ""
+        if product_types and pt.lower() not in product_types:
+            return False
         tags = " ".join(t for t in (p.get("tags") or []) if isinstance(t, str))
         if EXCLUDE_RE.search(pt) and not GREEN_RE.search(pt):
             return False
@@ -87,6 +91,15 @@ def _make(store: dict) -> types.ModuleType:
                         c.producer = " / ".join(descriptive[:2])
                     else:
                         c.subregion = descriptive[0]
+        elif store.get("title_style") == "commas":
+            # Showroom: "Yohanis Dogoma, Worka Chelbesa, Natural, G1 Lot 2" -> producer, region, process, grade
+            parts = [x.strip() for x in title.split(",") if x.strip()]
+            if len(parts) >= 3:
+                rest = [x for x in parts if not (detect_process(x) or re.fullmatch(r"(G\d|grade\s*\d|lot\s*\d+|\(?\d+\s*kg\)?|[A-Z]{2,3}\d*)(\s+lot\s*\d+)?", x, re.I))]
+                if rest and not detect_country(rest[0]):
+                    c.producer = rest[0]
+                if len(rest) >= 2:
+                    c.subregion = rest[1]
         fill_from_text(c, body_text=body)
         return c.finalize()
 
