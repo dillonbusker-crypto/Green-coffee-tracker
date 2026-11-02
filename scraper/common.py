@@ -154,7 +154,7 @@ _LABEL_TO_KEY.update({"processing method": "process", "process method": "process
 _BARE_SPEC_RE = re.compile(r"^\s*(" + "|".join(re.escape(l) for l in sorted(_BARE_LABELS, key=len, reverse=True))
                            + r")\s+(?!:)(\S.{0,78})$", re.I)
 # "Producer Notes", "Arrival date", "Tasting notes" are headings, not values
-_HEADING_TAILS = {"notes", "note", "date", "info", "information", "details", "profile", "method", "type", "name"}
+_HEADING_TAILS = {"notes", "note", "date", "info", "information", "details", "profile", "method", "type", "name", "gate"}
 
 
 _ALL_LABELS_RE = re.compile(
@@ -490,10 +490,13 @@ def shopify_variants(product: dict, *, price_is_per_lb: bool = False, default_gr
         vt = clean_title(v.get("title") or "")
         if vt.lower() in ("default title", "default"):
             vt = ""
+        titled = grams_from_text(vt)
         if grams <= 0 or grams < 50:  # Shopify sometimes stores 0 or a nominal shipping weight
-            g2 = grams_from_text(vt) or grams_from_text(product.get("title", "")) or default_grams
+            g2 = titled or grams_from_text(product.get("title", "")) or default_grams
             if g2:
                 grams = g2
+        elif titled and 0.7 < grams / titled < 1.3:
+            grams = titled  # stored weight includes packaging ("1 Pound" at 489 g): trust the title
         if price_is_per_lb and grams > 0:
             price = round(price * grams / GRAMS_PER_LB, 2)
         var = Variant(

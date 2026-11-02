@@ -130,7 +130,7 @@ def parse_product(p: dict, page_html: str | None = None, page_attrs: dict | None
 
 
 PAGE_CACHE = Path(__file__).resolve().parent.parent / "cache" / "sweetmarias_pages.json"
-PARSER_VERSION = "v2"  # bump when parse_product_page changes so cached attributes are refreshed
+PARSER_VERSION = "v3"  # bump when parse_product_page changes so cached attributes are refreshed
 
 
 def cache_key(p: dict) -> str:
