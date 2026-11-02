@@ -32,9 +32,9 @@ STORES: list[dict] = [
      "all_green": True, "enabled": True, "product_types": ["Coffee"]},
     {"key": "happymug", "name": "Happy Mug", "base": "https://happymugcoffee.com", "ships_from": "US",
      "all_green": True, "enabled": True, "only_default_variant": True, "default_grams": 453.6,
-     "product_type_regex": r"^(africa|asia|central america|south america|indonesia|colombia|ethiopia|guatemala|brazil|kenya|"
-                           r"costa rica|honduras|el salvador|nicaragua|mexico|peru|panama|burundi|rwanda|tanzania|uganda|"
-                           r"sumatra|india|papua|yemen|bolivia|ecuador|decaf.*|green coffee)$"},
+     # green coffees are typed by origin; everything else is tea, roasted blends or merch
+     "exclude_type_regex": r"^(flavored|dark|oolong|herbal|special mug|standards|black.*|green|white|merchandise|accessories|"
+                           r"chai.*|hidden|espresso|blends.*|tea.*|gift.*|)$"},
     {"key": "greenbeanery", "name": "Green Beanery", "base": "https://greenbeanery.ca", "ships_from": "CA",
      "all_green": True, "enabled": True, "product_types": ["Unroasted Beans"], "currency": "CAD",
      "title_strip": r"^unroasted\s*[-–:]\s*"},
@@ -72,6 +72,7 @@ def _make(store: dict) -> types.ModuleType:
     all_green = store.get("all_green", False)
     product_types = {t.lower() for t in store.get("product_types", [])}
     type_re = re.compile(store["product_type_regex"], re.I) if store.get("product_type_regex") else None
+    exclude_type_re = re.compile(store["exclude_type_regex"], re.I) if store.get("exclude_type_regex") else None
     title_strip = re.compile(store["title_strip"], re.I) if store.get("title_strip") else None
     currency = store.get("currency", "USD")
     rate = CURRENCY_TO_USD.get(currency, 1.0)
@@ -84,6 +85,8 @@ def _make(store: dict) -> types.ModuleType:
         if product_types and pt.lower() not in product_types:
             return False
         if type_re and not type_re.match(pt.strip()):
+            return False
+        if exclude_type_re and exclude_type_re.match(pt.strip()):
             return False
         if store.get("only_default_variant"):
             vts = [(v.get("title") or "").strip().lower() for v in p.get("variants", [])]

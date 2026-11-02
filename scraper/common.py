@@ -522,11 +522,12 @@ def fix_per_lb_priced_variants(variants: list["Variant"]) -> None:
     """Some stores enter the per-pound price as the variant price for bulk sizes (e.g. '20 lbs - $9.55/lb'
     priced at 9.55). Detect a variant that is implausibly cheap next to its siblings, or whose price equals the
     $/lb figure in its own title, and scale it to the pack price."""
-    ppls = [v.price_per_lb for v in variants if v.price_per_lb]
-    ref = max(ppls) if ppls else None
     for v in variants:
         if not v.lb or v.lb <= 1.5 or not v.price_per_lb:
             continue
+        # compare against full-size siblings only: 100 g samples are legitimately expensive per lb
+        others = sorted(o.price_per_lb for o in variants if o is not v and o.price_per_lb and o.lb and o.lb >= 0.9)
+        ref = others[len(others) // 2] if others else None
         m = _PER_LB_IN_TITLE.search(v.title)
         title_says = m and abs(float(m.group(1)) - v.price) < 0.05
         implausible = v.price_per_lb < 1.5 or (ref and v.price_per_lb < 0.4 * ref and v.price < 1.5 * ref)
