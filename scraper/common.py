@@ -40,14 +40,23 @@ def get(url: str, *, retries: int = 3, timeout: int = 40, sleep: float = 0.4) ->
             r = session().get(url, timeout=timeout)
             if r.status_code in (429, 500, 502, 503, 504):
                 raise requests.HTTPError(f"{r.status_code} for {url}", response=r)
+            if 400 <= r.status_code < 500:
+                # blocked or missing: retrying will not help
+                raise FetchBlocked(f"{r.status_code} for {url}")
             r.raise_for_status()
             time.sleep(sleep)
             return r
+        except FetchBlocked:
+            raise
         except Exception as e:  # noqa: BLE001
             last = e
             time.sleep(1.5 * (attempt + 1))
     assert last is not None
     raise last
+
+
+class FetchBlocked(Exception):
+    """A 4xx response: the host refused us or the page does not exist."""
 
 
 def shopify_products(base: str, *, max_pages: int = 40) -> list[dict]:

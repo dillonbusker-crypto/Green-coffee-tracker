@@ -128,13 +128,20 @@ def scrape() -> list[Coffee]:
     coffees: list[Coffee] = []
     greens = [p for p in products if (p.get("product_type") or "").strip().lower() == "green coffee"]
     log.info("sweetmarias: %d products, %d green", len(products), len(greens))
+    failures = 0
+    fetch_pages = FETCH_PAGES
     for p in greens:
         page_html = None
-        if FETCH_PAGES:
+        if fetch_pages:
             try:
-                page_html = get(f"{BASE}/products/{p.get('handle')}", sleep=0.6).text
+                page_html = get(f"{BASE}/products/{p.get('handle')}", sleep=0.6, timeout=25).text
+                failures = 0
             except Exception as e:  # noqa: BLE001
+                failures += 1
                 log.warning("sweetmarias page fetch failed for %s: %s", p.get("handle"), e)
+                if failures >= 5:
+                    log.error("sweetmarias: 5 page fetches failed in a row, giving up on product pages (no scores)")
+                    fetch_pages = False
         c = parse_product(p, page_html)
         if c:
             coffees.append(c)
