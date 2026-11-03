@@ -1,18 +1,18 @@
 {
-"generated_at":"2026-11-02T20:02:22+00:00",
+"generated_at":"2026-11-03T18:27:06+00:00",
 "count":461,
-"in_stock":461,
-"new_today":461,
+"in_stock":456,
+"new_today":4,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":88,
-"in_stock":88,
-"with_score":475,
+"count":87,
+"in_stock":86,
+"with_score":474,
 "error":null,
-"seconds":100.8,
-"scraped":483
+"seconds":95.7,
+"scraped":482
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
@@ -21,7 +21,7 @@
 "in_stock":48,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":1.1,
 "scraped":50
 },
 "coffeebeancorral":{
@@ -31,28 +31,28 @@
 "in_stock":51,
 "with_score":1,
 "error":null,
-"seconds":0.9,
+"seconds":1.0,
 "scraped":84
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
 "ships_from":"US",
-"count":52,
-"in_stock":52,
+"count":53,
+"in_stock":53,
 "with_score":0,
 "error":null,
-"seconds":2.3,
+"seconds":3.8,
 "scraped":353
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
-"count":27,
-"in_stock":27,
+"count":26,
+"in_stock":26,
 "with_score":0,
 "error":null,
 "seconds":0.7,
-"scraped":29
+"scraped":28
 },
 "prodigal":{
 "name":"Prodigal Coffee",
@@ -61,27 +61,27 @@
 "in_stock":3,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.8,
 "scraped":3
 },
 "hacea":{
 "name":"Hacea Coffee Source",
 "ships_from":"US",
-"count":55,
-"in_stock":55,
+"count":54,
+"in_stock":54,
 "with_score":0,
 "error":null,
-"seconds":1.0,
-"scraped":57
+"seconds":0.7,
+"scraped":56
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
 "count":44,
-"in_stock":44,
+"in_stock":40,
 "with_score":0,
 "error":null,
-"seconds":6.6,
+"seconds":6.1,
 "scraped":668
 },
 "greenbeanery":{
@@ -91,18 +91,18 @@
 "in_stock":34,
 "with_score":14,
 "error":null,
-"seconds":5.0,
+"seconds":6.4,
 "scraped":40
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
-"count":59,
-"in_stock":59,
+"count":61,
+"in_stock":61,
 "with_score":0,
 "error":null,
-"seconds":34.4,
-"scraped":126
+"seconds":31.5,
+"scraped":125
 }
 },
 "size_labels":{
