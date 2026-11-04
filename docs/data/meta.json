@@ -1,17 +1,17 @@
 {
-"generated_at":"2026-11-03T18:27:06+00:00",
-"count":461,
+"generated_at":"2026-11-04T18:38:23+00:00",
+"count":463,
 "in_stock":456,
-"new_today":4,
+"new_today":2,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
 "count":87,
 "in_stock":86,
-"with_score":474,
+"with_score":121,
 "error":null,
-"seconds":95.7,
+"seconds":34.2,
 "scraped":482
 },
 "bodhileaf":{
@@ -21,7 +21,7 @@
 "in_stock":48,
 "with_score":0,
 "error":null,
-"seconds":1.1,
+"seconds":0.6,
 "scraped":50
 },
 "coffeebeancorral":{
@@ -31,7 +31,7 @@
 "in_stock":51,
 "with_score":1,
 "error":null,
-"seconds":1.0,
+"seconds":1.1,
 "scraped":84
 },
 "captainscoffee":{
@@ -51,24 +51,24 @@
 "in_stock":26,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.6,
 "scraped":28
 },
 "prodigal":{
 "name":"Prodigal Coffee",
 "ships_from":"US",
-"count":3,
-"in_stock":3,
+"count":4,
+"in_stock":4,
 "with_score":0,
 "error":null,
-"seconds":0.8,
-"scraped":3
+"seconds":0.9,
+"scraped":4
 },
 "hacea":{
 "name":"Hacea Coffee Source",
 "ships_from":"US",
 "count":54,
-"in_stock":54,
+"in_stock":53,
 "with_score":0,
 "error":null,
 "seconds":0.7,
@@ -77,12 +77,12 @@
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":44,
+"count":45,
 "in_stock":40,
 "with_score":0,
 "error":null,
-"seconds":6.1,
-"scraped":668
+"seconds":6.7,
+"scraped":669
 },
 "greenbeanery":{
 "name":"Green Beanery",
@@ -98,11 +98,11 @@
 "name":"Burman Coffee Traders",
 "ships_from":"US",
 "count":61,
-"in_stock":61,
+"in_stock":0,
 "with_score":0,
-"error":null,
-"seconds":31.5,
-"scraped":125
+"error":"ReadTimeout: HTTPSConnectionPool(host='burmancoffee.com', port=443): Read timed out. (read timeout=20)",
+"seconds":63.3,
+"stale":true
 }
 },
 "size_labels":{
