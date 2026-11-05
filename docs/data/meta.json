@@ -1,18 +1,18 @@
 {
-"generated_at":"2026-11-04T18:38:23+00:00",
-"count":463,
-"in_stock":456,
-"new_today":2,
+"generated_at":"2026-11-05T18:45:53+00:00",
+"count":480,
+"in_stock":467,
+"new_today":21,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":87,
-"in_stock":86,
-"with_score":121,
+"count":92,
+"in_stock":89,
+"with_score":61,
 "error":null,
-"seconds":34.2,
-"scraped":482
+"seconds":19.8,
+"scraped":487
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
@@ -21,48 +21,48 @@
 "in_stock":48,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.7,
 "scraped":50
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
-"count":51,
-"in_stock":51,
+"count":58,
+"in_stock":56,
 "with_score":1,
 "error":null,
 "seconds":1.1,
-"scraped":84
+"scraped":85
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
 "ships_from":"US",
-"count":53,
-"in_stock":53,
+"count":58,
+"in_stock":57,
 "with_score":0,
 "error":null,
-"seconds":3.8,
-"scraped":353
+"seconds":3.4,
+"scraped":356
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
-"count":26,
-"in_stock":26,
+"count":25,
+"in_stock":25,
 "with_score":0,
 "error":null,
-"seconds":0.6,
-"scraped":28
+"seconds":0.5,
+"scraped":27
 },
 "prodigal":{
 "name":"Prodigal Coffee",
 "ships_from":"US",
-"count":4,
-"in_stock":4,
+"count":5,
+"in_stock":5,
 "with_score":0,
 "error":null,
-"seconds":0.9,
-"scraped":4
+"seconds":0.6,
+"scraped":5
 },
 "hacea":{
 "name":"Hacea Coffee Source",
@@ -77,32 +77,32 @@
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":45,
-"in_stock":40,
+"count":46,
+"in_stock":42,
 "with_score":0,
 "error":null,
-"seconds":6.7,
+"seconds":5.9,
 "scraped":669
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
-"count":34,
-"in_stock":34,
-"with_score":14,
+"count":33,
+"in_stock":33,
+"with_score":13,
 "error":null,
-"seconds":6.4,
-"scraped":40
+"seconds":4.6,
+"scraped":39
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
 "count":61,
-"in_stock":0,
+"in_stock":59,
 "with_score":0,
-"error":"ReadTimeout: HTTPSConnectionPool(host='burmancoffee.com', port=443): Read timed out. (read timeout=20)",
-"seconds":63.3,
-"stale":true
+"error":null,
+"seconds":32.4,
+"scraped":125
 }
 },
 "size_labels":{
