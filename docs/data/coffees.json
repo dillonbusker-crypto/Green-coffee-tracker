@@ -1,6 +1,6 @@
 {
-"generated_at":"2026-11-05T18:45:53+00:00",
-"count":480,
+"generated_at":"2026-11-06T17:57:31+00:00",
+"count":483,
 "coffees":[
 {
 "id":"bodhileaf:8874497835182",
@@ -56,7 +56,7 @@
 "variant_id":"47042297462958"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -75,7 +75,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9213806117038",
@@ -129,7 +129,7 @@
 "variant_id":"48920400003246"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -149,7 +149,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:10552736845",
@@ -181,7 +181,7 @@
 "variant_id":"41282176589"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -197,7 +197,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8875529175214",
@@ -251,7 +251,7 @@
 "variant_id":"47045857181870"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Caturra",
@@ -273,7 +273,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:7756058788014",
@@ -327,7 +327,7 @@
 "variant_id":"43191438901422"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -349,7 +349,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9213817159854",
@@ -405,7 +405,7 @@
 "variant_id":"48920465965230"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -426,7 +426,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9239298670766",
@@ -481,7 +481,7 @@
 "variant_id":"49287077757102"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -503,7 +503,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:7257955074222",
@@ -559,7 +559,7 @@
 "variant_id":"40831979454638"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "catuai / red catuai",
@@ -577,7 +577,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9261094666414",
@@ -631,7 +631,7 @@
 "variant_id":"49329799004334"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -653,7 +653,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9261118390446",
@@ -707,7 +707,7 @@
 "variant_id":"49329837310126"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -729,7 +729,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8591490711726",
@@ -784,7 +784,7 @@
 "variant_id":"45819603419310"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -802,7 +802,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:6703884173486",
@@ -857,7 +857,7 @@
 "variant_id":"39779152265390"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -876,7 +876,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9209941786798",
@@ -930,7 +930,7 @@
 "variant_id":"48903536476334"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -952,7 +952,83 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
+},
+{
+"id":"bodhileaf:8225436729518",
+"supplier":"Bodhi Leaf",
+"supplier_key":"bodhileaf",
+"title":"Ethiopia Gori Gesha Carbonic Natural Gr1 - Green",
+"url":"https://www.bodhileafcoffee.com/products/ethiopia-gori-gesha-forest-carbonic-maceration-gr1-green",
+"image":"https://cdn.shopify.com/s/files/1/0731/1669/files/ethiopia-1914-square_600x.jpg",
+"country":"Ethiopia",
+"region":"Africa",
+"subregion":"Gesha, SNNPR",
+"producer":null,
+"varietals":[
+"Gesha"
+],
+"process":"Carbonic maceration",
+"decaf":false,
+"score":null,
+"altitude":"1,400 - 1,684 MASL",
+"notes":"Raspberry Jam, Fruit Leather, Apricot, Cherry Garcia",
+"description":"Country: Ethiopia Region: Gesha, SNNPR Varietal: Gori Gesha & Gesha 1931 Process : Natural + Carbonic Maceration Altitude: 1,400 - 1,684 MASL Cupping Notes: Raspberry Jam, Fruit Leather, Apricot, Cherry Garcia Recommended Roast: City to Full City Good For: Pour Over, Auto Drip, Espresso Description: Established in 2019, this Gesha region farm is lesser known compared to Yirgacheffe or Guji, but its varieties are…",
+"variants":[
+{
+"title":"1 LB",
+"price":13.31,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":13.31,
+"size_class":"home",
+"variant_id":"44713384411310"
+},
+{
+"title":"5 LB",
+"price":63.22,
+"grams":2267.96,
+"available":false,
+"lb":5.0,
+"price_per_lb":12.64,
+"size_class":"home",
+"variant_id":"44713384444078"
+},
+{
+"title":"20 LB",
+"price":234.26,
+"grams":9071.84,
+"available":false,
+"lb":20.0,
+"price_per_lb":11.71,
+"size_class":"box",
+"variant_id":"44713384476846"
+}
+],
+"updated_at":"2026-11-06T09:57:44-08:00",
+"wholesale":false,
+"tags":[
+"Ethiopia",
+"Experimental",
+"Fruity",
+"good for light roast level",
+"good for medium roast level",
+"gorigesha",
+"juicy",
+"Natural"
+],
+"first_seen":"2026-11-06",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":13.31,
+"min_price":13.31,
+"size_classes":[
+"home",
+"box"
+],
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9209950994606",
@@ -1006,7 +1082,7 @@
 "variant_id":"48903572586670"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1028,7 +1104,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8720112091310",
@@ -1082,7 +1158,7 @@
 "variant_id":"46350769062062"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1104,7 +1180,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8814778319022",
@@ -1159,7 +1235,7 @@
 "variant_id":"46800776036526"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1182,7 +1258,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9180259123374",
@@ -1236,7 +1312,7 @@
 "variant_id":"48092319318190"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -1257,7 +1333,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9184174080174",
@@ -1311,7 +1387,7 @@
 "variant_id":"48105835790510"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1331,7 +1407,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:6199663394990",
@@ -1386,7 +1462,7 @@
 "variant_id":"37822505255086"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -1403,7 +1479,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9136836346030",
@@ -1443,7 +1519,7 @@
 "title":"5 LB",
 "price":46.22,
 "grams":2267.96,
-"available":true,
+"available":false,
 "lb":5.0,
 "price_per_lb":9.24,
 "size_class":"home",
@@ -1453,14 +1529,14 @@
 "title":"20 LB",
 "price":171.25,
 "grams":9071.84,
-"available":true,
+"available":false,
 "lb":20.0,
 "price_per_lb":8.56,
 "size_class":"box",
 "variant_id":"47936024707246"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -1474,13 +1550,13 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.56,
+"min_price_per_lb":9.73,
 "min_price":9.73,
 "size_classes":[
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9136833986734",
@@ -1535,7 +1611,7 @@
 "variant_id":"47936015696046"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "caturra",
@@ -1556,7 +1632,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9239391142062",
@@ -1611,7 +1687,7 @@
 "variant_id":"49287206174894"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -1633,7 +1709,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9207015669934",
@@ -1687,7 +1763,7 @@
 "variant_id":"48890267041966"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Experimental",
@@ -1706,7 +1782,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9120304234670",
@@ -1760,7 +1836,7 @@
 "variant_id":"47890072305838"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Fruity",
@@ -1781,7 +1857,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:7094349953",
@@ -1840,7 +1916,7 @@
 "variant_id":"28634839679056"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -1858,7 +1934,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:15440810639534",
@@ -1912,7 +1988,7 @@
 "variant_id":"67885812908206"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Bali",
@@ -1932,7 +2008,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:15440820175022",
@@ -1987,7 +2063,7 @@
 "variant_id":"67885853409454"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Bali",
@@ -2007,7 +2083,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:2537130328144",
@@ -2062,7 +2138,7 @@
 "variant_id":"21857179959376"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2080,7 +2156,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8024121344174",
@@ -2136,7 +2212,7 @@
 "variant_id":"44091292156078"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "1",
@@ -2158,7 +2234,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9084939960494",
@@ -2192,7 +2268,7 @@
 "variant_id":"47761031168174"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2212,7 +2288,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9239609639086",
@@ -2267,7 +2343,7 @@
 "variant_id":"49287754776750"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2288,7 +2364,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:6226030166190",
@@ -2324,7 +2400,7 @@
 "variant_id":"37880198889646"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Coffee Week",
@@ -2345,7 +2421,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9219618013358",
@@ -2400,7 +2476,7 @@
 "variant_id":"48942123909294"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2421,7 +2497,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9219661398190",
@@ -2477,7 +2553,7 @@
 "variant_id":"48942174470318"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Experimental",
@@ -2500,7 +2576,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:6755302703278",
@@ -2555,7 +2631,7 @@
 "variant_id":"39868564799662"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "blendoff",
@@ -2575,7 +2651,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8602521731246",
@@ -2629,7 +2705,7 @@
 "variant_id":"45868703449262"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -2650,7 +2726,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8084927938734",
@@ -2707,7 +2783,7 @@
 "variant_id":"44242317246638"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "bourbon",
@@ -2726,7 +2802,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8964881186990",
@@ -2778,7 +2854,7 @@
 "variant_id":"47341432438958"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Decaf",
@@ -2800,7 +2876,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9207002103982",
@@ -2855,7 +2931,7 @@
 "variant_id":"48890240434350"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -2874,7 +2950,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9206611116206",
@@ -2931,7 +3007,7 @@
 "variant_id":"48889760612526"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Fair Trade Organic",
@@ -2953,7 +3029,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9206603645102",
@@ -3008,7 +3084,7 @@
 "variant_id":"48889741836462"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3028,7 +3104,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9037256032430",
@@ -3082,7 +3158,7 @@
 "variant_id":"47611798356142"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3102,7 +3178,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:9012718436526",
@@ -3157,7 +3233,7 @@
 "variant_id":"47517770383534"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3177,7 +3253,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8964059365550",
@@ -3233,7 +3309,7 @@
 "variant_id":"47337682141358"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "good for any roast level",
@@ -3254,7 +3330,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:2365510337",
@@ -3306,7 +3382,7 @@
 "variant_id":"21393818386512"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -3322,7 +3398,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8947173228718",
@@ -3376,7 +3452,7 @@
 "variant_id":"47265994834094"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "AFRICASALE",
@@ -3397,7 +3473,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:4501570289744",
@@ -3451,7 +3527,7 @@
 "variant_id":"32065076396112"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "catimor",
@@ -3473,7 +3549,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"bodhileaf:8472376836270",
@@ -3528,7 +3604,7 @@
 "variant_id":"45360863740078"
 }
 ],
-"updated_at":"2026-11-05T10:46:13-08:00",
+"updated_at":"2026-11-06T09:57:44-08:00",
 "wholesale":false,
 "tags":[
 "citrusy",
@@ -3548,7 +3624,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:312086",
@@ -3604,7 +3680,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:58",
@@ -3661,7 +3737,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:225834",
@@ -3688,7 +3764,7 @@
 "title":"1 lb",
 "price":10.99,
 "grams":453.592,
-"available":true,
+"available":false,
 "lb":1.0,
 "price_per_lb":10.99,
 "size_class":"home",
@@ -3713,7 +3789,7 @@
 "first_seen":"2026-11-03",
 "enriched":false,
 "currency":"USD",
-"in_stock":true,
+"in_stock":false,
 "min_price_per_lb":10.99,
 "min_price":10.99,
 "size_classes":[
@@ -3777,7 +3853,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:255832",
@@ -3862,7 +3938,7 @@
 "title":"1 lb",
 "price":9.99,
 "grams":453.592,
-"available":true,
+"available":false,
 "lb":1.0,
 "price_per_lb":9.99,
 "size_class":"home",
@@ -3887,7 +3963,7 @@
 "first_seen":"2026-11-03",
 "enriched":false,
 "currency":"USD",
-"in_stock":true,
+"in_stock":false,
 "min_price_per_lb":9.99,
 "min_price":9.99,
 "size_classes":[
@@ -3951,7 +4027,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:288614",
@@ -4012,7 +4088,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:108772",
@@ -4040,11 +4116,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":6.79,
+"price":6.99,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":6.79,
+"price_per_lb":6.99,
 "size_class":"home",
 "variant_id":"108772"
 }
@@ -4068,12 +4144,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":6.79,
-"min_price":6.79,
+"min_price_per_lb":6.99,
+"min_price":6.99,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:1474",
@@ -4132,7 +4208,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:92776",
@@ -4157,11 +4233,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":8.99,
+"price":7.99,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":8.99,
+"price_per_lb":7.99,
 "size_class":"home",
 "variant_id":"92776"
 }
@@ -4179,18 +4255,18 @@
 "Medium",
 "Natural",
 "Not-fruity",
-"Single Origin"
+"Sale Coffees"
 ],
 "first_seen":"2026-11-02",
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.99,
-"min_price":8.99,
+"min_price_per_lb":7.99,
+"min_price":7.99,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:141456",
@@ -4246,7 +4322,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:259508",
@@ -4302,7 +4378,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:288072",
@@ -4329,11 +4405,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":7.99,
+"price":9.35,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":7.99,
+"price_per_lb":9.35,
 "size_class":"home",
 "variant_id":"288072"
 }
@@ -4357,12 +4433,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":7.99,
-"min_price":7.99,
+"min_price_per_lb":9.35,
+"min_price":9.35,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:22138",
@@ -4422,7 +4498,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:145851",
@@ -4478,7 +4554,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:85792",
@@ -4538,7 +4614,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:105032",
@@ -4596,7 +4672,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:104303",
@@ -4654,7 +4730,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2794",
@@ -4717,7 +4793,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:263875",
@@ -4775,7 +4851,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:181718",
@@ -4833,7 +4909,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:135837",
@@ -4891,7 +4967,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:229866",
@@ -4949,7 +5025,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:271248",
@@ -5010,7 +5086,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:285237",
@@ -5069,7 +5145,67 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
+},
+{
+"id":"burman:122995",
+"supplier":"Burman Coffee Traders",
+"supplier_key":"burman",
+"title":"Guatemalan Premium Santa Rosa – Blue Ayarza – Natural Processed",
+"url":"https://burmancoffee.com/product/green-coffee-beans/guatemalan-ayarza/",
+"image":"https://burmancoffee.com/wp-content/uploads/2025/04/Guatemalan-Premium-Santa-Rosa-Blue-Ayarza-Natural-Processed-200x200.png",
+"country":"Guatemala",
+"region":"Central America",
+"subregion":"Santa Rosa",
+"producer":null,
+"varietals":[
+"Bourbon",
+"Catuai",
+"Anacafe 14"
+],
+"process":"Natural",
+"decaf":false,
+"score":null,
+"altitude":"1400-2000 masl",
+"notes":null,
+"description":"Blue Ayarza comes from smallholder farmers in Ayarza, Santa Rosa, Guatemala, who deliver their selected cherries to Olam’s mill. Grown at 1400 to 2000 masl, this coffee includes Anacafe 14, Bourbon, Catuai and Pache varieties. Careful selection of ripe cherries is the starting point for this natural processed lot. The region surrounds Laguna de Ayarza, a volcanic crater lake set among steep slopes. That terrain…",
+"variants":[
+{
+"title":"1 lb",
+"price":8.99,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":8.99,
+"size_class":"home",
+"variant_id":"122995"
+}
+],
+"updated_at":null,
+"wholesale":false,
+"tags":[
+"Arrived 10/01/26",
+"All Coffees",
+"All In Stock Items",
+"Burman Picks",
+"Central America",
+"Fruity",
+"Guatemala",
+"Light",
+"Low Acidity",
+"Medium",
+"Natural"
+],
+"first_seen":"2026-11-06",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":8.99,
+"min_price":8.99,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:133015",
@@ -5127,7 +5263,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:44783",
@@ -5185,7 +5321,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:230853",
@@ -5243,7 +5379,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2448",
@@ -5306,7 +5442,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2430",
@@ -5364,7 +5500,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:242",
@@ -5422,7 +5558,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:3049",
@@ -5447,11 +5583,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":7.99,
+"price":6.99,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":7.99,
+"price_per_lb":6.99,
 "size_class":"home",
 "variant_id":"3049"
 }
@@ -5469,18 +5605,18 @@
 "Medium",
 "New Arrivals",
 "Not-fruity",
-"Single Origin"
+"Sale Coffees"
 ],
 "first_seen":"2026-11-02",
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":7.99,
-"min_price":7.99,
+"min_price_per_lb":6.99,
+"min_price":6.99,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:126588",
@@ -5508,11 +5644,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":8.99,
+"price":7.99,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":8.99,
+"price_per_lb":7.99,
 "size_class":"home",
 "variant_id":"126588"
 }
@@ -5536,12 +5672,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.99,
-"min_price":8.99,
+"min_price_per_lb":7.99,
+"min_price":7.99,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2453",
@@ -5569,11 +5705,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":8.49,
+"price":7.49,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":8.49,
+"price_per_lb":7.49,
 "size_class":"home",
 "variant_id":"2453"
 }
@@ -5597,12 +5733,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.49,
-"min_price":8.49,
+"min_price_per_lb":7.49,
+"min_price":7.49,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2455",
@@ -5630,11 +5766,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":9.49,
+"price":8.49,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":9.49,
+"price_per_lb":8.49,
 "size_class":"home",
 "variant_id":"2455"
 }
@@ -5658,12 +5794,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":9.49,
-"min_price":9.49,
+"min_price_per_lb":8.49,
+"min_price":8.49,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:185757",
@@ -5688,11 +5824,11 @@
 "variants":[
 {
 "title":"1 lb",
-"price":6.98,
+"price":8.49,
 "grams":453.592,
 "available":true,
 "lb":1.0,
-"price_per_lb":6.98,
+"price_per_lb":8.49,
 "size_class":"home",
 "variant_id":"185757"
 }
@@ -5716,12 +5852,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":6.98,
-"min_price":6.98,
+"min_price_per_lb":8.49,
+"min_price":8.49,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:118217",
@@ -5780,7 +5916,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:271219",
@@ -5838,7 +5974,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:188022",
@@ -5898,7 +6034,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:79988",
@@ -5954,7 +6090,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:306368",
@@ -6015,7 +6151,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2815",
@@ -6076,7 +6212,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:291748",
@@ -6136,7 +6272,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:239685",
@@ -6196,7 +6332,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:138825",
@@ -6258,7 +6394,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:80084",
@@ -6316,7 +6452,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:3218",
@@ -6374,7 +6510,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2458",
@@ -6433,7 +6569,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:11969",
@@ -6489,7 +6625,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2563",
@@ -6545,7 +6681,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:2561",
@@ -6601,7 +6737,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:121161",
@@ -6657,7 +6793,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:300338",
@@ -6713,7 +6849,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:285371",
@@ -6771,7 +6907,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:238853",
@@ -6829,7 +6965,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:278750",
@@ -6887,7 +7023,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:238845",
@@ -6945,7 +7081,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:182078",
@@ -7005,7 +7141,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"burman:143139",
@@ -7121,7 +7257,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612240008",
@@ -7153,7 +7289,7 @@
 "variant_id":"46123985240200"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7167,7 +7303,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927618957448",
@@ -7199,7 +7335,7 @@
 "variant_id":"46212319576200"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7213,7 +7349,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615844488",
@@ -7245,7 +7381,7 @@
 "variant_id":"46212244144264"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7259,7 +7395,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615254664",
@@ -7291,7 +7427,7 @@
 "variant_id":"46124009554056"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7305,7 +7441,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:10323895484552",
@@ -7337,7 +7473,7 @@
 "variant_id":"50542245937288"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -7349,7 +7485,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8992809844872",
@@ -7381,7 +7517,7 @@
 "variant_id":"46239974097032"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7395,7 +7531,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612797064",
@@ -7427,7 +7563,7 @@
 "variant_id":"46123985961096"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7475,7 +7611,7 @@
 "variant_id":"46124046123144"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7489,7 +7625,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613452424",
@@ -7521,7 +7657,7 @@
 "variant_id":"46123987566728"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7535,7 +7671,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614697608",
@@ -7567,7 +7703,7 @@
 "variant_id":"46124000870536"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7581,7 +7717,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8992801554568",
@@ -7613,7 +7749,7 @@
 "variant_id":"46239940083848"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -7628,7 +7764,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615942792",
@@ -7660,7 +7796,7 @@
 "variant_id":"46124021088392"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7674,7 +7810,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612272776",
@@ -7706,7 +7842,7 @@
 "variant_id":"46123985338504"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7720,7 +7856,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612305544",
@@ -7752,7 +7888,7 @@
 "variant_id":"46123985404040"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -7767,7 +7903,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614828680",
@@ -7799,7 +7935,7 @@
 "variant_id":"45909046657160"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7813,7 +7949,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612534920",
@@ -7845,7 +7981,7 @@
 "variant_id":"46123985666184"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7859,7 +7995,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:10323697303688",
@@ -7891,7 +8027,7 @@
 "variant_id":"50541841580168"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -7937,7 +8073,7 @@
 "variant_id":"45909046591624"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7951,7 +8087,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614992520",
@@ -7985,7 +8121,7 @@
 "variant_id":"46212243554440"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -7999,7 +8135,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:9140778860680",
@@ -8031,7 +8167,7 @@
 "variant_id":"46519801118856"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -8043,7 +8179,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:9145096503432",
@@ -8075,7 +8211,7 @@
 "variant_id":"46539050942600"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -8085,7 +8221,7 @@
 "min_price_per_lb":null,
 "min_price":9.5,
 "size_classes":[],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616172168",
@@ -8117,7 +8253,7 @@
 "variant_id":"46124026953864"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8131,7 +8267,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612665992",
@@ -8163,7 +8299,7 @@
 "variant_id":"46212240703624"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8177,7 +8313,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612698760",
@@ -8211,7 +8347,7 @@
 "variant_id":"46123985830024"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8225,7 +8361,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:9123569172616",
@@ -8257,7 +8393,7 @@
 "variant_id":"46471328170120"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -8269,7 +8405,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614959752",
@@ -8301,7 +8437,7 @@
 "variant_id":"46124004114568"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8315,7 +8451,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615320200",
@@ -8347,7 +8483,7 @@
 "variant_id":"45909056454792"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8361,7 +8497,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613091976",
@@ -8393,7 +8529,7 @@
 "variant_id":"46123987402888"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -8408,7 +8544,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613059208",
@@ -8442,7 +8578,7 @@
 "variant_id":"46123987337352"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8456,7 +8592,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927612993672",
@@ -8488,7 +8624,7 @@
 "variant_id":"46123987304584"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8502,7 +8638,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614501000",
@@ -8534,7 +8670,7 @@
 "variant_id":"46123995299976"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8548,7 +8684,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615418504",
@@ -8580,7 +8716,7 @@
 "variant_id":"46124015157384"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8594,7 +8730,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614861448",
@@ -8626,7 +8762,7 @@
 "variant_id":"46212242342024"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8640,7 +8776,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616565384",
@@ -8672,7 +8808,7 @@
 "variant_id":"46212241129608"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8686,7 +8822,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614599304",
@@ -8718,7 +8854,7 @@
 "variant_id":"46212243095688"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8732,7 +8868,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616532616",
@@ -8764,7 +8900,7 @@
 "variant_id":"46212241490056"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8778,7 +8914,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615549576",
@@ -8810,7 +8946,7 @@
 "variant_id":"46124015550600"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8824,7 +8960,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613354120",
@@ -8856,7 +8992,7 @@
 "variant_id":"45909021884552"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8870,7 +9006,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616598152",
@@ -8902,7 +9038,7 @@
 "variant_id":"46124039471240"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8916,7 +9052,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616336008",
@@ -8948,7 +9084,7 @@
 "variant_id":"46124034326664"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -8962,7 +9098,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613583496",
@@ -8994,7 +9130,7 @@
 "variant_id":"46123987697800"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9008,7 +9144,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613616264",
@@ -9040,7 +9176,7 @@
 "variant_id":"46123987730568"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9054,7 +9190,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616073864",
@@ -9086,7 +9222,7 @@
 "variant_id":"46124026724488"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9102,7 +9238,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615877256",
@@ -9134,7 +9270,7 @@
 "variant_id":"46124021022856"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9148,7 +9284,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927617581192",
@@ -9180,7 +9316,7 @@
 "variant_id":"46124047958152"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9195,7 +9331,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616499848",
@@ -9229,7 +9365,7 @@
 "variant_id":"46124034654344"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9243,7 +9379,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614337160",
@@ -9275,7 +9411,7 @@
 "variant_id":"45909041512584"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9289,7 +9425,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614435464",
@@ -9321,7 +9457,7 @@
 "variant_id":"46123992416392"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9336,7 +9472,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:9117899161736",
@@ -9368,7 +9504,7 @@
 "variant_id":"46456657838216"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -9380,7 +9516,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927615647880",
@@ -9412,7 +9548,7 @@
 "variant_id":"46124015681672"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9427,7 +9563,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613714568",
@@ -9459,7 +9595,7 @@
 "variant_id":"46123987894408"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9473,7 +9609,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8987722678408",
@@ -9505,7 +9641,7 @@
 "variant_id":"46222048624776"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS"
@@ -9519,7 +9655,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613878408",
@@ -9551,7 +9687,7 @@
 "variant_id":"46123988189320"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9568,7 +9704,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927613976712",
@@ -9604,7 +9740,7 @@
 "variant_id":"46123988287624"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9619,7 +9755,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:15393975009416",
@@ -9653,7 +9789,7 @@
 "variant_id":"67584661487752"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -9665,7 +9801,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927614075016",
@@ -9697,7 +9833,7 @@
 "variant_id":"46123991892104"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9712,7 +9848,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927616434312",
@@ -9746,7 +9882,7 @@
 "variant_id":"46124034621576"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9761,7 +9897,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"coffeebeancorral:8927618465928",
@@ -9795,7 +9931,7 @@
 "variant_id":"46124048285832"
 }
 ],
-"updated_at":"2026-11-05T12:46:14-06:00",
+"updated_at":"2026-11-06T11:57:45-06:00",
 "wholesale":false,
 "tags":[
 "ALL-GREEN_COFFEE_BEANS",
@@ -9811,7 +9947,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4874104078416",
@@ -9916,7 +10052,7 @@
 "variant_id":"33195713888336"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -9941,7 +10077,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:2602095107",
@@ -10047,7 +10183,7 @@
 "variant_id":"7603523971"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10070,7 +10206,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:6535627636816",
@@ -10172,7 +10308,7 @@
 "variant_id":"39247598583888"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Brazilian coffee",
@@ -10194,7 +10330,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1620781187",
@@ -10298,7 +10434,7 @@
 "variant_id":"42956613254"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Brazilian coffee",
@@ -10320,7 +10456,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:2991184643",
@@ -10422,7 +10558,7 @@
 "variant_id":"8729527363"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10445,7 +10581,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:7414947053648",
@@ -10547,7 +10683,7 @@
 "variant_id":"42863955509328"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -10569,7 +10705,58 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
+},
+{
+"id":"greenbeanery:12091972358",
+"supplier":"Green Beanery",
+"supplier_key":"greenbeanery",
+"title":"Colombian Excelso Sugar Cane DECAF (Coffee of the Week)",
+"url":"https://greenbeanery.ca/products/unroasted-colombian-kvw-decaf-coffee-of-the-week",
+"image":"https://cdn.shopify.com/s/files/1/0895/2920/files/ColombianFarm_1_1_600x.webp",
+"country":"Colombia",
+"region":"South America",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":null,
+"decaf":true,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"About the bean Multiple smallholder farms across varied altitudes and microclimates combined their craft to yield this balanced, well-rounded Sugar Cane Decaf that tastes recognizably Colombian even after decaffeination. Processed with ethyl acetate derived from local sugar cane—a method long refined in Colombia—caffeine is removed leaving the intrinsic structure and sweetness more faithfully intact than many other…",
+"variants":[
+{
+"title":"2 lb",
+"price":29.7,
+"grams":907.184,
+"available":true,
+"lb":2.0,
+"price_per_lb":14.85,
+"size_class":"home",
+"variant_id":"51953492230"
+}
+],
+"updated_at":"2026-11-06T12:57:56-05:00",
+"wholesale":false,
+"tags":[
+"Coffee of the Week",
+"Decaf",
+"Decaf Green Beans",
+"Free Trade",
+"Free Trade Green Beans",
+"Unroasted Beans"
+],
+"first_seen":"2026-11-06",
+"enriched":false,
+"currency":"CAD",
+"in_stock":true,
+"min_price_per_lb":14.85,
+"min_price":29.7,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4756667957328",
@@ -10673,7 +10860,7 @@
 "variant_id":"32733184589904"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10696,7 +10883,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:7463241285712",
@@ -10800,7 +10987,7 @@
 "variant_id":"43046563840080"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10822,7 +11009,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:7374468841552",
@@ -10869,7 +11056,7 @@
 "title":"2 lb",
 "price":46.93,
 "grams":907.184,
-"available":true,
+"available":false,
 "lb":2.0,
 "price_per_lb":23.46,
 "size_class":"home",
@@ -10926,7 +11113,7 @@
 "variant_id":"42535544815696"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -10948,7 +11135,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1614228291",
@@ -11053,7 +11240,7 @@
 "variant_id":"4786564995"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -11075,7 +11262,67 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
+},
+{
+"id":"greenbeanery:7476878409808",
+"supplier":"Green Beanery",
+"supplier_key":"greenbeanery",
+"title":"Colombian Washed Excelso (Coffee of the Week)",
+"url":"https://greenbeanery.ca/products/unroasted-colombian-excelso-coffee-of-the-week-copy",
+"image":"https://cdn.shopify.com/s/files/1/0895/2920/products/colombianexcelso_600x.jpg",
+"country":"Colombia",
+"region":"South America",
+"subregion":"Huila",
+"producer":"CADEFIHUILA",
+"varietals":[
+"Castillo",
+"Caturra",
+"Colombia"
+],
+"process":"Washed",
+"decaf":false,
+"score":84.0,
+"altitude":"1,600 masl",
+"notes":null,
+"description":"About the bean This Excelso Washed arrives as a perfect expression of Colombian terroir: bright and clear, vivid without shouting. The highlands of Huila’s volcanic soils, cool nights, and native shade trees slow cherry ripening and concentrate sugars, giving the washed Excelso its characteristic citric lift, black-tea clarity, and layered stone-fruit notes, rather than heavy sweetness or aggressive acidity. The…",
+"variants":[
+{
+"title":"2 lb",
+"price":28.32,
+"grams":907.184,
+"available":true,
+"lb":2.0,
+"price_per_lb":14.16,
+"size_class":"home",
+"variant_id":"43121617272912"
+}
+],
+"updated_at":"2026-11-06T12:57:56-05:00",
+"wholesale":false,
+"tags":[
+"Arabica",
+"COFFEE BEANS",
+"Coffee of the Week",
+"Discovery Beans",
+"Favourite Beans",
+"Featured Coffee",
+"Free Trade",
+"Free Trade Green Beans",
+"Green Coffee Beans",
+"Purchasable with coffee credits",
+"Unroasted Beans"
+],
+"first_seen":"2026-11-06",
+"enriched":false,
+"currency":"CAD",
+"in_stock":true,
+"min_price_per_lb":14.16,
+"min_price":28.32,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1571186212944",
@@ -11181,7 +11428,7 @@
 "variant_id":"12892303687760"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11203,7 +11450,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1620717955",
@@ -11309,7 +11556,7 @@
 "variant_id":"4801085507"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -11331,7 +11578,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4538843791440",
@@ -11435,7 +11682,7 @@
 "variant_id":"32183887265872"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11455,7 +11702,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4748439683152",
@@ -11559,7 +11806,7 @@
 "variant_id":"32710577193040"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11582,7 +11829,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1614139203",
@@ -11686,7 +11933,7 @@
 "variant_id":"4786325059"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11709,7 +11956,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1615065219",
@@ -11813,7 +12060,7 @@
 "variant_id":"4788776515"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11835,7 +12082,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1619527875",
@@ -11939,7 +12186,7 @@
 "variant_id":"4798528515"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -11958,7 +12205,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:79765831686",
@@ -12060,7 +12307,7 @@
 "variant_id":"590123466758"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -12080,7 +12327,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1619537539",
@@ -12184,7 +12431,7 @@
 "variant_id":"4798561539"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -12203,7 +12450,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4088532230",
@@ -12305,7 +12552,7 @@
 "variant_id":"12417204102"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -12324,7 +12571,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:6617481117776",
@@ -12356,7 +12603,7 @@
 "variant_id":"39577240109136"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -12373,7 +12620,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1614151427",
@@ -12480,7 +12727,7 @@
 "variant_id":"4786359939"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -12500,7 +12747,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:10208522630",
@@ -12602,7 +12849,7 @@
 "variant_id":"40843988294"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -12623,7 +12870,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1616937987",
@@ -12727,7 +12974,7 @@
 "variant_id":"4793282563"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -12747,7 +12994,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1614724163",
@@ -12849,7 +13096,7 @@
 "variant_id":"4787787267"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -12868,7 +13115,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1620718275",
@@ -12975,7 +13222,7 @@
 "variant_id":"4801086659"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -12995,7 +13242,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1620722051",
@@ -13101,7 +13348,7 @@
 "variant_id":"4801099779"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -13121,7 +13368,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1614179843",
@@ -13229,7 +13476,7 @@
 "variant_id":"4786445571"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -13248,7 +13495,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:9890357766",
@@ -13352,7 +13599,7 @@
 "variant_id":"44802513926"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Fair Trade green beans",
@@ -13371,7 +13618,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:4669425418320",
@@ -13478,7 +13725,7 @@
 "variant_id":"32583568097360"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -13500,7 +13747,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1619538179",
@@ -13606,7 +13853,7 @@
 "variant_id":"4798563587"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -13625,7 +13872,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1619827587",
@@ -13731,7 +13978,7 @@
 "variant_id":"4799302211"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "COFFEE BEANS",
@@ -13752,7 +13999,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"greenbeanery:1620715203",
@@ -13856,7 +14103,7 @@
 "variant_id":"4801074307"
 }
 ],
-"updated_at":"2026-11-05T13:46:26-05:00",
+"updated_at":"2026-11-06T12:57:56-05:00",
 "wholesale":false,
 "tags":[
 "Arabica",
@@ -13876,7 +14123,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:6802121523338",
@@ -13938,7 +14185,7 @@
 "variant_id":"43044878909578"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Brazil",
@@ -13958,7 +14205,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9100382470282",
@@ -14020,7 +14267,7 @@
 "variant_id":"49522148606090"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Burundi",
@@ -14038,7 +14285,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9248401031306",
@@ -14102,7 +14349,7 @@
 "variant_id":"49942541566090"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -14121,7 +14368,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:7597198704778",
@@ -14183,7 +14430,7 @@
 "variant_id":"43044881498250"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -14204,7 +14451,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9248370655370",
@@ -14268,7 +14515,7 @@
 "variant_id":"49942424551562"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Co-fermentation",
@@ -14349,7 +14596,7 @@
 "variant_id":"49811655557258"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Colombia",
@@ -14370,7 +14617,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8668676063370",
@@ -14434,7 +14681,7 @@
 "variant_id":"47037406380170"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -14452,7 +14699,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9398143254666",
@@ -14514,7 +14761,7 @@
 "variant_id":"50525245210762"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Costa Rica",
@@ -14534,7 +14781,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9058021245066",
@@ -14598,7 +14845,7 @@
 "variant_id":"49416014102666"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -14620,7 +14867,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9058176729226",
@@ -14684,7 +14931,7 @@
 "variant_id":"49416377041034"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -14706,7 +14953,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9150132715658",
@@ -14770,7 +15017,7 @@
 "variant_id":"49629706158218"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -14790,7 +15037,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9337158238346",
@@ -14854,7 +15101,7 @@
 "variant_id":"50329331597450"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -14874,7 +15121,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8740532224138",
@@ -14938,7 +15185,7 @@
 "variant_id":"47308624396426"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -14958,7 +15205,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9237261222026",
@@ -15022,7 +15269,7 @@
 "variant_id":"49858535293066"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -15042,7 +15289,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9387546280074",
@@ -15116,7 +15363,7 @@
 "variant_id":"50472392229002"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -15137,7 +15384,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9395809288330",
@@ -15211,7 +15458,7 @@
 "variant_id":"50510317682826"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "El Salvador",
@@ -15232,7 +15479,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9384408187018",
@@ -15294,7 +15541,7 @@
 "variant_id":"50458653950090"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15315,7 +15562,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8660129218698",
@@ -15377,7 +15624,7 @@
 "variant_id":"47002481754250"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15398,7 +15645,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9295877111946",
@@ -15460,7 +15707,7 @@
 "variant_id":"50182506152074"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15480,7 +15727,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9410039283850",
@@ -15542,7 +15789,7 @@
 "variant_id":"50573726220426"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15562,7 +15809,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8660129513610",
@@ -15624,7 +15871,7 @@
 "variant_id":"47002488176778"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15645,7 +15892,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8864394477706",
@@ -15707,7 +15954,7 @@
 "variant_id":"47657777463434"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -15726,7 +15973,7 @@
 "home",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8864392544394",
@@ -15788,7 +16035,7 @@
 "variant_id":"47657764814986"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -15807,7 +16054,7 @@
 "home",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8684904972426",
@@ -15869,7 +16116,7 @@
 "variant_id":"47133370450058"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15890,7 +16137,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8684827213962",
@@ -15915,7 +16162,7 @@
 "title":"500 gram ($8.99 /lb)",
 "price":9.9,
 "grams":500.0,
-"available":true,
+"available":false,
 "lb":1.102,
 "price_per_lb":8.98,
 "size_class":"home",
@@ -15952,7 +16199,7 @@
 "variant_id":"47133221093514"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -15965,9 +16212,9 @@
 "first_seen":"2026-11-02",
 "enriched":false,
 "currency":"USD",
-"in_stock":true,
-"min_price_per_lb":8.98,
-"min_price":9.9,
+"in_stock":false,
+"min_price_per_lb":7.88,
+"min_price":5.0,
 "size_classes":[
 "sample",
 "home",
@@ -16035,7 +16282,7 @@
 "variant_id":"50380748718218"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16056,7 +16303,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8668679962762",
@@ -16118,7 +16365,7 @@
 "variant_id":"47037431480458"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16138,7 +16385,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9395773374602",
@@ -16200,7 +16447,7 @@
 "variant_id":"50510210957450"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16219,7 +16466,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8671961940106",
@@ -16291,7 +16538,7 @@
 "variant_id":"47053764329610"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Ethiopia",
@@ -16311,7 +16558,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9384055111818",
@@ -16373,7 +16620,7 @@
 "variant_id":"50456815861898"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16392,7 +16639,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9293186367626",
@@ -16454,7 +16701,7 @@
 "variant_id":"50176974192778"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16474,7 +16721,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9273693044874",
@@ -16536,7 +16783,7 @@
 "variant_id":"50089681682570"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16557,7 +16804,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8882238324874",
@@ -16621,7 +16868,7 @@
 "variant_id":"47707678605450"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "gesha",
@@ -16641,7 +16888,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8882236129418",
@@ -16705,7 +16952,7 @@
 "variant_id":"47707670839434"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -16723,7 +16970,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8882174820490",
@@ -16787,7 +17034,7 @@
 "variant_id":"47707462697098"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -16805,7 +17052,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8694644179082",
@@ -16867,7 +17114,7 @@
 "variant_id":"47169508737162"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16887,7 +17134,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8694440099978",
@@ -16951,7 +17198,7 @@
 "variant_id":"47168374866058"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -16971,7 +17218,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8695794172042",
@@ -17035,7 +17282,7 @@
 "variant_id":"47175672365194"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -17054,7 +17301,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9313861337226",
@@ -17116,7 +17363,7 @@
 "variant_id":"50255487238282"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17136,7 +17383,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9313863663754",
@@ -17198,7 +17445,7 @@
 "variant_id":"50255489663114"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17219,7 +17466,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9264631283850",
@@ -17281,7 +17528,7 @@
 "variant_id":"50056016232586"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17304,7 +17551,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8744971567242",
@@ -17366,7 +17613,7 @@
 "variant_id":"47320819990666"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17387,7 +17634,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9027416948874",
@@ -17449,7 +17696,7 @@
 "variant_id":"48086001418378"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -17467,7 +17714,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9180005466250",
@@ -17531,7 +17778,7 @@
 "variant_id":"49698430582922"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17552,7 +17799,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9237152792714",
@@ -17616,7 +17863,7 @@
 "variant_id":"49858310733962"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17638,90 +17885,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
-},
-{
-"id":"hacea:8663262036106",
-"supplier":"Hacea Coffee Source",
-"supplier_key":"hacea",
-"title":"India Kerehaklu Estate S9 Blossom Cultured Washed",
-"url":"https://haceacoffee.com/products/india-kerehaklu-s9-blossom-cultured-washed",
-"image":"https://cdn.shopify.com/s/files/1/0364/3772/1226/files/Infographic-HA-25242-13-India-1330x1000_600x.jpg",
-"country":"India",
-"region":"Asia-Pacific",
-"subregion":null,
-"producer":null,
-"varietals":[],
-"process":"Washed",
-"decaf":false,
-"score":null,
-"altitude":null,
-"notes":null,
-"description":"Add to your account View on Aillio roast.world Contact us for pricing on full bags.",
-"variants":[
-{
-"title":"500 gram ($9.71 /lb)",
-"price":10.69,
-"grams":500.0,
-"available":true,
-"lb":1.102,
-"price_per_lb":9.7,
-"size_class":"home",
-"variant_id":"47014941425802"
-},
-{
-"title":"2 kg ($9.46 /lb)",
-"price":41.67,
-"grams":2000.0,
-"available":false,
-"lb":4.409,
-"price_per_lb":9.45,
-"size_class":"home",
-"variant_id":"47014941458570"
-},
-{
-"title":"20 kg ($8.49 /lb)",
-"price":374.0,
-"grams":20000.0,
-"available":false,
-"lb":44.0,
-"price_per_lb":8.5,
-"size_class":"box",
-"variant_id":"47014941491338"
-},
-{
-"title":"100 gram sample",
-"price":6.0,
-"grams":100.0,
-"available":false,
-"lb":0.22,
-"price_per_lb":27.27,
-"size_class":"sample",
-"variant_id":"47014941524106"
-}
-],
-"updated_at":"2026-11-05T10:46:20-08:00",
-"wholesale":false,
-"tags":[
-"Essentials",
-"Green Coffee",
-"India",
-"Inoculated",
-"Sequential Processing",
-"Washed Process"
-],
-"first_seen":"2026-11-02",
-"enriched":false,
-"currency":"USD",
-"in_stock":true,
-"min_price_per_lb":9.7,
-"min_price":10.69,
-"size_classes":[
-"sample",
-"home",
-"box"
-],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8660691386506",
@@ -17785,7 +17949,7 @@
 "variant_id":"47004679405706"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17805,7 +17969,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8685249101962",
@@ -17869,7 +18033,7 @@
 "variant_id":"47133885792394"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -17889,7 +18053,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:8685260341386",
@@ -17951,7 +18115,7 @@
 "variant_id":"47133899915402"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -17972,7 +18136,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9292773130378",
@@ -18034,7 +18198,7 @@
 "variant_id":"50174620762250"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Essentials",
@@ -18054,7 +18218,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9086237147274",
@@ -18116,7 +18280,7 @@
 "variant_id":"49494144614538"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "anaerobic",
@@ -18134,7 +18298,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9065220636810",
@@ -18196,7 +18360,7 @@
 "variant_id":"49446690848906"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -18214,7 +18378,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9072658972810",
@@ -18276,7 +18440,7 @@
 "variant_id":"49468274278538"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Green Coffee",
@@ -18294,7 +18458,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"hacea:9066022600842",
@@ -18356,7 +18520,7 @@
 "variant_id":"49449436348554"
 }
 ],
-"updated_at":"2026-11-05T10:46:20-08:00",
+"updated_at":"2026-11-06T09:57:50-08:00",
 "wholesale":false,
 "tags":[
 "Decaf",
@@ -18376,7 +18540,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956908269656",
@@ -18408,7 +18572,7 @@
 "variant_id":"19630885830744"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18422,7 +18586,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1997165985880",
@@ -18454,7 +18618,7 @@
 "variant_id":"19894490005592"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18468,7 +18632,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:9372046885151",
@@ -18500,7 +18664,7 @@
 "variant_id":"48965077434655"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -18515,7 +18679,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956909219928",
@@ -18547,7 +18711,7 @@
 "variant_id":"19630886781016"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -18562,7 +18726,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:9402344702239",
@@ -18594,7 +18758,7 @@
 "variant_id":"49100840698143"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18608,7 +18772,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956913283160",
@@ -18640,7 +18804,7 @@
 "variant_id":"19630891597912"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18654,7 +18818,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10661426856223",
@@ -18686,7 +18850,7 @@
 "variant_id":"53146075463967"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18700,7 +18864,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4892485091416",
@@ -18732,7 +18896,7 @@
 "variant_id":"33673258958936"
 }
 ],
-"updated_at":"2026-11-05T13:46:22-05:00",
+"updated_at":"2026-11-06T12:57:53-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18746,7 +18910,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956919312472",
@@ -18778,7 +18942,7 @@
 "variant_id":"19630899495000"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18792,7 +18956,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4601691799640",
@@ -18824,7 +18988,7 @@
 "variant_id":"32797543891032"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18838,7 +19002,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956914331736",
@@ -18870,7 +19034,7 @@
 "variant_id":"19630892679256"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18918,7 +19082,7 @@
 "variant_id":"51480491622687"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18932,7 +19096,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956920950872",
@@ -18964,7 +19128,7 @@
 "variant_id":"19630901100632"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -18978,7 +19142,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956907778136",
@@ -19010,7 +19174,7 @@
 "variant_id":"19630885306456"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -19057,7 +19221,7 @@
 "variant_id":"19630885994584"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -19072,7 +19236,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956917117016",
@@ -19104,7 +19268,7 @@
 "variant_id":"19630895595608"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19118,7 +19282,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956913348696",
@@ -19150,7 +19314,7 @@
 "variant_id":"19630891696216"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -19165,7 +19329,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10623283101983",
@@ -19200,7 +19364,7 @@
 "variant_id":"52924652945695"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19214,7 +19378,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:2028883902552",
@@ -19248,7 +19412,7 @@
 "variant_id":"20130299052120"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19262,7 +19426,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956915150936",
@@ -19296,7 +19460,7 @@
 "variant_id":"19630893465688"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19310,7 +19474,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4677590515800",
@@ -19344,7 +19508,7 @@
 "variant_id":"33119856918616"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19358,7 +19522,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956914495576",
@@ -19392,7 +19556,7 @@
 "variant_id":"19630892843096"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19406,7 +19570,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4003753918552",
@@ -19438,7 +19602,7 @@
 "variant_id":"29915682406488"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -19453,7 +19617,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:8121595789599",
@@ -19485,7 +19649,7 @@
 "variant_id":"44461843087647"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19499,7 +19663,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:2018466791512",
@@ -19531,7 +19695,7 @@
 "variant_id":"20072324005976"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19545,7 +19709,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10648916525343",
@@ -19577,7 +19741,7 @@
 "variant_id":"53073436705055"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19591,7 +19755,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:7180033032280",
@@ -19625,7 +19789,7 @@
 "variant_id":"39991137402968"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19639,7 +19803,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:3847052656728",
@@ -19673,7 +19837,7 @@
 "variant_id":"29155184181336"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:52-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -19722,7 +19886,7 @@
 "variant_id":"53193252831519"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -19737,7 +19901,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956909088856",
@@ -19769,7 +19933,7 @@
 "variant_id":"19630886649944"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19783,7 +19947,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956909121624",
@@ -19815,7 +19979,7 @@
 "variant_id":"19630886682712"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -19830,7 +19994,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:9777354604831",
@@ -19862,7 +20026,7 @@
 "variant_id":"49993586540831"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -19877,7 +20041,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10586186219807",
@@ -19909,7 +20073,7 @@
 "variant_id":"52808005910815"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -19923,7 +20087,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4737676804184",
@@ -19958,7 +20122,7 @@
 "variant_id":"33287575994456"
 }
 ],
-"updated_at":"2026-11-05T13:46:22-05:00",
+"updated_at":"2026-11-06T12:57:53-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -19970,7 +20134,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10511163228447",
@@ -20005,7 +20169,7 @@
 "variant_id":"52556275187999"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20019,7 +20183,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10594523316511",
@@ -20051,7 +20215,7 @@
 "variant_id":"52838999556383"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20065,7 +20229,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956913578072",
@@ -20097,7 +20261,7 @@
 "variant_id":"19630891925592"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20111,7 +20275,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10445677396255",
@@ -20145,7 +20309,7 @@
 "variant_id":"51823882010911"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20159,7 +20323,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:4405450702936",
@@ -20191,7 +20355,7 @@
 "variant_id":"31857227104344"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20205,7 +20369,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10667153424671",
@@ -20237,7 +20401,7 @@
 "variant_id":"53169520935199"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -20252,7 +20416,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956908367960",
@@ -20286,7 +20450,7 @@
 "variant_id":"19630885929048"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Active",
@@ -20301,7 +20465,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10120735031583",
@@ -20333,7 +20497,7 @@
 "variant_id":"50818373091615"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Archive",
@@ -20348,7 +20512,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956908925016",
@@ -20380,7 +20544,7 @@
 "variant_id":"19630886486104"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20394,7 +20558,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:1956727062616",
@@ -20426,7 +20590,7 @@
 "variant_id":"19894348611672"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20474,7 +20638,7 @@
 "variant_id":"47835100021023"
 }
 ],
-"updated_at":"2026-11-05T13:46:21-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -20486,7 +20650,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"happymug:10623468306719",
@@ -20520,7 +20684,7 @@
 "variant_id":"52925485449503"
 }
 ],
-"updated_at":"2026-11-05T13:46:20-05:00",
+"updated_at":"2026-11-06T12:57:51-05:00",
 "wholesale":false,
 "tags":[
 "Unroasted"
@@ -20534,7 +20698,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"prodigal:9768644739311",
@@ -20568,7 +20732,7 @@
 "variant_id":"51304871592175"
 }
 ],
-"updated_at":"2026-11-05T11:46:19-07:00",
+"updated_at":"2026-11-06T10:57:49-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -20582,7 +20746,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"prodigal:9585353523439",
@@ -20636,7 +20800,7 @@
 "variant_id":"50582921838831"
 }
 ],
-"updated_at":"2026-11-05T11:46:19-07:00",
+"updated_at":"2026-11-06T10:57:49-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -20651,7 +20815,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"prodigal:9665591738607",
@@ -20695,7 +20859,7 @@
 "variant_id":"50972249260271"
 }
 ],
-"updated_at":"2026-11-05T11:46:19-07:00",
+"updated_at":"2026-11-06T10:57:49-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -20709,7 +20873,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"prodigal:9388439797999",
@@ -20764,7 +20928,7 @@
 "variant_id":"49569965474031"
 }
 ],
-"updated_at":"2026-11-05T11:46:19-07:00",
+"updated_at":"2026-11-06T10:57:49-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -20779,7 +20943,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"prodigal:9627377303791",
@@ -20833,7 +20997,7 @@
 "variant_id":"50777050448111"
 }
 ],
-"updated_at":"2026-11-05T11:46:19-07:00",
+"updated_at":"2026-11-06T10:57:49-07:00",
 "wholesale":false,
 "tags":[
 "green"
@@ -20848,7 +21012,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8665518145686",
@@ -20940,7 +21104,7 @@
 "variant_id":"46423518970006"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -20956,7 +21120,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8665502810262",
@@ -21048,7 +21212,7 @@
 "variant_id":"46423110680726"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21064,7 +21228,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8665504252054",
@@ -21156,7 +21320,7 @@
 "variant_id":"46423116087446"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21172,7 +21336,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8677415583894",
@@ -21204,7 +21368,7 @@
 "variant_id":"67632915382422"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -21218,7 +21382,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701566102",
@@ -21229,16 +21393,12 @@
 "image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/sweet-marias-colombia-huila-timana-2_600x.jpg",
 "country":"Colombia",
 "region":"South America",
-"subregion":"Huila",
+"subregion":null,
 "producer":null,
-"varietals":[
-"Bourbon",
-"Caturra",
-"Typica"
-],
+"varietals":[],
 "process":"Honey",
 "decaf":true,
-"score":87.8,
+"score":null,
 "altitude":null,
 "notes":null,
 "description":"Sweetly balanced with hints of fruit that lend to a lively acidic impression for decaf coffee. Notes of barley malt, honey, fresh green apple, cinnamon, cocoa powder. City to Full City+. Good for espresso.",
@@ -21304,7 +21464,7 @@
 "variant_id":"46545132191894"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21319,7 +21479,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8698272546966",
@@ -21403,7 +21563,7 @@
 "variant_id":"50519985717398"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21418,7 +21578,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701598870",
@@ -21500,7 +21660,7 @@
 "variant_id":"46542625996950"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21515,7 +21675,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687613870230",
@@ -21567,7 +21727,7 @@
 "variant_id":"67653824381078"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21616,7 +21776,7 @@
 "title":"2 LB",
 "price":19.4,
 "grams":907.184,
-"available":true,
+"available":false,
 "lb":2.0,
 "price_per_lb":9.7,
 "size_class":"home",
@@ -21633,7 +21793,7 @@
 "variant_id":"67653823856790"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21641,9 +21801,9 @@
 "first_seen":"2026-11-02",
 "enriched":false,
 "currency":"USD",
-"in_stock":true,
-"min_price_per_lb":9.7,
-"min_price":19.4,
+"in_stock":false,
+"min_price_per_lb":9.4,
+"min_price":9.85,
 "size_classes":[
 "home"
 ],
@@ -21739,7 +21899,7 @@
 "variant_id":"67633121820822"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21755,7 +21915,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8695247470742",
@@ -21849,7 +22009,7 @@
 "variant_id":"46565090295958"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21865,7 +22025,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701402262",
@@ -21957,7 +22117,7 @@
 "variant_id":"46548219854998"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -21973,7 +22133,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15396912627862",
@@ -22050,7 +22210,7 @@
 "title":"50 LB",
 "price":400.0,
 "grams":22679.6,
-"available":true,
+"available":false,
 "lb":50.0,
 "price_per_lb":8.0,
 "size_class":"box",
@@ -22067,7 +22227,7 @@
 "variant_id":"67651795288214"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22076,14 +22236,14 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":8.0,
+"min_price_per_lb":8.9,
 "min_price":9.95,
 "size_classes":[
 "home",
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15393089585302",
@@ -22117,7 +22277,7 @@
 "variant_id":"67662982578326"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22226,7 +22386,7 @@
 "variant_id":"67665923211414"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22242,7 +22402,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687613804694",
@@ -22304,7 +22464,7 @@
 "variant_id":"46529009811606"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22319,7 +22479,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8672909131926",
@@ -22351,7 +22511,7 @@
 "variant_id":"67632907124886"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22365,7 +22525,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8672909164694",
@@ -22409,7 +22569,7 @@
 "variant_id":"67632912629910"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -22423,7 +22583,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8672909033622",
@@ -22517,7 +22677,7 @@
 "variant_id":"67568824483990"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22533,7 +22693,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15394756460694",
@@ -22560,7 +22720,7 @@
 "title":"1 LB",
 "price":10.95,
 "grams":453.592,
-"available":true,
+"available":false,
 "lb":1.0,
 "price_per_lb":10.95,
 "size_class":"home",
@@ -22570,7 +22730,7 @@
 "title":"2 LB",
 "price":21.6,
 "grams":907.184,
-"available":true,
+"available":false,
 "lb":2.0,
 "price_per_lb":10.8,
 "size_class":"home",
@@ -22580,7 +22740,7 @@
 "title":"5 LB",
 "price":52.5,
 "grams":2267.96,
-"available":true,
+"available":false,
 "lb":5.0,
 "price_per_lb":10.5,
 "size_class":"home",
@@ -22590,7 +22750,7 @@
 "title":"10 LB",
 "price":102.0,
 "grams":4535.92,
-"available":true,
+"available":false,
 "lb":10.0,
 "price_per_lb":10.2,
 "size_class":"box",
@@ -22627,7 +22787,7 @@
 "variant_id":"67633139187862"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22635,8 +22795,8 @@
 "first_seen":"2026-11-02",
 "enriched":false,
 "currency":"USD",
-"in_stock":true,
-"min_price_per_lb":10.2,
+"in_stock":false,
+"min_price_per_lb":8.82,
 "min_price":10.95,
 "size_classes":[
 "home",
@@ -22737,7 +22897,7 @@
 "variant_id":"67568581869718"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -22754,7 +22914,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687894200470",
@@ -22848,7 +23008,7 @@
 "variant_id":"67577899024534"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -22864,7 +23024,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8698272514198",
@@ -22958,7 +23118,7 @@
 "variant_id":"50520125833366"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -22975,7 +23135,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15396912726166",
@@ -23069,7 +23229,7 @@
 "variant_id":"67651797713046"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23085,7 +23245,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8675655614614",
@@ -23177,7 +23337,7 @@
 "variant_id":"46449809555606"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23193,7 +23353,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687894102166",
@@ -23287,7 +23447,7 @@
 "variant_id":"67633059987606"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23303,7 +23463,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8696575623318",
@@ -23397,7 +23557,7 @@
 "variant_id":"46558890066070"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23413,7 +23573,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8676439720086",
@@ -23505,7 +23665,7 @@
 "variant_id":"46453373730966"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23521,7 +23681,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687894069398",
@@ -23615,7 +23775,7 @@
 "variant_id":"46530071134358"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23631,7 +23791,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687894134934",
@@ -23725,7 +23885,7 @@
 "variant_id":"46530079162518"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23741,7 +23901,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8678017433750",
@@ -23833,7 +23993,7 @@
 "variant_id":"46498393718934"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -23849,7 +24009,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600554864790",
@@ -23891,7 +24051,7 @@
 "variant_id":"46204805644438"
 }
 ],
-"updated_at":"2026-11-05T10:45:54-08:00",
+"updated_at":"2026-11-06T09:57:32-08:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -23904,7 +24064,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15394756427926",
@@ -23999,7 +24159,7 @@
 "variant_id":"67633021780118"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24015,7 +24175,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701435030",
@@ -24111,7 +24271,7 @@
 "variant_id":"46556994535574"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24127,7 +24287,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8698272579734",
@@ -24181,7 +24341,7 @@
 "variant_id":"50517307850902"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -24195,7 +24355,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15391558664342",
@@ -24290,7 +24450,7 @@
 "variant_id":"67577860259990"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -24307,7 +24467,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8672908804246",
@@ -24401,7 +24561,7 @@
 "variant_id":"46551181066390"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24417,7 +24577,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8695247503510",
@@ -24502,7 +24662,7 @@
 "variant_id":"46563520577686"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24517,7 +24677,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15398462816406",
@@ -24611,7 +24771,7 @@
 "variant_id":"67665911873686"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24627,7 +24787,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8694618980502",
@@ -24722,7 +24882,7 @@
 "variant_id":"46565078794390"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24738,7 +24898,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15396912693398",
@@ -24833,7 +24993,7 @@
 "variant_id":"67651787292822"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24849,7 +25009,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15396912660630",
@@ -24945,7 +25105,7 @@
 "variant_id":"67651800858774"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -24961,7 +25121,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8694618882198",
@@ -25057,7 +25217,7 @@
 "variant_id":"67600235266198"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25073,7 +25233,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8694618849430",
@@ -25169,7 +25329,7 @@
 "variant_id":"67633127522454"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25185,7 +25345,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8694664593558",
@@ -25219,7 +25379,7 @@
 "variant_id":"46558877876374"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -25233,7 +25393,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:10314325295254",
@@ -25275,7 +25435,7 @@
 "variant_id":"67570543558806"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -25289,7 +25449,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701729942",
@@ -25383,7 +25543,7 @@
 "variant_id":"67572239073430"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25399,7 +25559,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15394756362390",
@@ -25493,7 +25653,7 @@
 "variant_id":"67633114677398"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25509,7 +25669,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701303958",
@@ -25593,7 +25753,7 @@
 "variant_id":"67576936398998"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25608,7 +25768,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701697174",
@@ -25619,14 +25779,12 @@
 "image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/sweet-marias-kenya-nyeri-igutha-factory-5_600x.jpg",
 "country":"Kenya",
 "region":"Africa",
-"subregion":"Giathigu, Mukurweini District, Nyeri",
+"subregion":null,
 "producer":null,
-"varietals":[
-"Bourbon"
-],
-"process":"Washed",
+"varietals":[],
+"process":null,
 "decaf":false,
-"score":90.6,
+"score":null,
 "altitude":null,
 "notes":null,
 "description":"Pour-overs are a real treat, with bright fruits and tangy accents that feel well integrated into the cup sweetness, and an aromatic top end. P iloncillo sugar, orange, green apple, tamarind, Earl Grey, cardamom . City to Full City.",
@@ -25702,7 +25860,7 @@
 "variant_id":"46536590885014"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25718,7 +25876,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8695197859990",
@@ -25792,7 +25950,7 @@
 "variant_id":"67657033941142"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -25807,7 +25965,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8696575557782",
@@ -25901,7 +26059,7 @@
 "variant_id":"46562543829142"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -25917,7 +26075,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8694664626326",
@@ -25954,7 +26112,7 @@
 "title":"2 LB",
 "price":19.0,
 "grams":907.184,
-"available":true,
+"available":false,
 "lb":2.0,
 "price_per_lb":9.5,
 "size_class":"home",
@@ -25971,7 +26129,7 @@
 "variant_id":"67653942476950"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -25980,12 +26138,12 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":9.5,
+"min_price_per_lb":9.65,
 "min_price":9.65,
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701271190",
@@ -26047,7 +26205,7 @@
 "variant_id":"46548231422102"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -26062,7 +26220,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15393089552534",
@@ -26156,7 +26314,7 @@
 "variant_id":"67586215248022"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26172,7 +26330,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701205654",
@@ -26266,7 +26424,7 @@
 "variant_id":"46551185948822"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26282,7 +26440,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:10314325262486",
@@ -26368,7 +26526,7 @@
 "variant_id":"67572185137302"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26383,7 +26541,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:10314325229718",
@@ -26468,7 +26626,7 @@
 "variant_id":"67568584589462"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26483,7 +26641,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8683006427286",
@@ -26557,7 +26715,7 @@
 "variant_id":"46535580549270"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -26572,7 +26730,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8683006328982",
@@ -26616,7 +26774,7 @@
 "variant_id":"67577674465430"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -26724,7 +26882,7 @@
 "variant_id":"46532620157078"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26740,7 +26898,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15398462783638",
@@ -26825,7 +26983,7 @@
 "variant_id":"67665908105366"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -26840,7 +26998,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8663371448470",
@@ -26912,7 +27070,7 @@
 "variant_id":"46412124356758"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -26927,7 +27085,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8624852041878",
@@ -26959,7 +27117,7 @@
 "variant_id":"46282405183638"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -26971,7 +27129,7 @@
 "min_price_per_lb":null,
 "min_price":33.5,
 "size_classes":[],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600547524758",
@@ -27013,7 +27171,7 @@
 "variant_id":"46204781002902"
 }
 ],
-"updated_at":"2026-11-05T10:45:55-08:00",
+"updated_at":"2026-11-06T09:57:33-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -27028,7 +27186,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8624880189590",
@@ -27060,7 +27218,7 @@
 "variant_id":"46282513809558"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -27072,49 +27230,7 @@
 "min_price_per_lb":null,
 "min_price":35.5,
 "size_classes":[],
-"last_in_stock":"2026-11-05"
-},
-{
-"id":"sweetmarias:8626310545558",
-"supplier":"Sweet Maria's",
-"supplier_key":"sweetmarias",
-"title":"Set: Latest Coffee Additions",
-"url":"https://www.sweetmarias.com/products/latest-additions-coffee-set",
-"image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/set-latest-adds_600x.jpg",
-"country":"Samplers",
-"region":null,
-"subregion":null,
-"producer":null,
-"varietals":[],
-"process":null,
-"decaf":false,
-"score":null,
-"altitude":null,
-"notes":null,
-"description":"Our \"Latest Additions\" coffee set gets you 1 lb bags of all our latest listings. No jumping back and forth between different records to add them to your shopping cart. Simply click the \"Add to Cart\" button and you're on your way. It's that simple!",
-"variants":[
-{
-"title":"Each",
-"price":66.5,
-"grams":null,
-"available":true,
-"lb":null,
-"price_per_lb":null,
-"size_class":"unknown",
-"variant_id":"46287401549974"
-}
-],
-"updated_at":"2026-11-05T10:45:53-08:00",
-"wholesale":false,
-"tags":[],
-"first_seen":"2026-11-02",
-"enriched":false,
-"currency":"USD",
-"in_stock":true,
-"min_price_per_lb":null,
-"min_price":66.5,
-"size_classes":[],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600781848726",
@@ -27146,7 +27262,7 @@
 "variant_id":"46205124575382"
 }
 ],
-"updated_at":"2026-11-05T10:45:55-08:00",
+"updated_at":"2026-11-06T09:57:32-08:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -27158,7 +27274,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600547426454",
@@ -27200,7 +27316,7 @@
 "variant_id":"46204780839062"
 }
 ],
-"updated_at":"2026-11-05T10:45:55-08:00",
+"updated_at":"2026-11-06T09:57:33-08:00",
 "wholesale":false,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -27217,7 +27333,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8667017052310",
@@ -27289,7 +27405,7 @@
 "variant_id":"46426302906518"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -27304,7 +27420,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15394756329622",
@@ -27398,7 +27514,7 @@
 "variant_id":"67633144889494"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -27414,7 +27530,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15393089486998",
@@ -27506,7 +27622,7 @@
 "variant_id":"67586792882326"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -27522,7 +27638,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8690701533334",
@@ -27604,7 +27720,7 @@
 "variant_id":"46545128816790"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -27619,7 +27735,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:15393670561942",
@@ -27711,7 +27827,7 @@
 "variant_id":"67599925379222"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -27727,7 +27843,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600556994710",
@@ -27819,7 +27935,7 @@
 "variant_id":"46204810133654"
 }
 ],
-"updated_at":"2026-11-05T10:45:55-08:00",
+"updated_at":"2026-11-06T09:57:33-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view"
@@ -27835,7 +27951,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600546017430",
@@ -27931,7 +28047,7 @@
 "variant_id":"46566697238678"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view"
@@ -27947,7 +28063,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600545951894",
@@ -27958,12 +28074,12 @@
 "image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/sm-espresso-monkey-blend_600x.jpg",
 "country":null,
 "region":null,
-"subregion":"Africa, South America, Central America",
+"subregion":null,
 "producer":null,
 "varietals":[],
 "process":null,
 "decaf":false,
-"score":88.0,
+"score":null,
 "altitude":null,
 "notes":null,
 "description":"We blend this for body, balance between high and low tones, fruited-chocolate, slightly rustic fruit. Good espresso.",
@@ -28039,7 +28155,7 @@
 "variant_id":"46204775301270"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -28056,7 +28172,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687613673622",
@@ -28148,7 +28264,7 @@
 "variant_id":"46529702625430"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -28164,7 +28280,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600545919126",
@@ -28258,7 +28374,7 @@
 "variant_id":"46567030423702"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -28275,7 +28391,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8652518686870",
@@ -28369,7 +28485,7 @@
 "variant_id":"46538089824406"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -28383,7 +28499,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8600545886358",
@@ -28477,7 +28593,7 @@
 "variant_id":"46204774842518"
 }
 ],
-"updated_at":"2026-11-05T10:45:55-08:00",
+"updated_at":"2026-11-06T09:57:33-08:00",
 "wholesale":true,
 "tags":[
 "Store_coffee_shrub_store_view",
@@ -28495,7 +28611,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8675389243542",
@@ -28587,7 +28703,7 @@
 "variant_id":"46448500834454"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -28604,7 +28720,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8663371710614",
@@ -28646,7 +28762,7 @@
 "variant_id":"67653833654422"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -28660,7 +28776,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8681869901974",
@@ -28694,7 +28810,7 @@
 "variant_id":"46558875353238"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -28708,7 +28824,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8681869672598",
@@ -28802,7 +28918,7 @@
 "variant_id":"67572126122134"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -28819,7 +28935,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8681869869206",
@@ -28853,7 +28969,7 @@
 "variant_id":"50523072168086"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":false,
 "tags":[
 "Store_default"
@@ -28867,7 +28983,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8681869639830",
@@ -28959,7 +29075,7 @@
 "variant_id":"46518413459606"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "SM green staff",
@@ -28976,7 +29092,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8681869770902",
@@ -29070,7 +29186,7 @@
 "variant_id":"67651792601238"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -29086,7 +29202,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8687613739158",
@@ -29178,7 +29294,7 @@
 "variant_id":"46536695611542"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -29194,7 +29310,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8693701640342",
@@ -29205,14 +29321,12 @@
 "image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/sweet-marias-yemen-coffee-saih-valley-2_1_600x.jpg",
 "country":"Yemen",
 "region":"Arabia",
-"subregion":"Haima Dakhliya, and Kharijea Districts, Sana'a governorate",
+"subregion":null,
 "producer":null,
-"varietals":[
-"Heirloom"
-],
-"process":"Natural",
+"varietals":[],
+"process":null,
 "decaf":false,
-"score":88.3,
+"score":null,
 "altitude":null,
 "notes":null,
 "description":"Baking spice notes make a strong showing, along with classic Yemeni flavors that are deep toned, earthy, and appropriately rustic. Fenugreek, saffron cookie, sesame oil, tangy roast flavors. City+ to French. Good for espresso.",
@@ -29288,7 +29402,7 @@
 "variant_id":"46548228800662"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -29304,7 +29418,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8693701673110",
@@ -29398,7 +29512,7 @@
 "variant_id":"67657065496726"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -29414,7 +29528,73 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
+},
+{
+"id":"sweetmarias:8687613771926",
+"supplier":"Sweet Maria's",
+"supplier_key":"sweetmarias",
+"title":"Yemen Mokha Matari",
+"url":"https://www.sweetmarias.com/products/yemen-mokha-matari-8732",
+"image":"https://cdn.shopify.com/s/files/1/0703/1518/0182/files/sweet-marias-yemen-coffee-saih-valley-3_2_600x.jpg",
+"country":"Yemen",
+"region":"Arabia",
+"subregion":null,
+"producer":null,
+"varietals":[],
+"process":null,
+"decaf":false,
+"score":null,
+"altitude":null,
+"notes":null,
+"description":"Always a favorite from Yemen, complex rustic tones, fragrant spices, and deeply bittersweet. Inky dark cocoa, dried date, pumpkin bread, pistachio, Chai spice, Garam Masala, tobacco. City+ to French. Good for espresso.",
+"variants":[
+{
+"title":"1 LB",
+"price":12.35,
+"grams":453.592,
+"available":true,
+"lb":1.0,
+"price_per_lb":12.35,
+"size_class":"home",
+"variant_id":"67673447628950"
+},
+{
+"title":"2 LB",
+"price":24.4,
+"grams":907.184,
+"available":true,
+"lb":2.0,
+"price_per_lb":12.2,
+"size_class":"home",
+"variant_id":"67673447661718"
+},
+{
+"title":"5 LB",
+"price":59.5,
+"grams":2267.96,
+"available":true,
+"lb":5.0,
+"price_per_lb":11.9,
+"size_class":"home",
+"variant_id":"67673447694486"
+}
+],
+"updated_at":"2026-11-06T09:57:31-08:00",
+"wholesale":false,
+"tags":[
+"Store_default"
+],
+"first_seen":"2026-11-06",
+"enriched":false,
+"currency":"USD",
+"in_stock":true,
+"min_price_per_lb":11.9,
+"min_price":12.35,
+"size_classes":[
+"home"
+],
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"sweetmarias:8693701607574",
@@ -29508,7 +29688,7 @@
 "variant_id":"67600223961238"
 }
 ],
-"updated_at":"2026-11-05T10:45:53-08:00",
+"updated_at":"2026-11-06T09:57:31-08:00",
 "wholesale":true,
 "tags":[
 "Store_default"
@@ -29524,7 +29704,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7824747135065",
@@ -29599,7 +29779,7 @@
 "variant_id":"41969779605593"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29625,7 +29805,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9521388847193",
@@ -29699,7 +29879,7 @@
 "variant_id":"47347318849625"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29725,7 +29905,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7473598464089",
@@ -29809,7 +29989,7 @@
 "variant_id":"41855664881753"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29832,7 +30012,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8082626150489",
@@ -29914,7 +30094,7 @@
 "variant_id":"42850128167001"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -29940,7 +30120,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8084384415833",
@@ -30012,7 +30192,7 @@
 "variant_id":"42858258071641"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30037,7 +30217,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8083712442457",
@@ -30111,7 +30291,7 @@
 "variant_id":"42856048033881"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30137,7 +30317,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7906096775257",
@@ -30221,7 +30401,7 @@
 "variant_id":"42140534374489"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30247,7 +30427,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7557354455129",
@@ -30321,7 +30501,7 @@
 "variant_id":"41100813074521"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30347,7 +30527,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7957883060313",
@@ -30431,7 +30611,7 @@
 "variant_id":"42358809755737"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30457,7 +30637,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9521253417049",
@@ -30529,7 +30709,7 @@
 "variant_id":"47346863898713"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30555,7 +30735,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7906102542425",
@@ -30637,7 +30817,7 @@
 "variant_id":"42140545876057"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30663,7 +30843,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8062464000089",
@@ -30749,7 +30929,7 @@
 "variant_id":"42793507061849"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30775,7 +30955,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7298605842521",
@@ -30860,7 +31040,7 @@
 "variant_id":"41855632474201"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30885,7 +31065,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7906082193497",
@@ -30969,7 +31149,7 @@
 "variant_id":"42140496887897"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -30995,7 +31175,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8106177429593",
@@ -31081,7 +31261,7 @@
 "variant_id":"42923047125081"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -31107,7 +31287,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7349182791769",
@@ -31182,7 +31362,7 @@
 "variant_id":"40581381750873"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -31208,7 +31388,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7825450696793",
@@ -31292,7 +31472,7 @@
 "variant_id":"41976754241625"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -31400,7 +31580,7 @@
 "variant_id":"43044643438681"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -31426,7 +31606,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8119917576281",
@@ -31502,7 +31682,7 @@
 "variant_id":"42975758745689"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -31528,7 +31708,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7825418289241",
@@ -31600,7 +31780,7 @@
 "variant_id":"41972896202841"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -31626,7 +31806,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7497529819225",
@@ -31708,7 +31888,7 @@
 "variant_id":"41855703482457"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -31733,7 +31913,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7605495562329",
@@ -31815,7 +31995,7 @@
 "variant_id":"41855703679065"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -31837,7 +32017,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8001396375641",
@@ -31919,7 +32099,7 @@
 "variant_id":"42545199448153"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -31945,7 +32125,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7808163381337",
@@ -32029,7 +32209,7 @@
 "variant_id":"41912356470873"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -32055,7 +32235,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7291883454553",
@@ -32137,7 +32317,7 @@
 "variant_id":"41855707775065"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32163,7 +32343,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7544520999001",
@@ -32245,7 +32425,7 @@
 "variant_id":"41855709085785"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32271,7 +32451,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7395838296153",
@@ -32353,7 +32533,7 @@
 "variant_id":"41855710691417"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32379,7 +32559,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8003119284313",
@@ -32453,7 +32633,7 @@
 "variant_id":"42554471252057"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32479,7 +32659,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8304200515673",
@@ -32553,7 +32733,7 @@
 "variant_id":"44257192673369"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32579,7 +32759,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7346256183385",
@@ -32661,7 +32841,7 @@
 "variant_id":"41855716819033"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32687,7 +32867,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7697224925273",
@@ -32769,7 +32949,7 @@
 "variant_id":"41855725207641"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32795,7 +32975,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7785307504729",
@@ -32880,7 +33060,7 @@
 "variant_id":"41855771443289"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -32906,7 +33086,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8184883544153",
@@ -32973,14 +33153,14 @@
 "title":"20 lbs - $13.85/lb",
 "price":277.0,
 "grams":9071.84,
-"available":true,
+"available":false,
 "lb":20.0,
 "price_per_lb":13.85,
 "size_class":"box",
 "variant_id":"43200430473305"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33000,13 +33180,13 @@
 "enriched":false,
 "currency":"USD",
 "in_stock":true,
-"min_price_per_lb":13.85,
+"min_price_per_lb":14.0,
 "min_price":14.45,
 "size_classes":[
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7229400481881",
@@ -33080,7 +33260,7 @@
 "variant_id":"40397557792857"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33106,7 +33286,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8267469717593",
@@ -33190,7 +33370,7 @@
 "variant_id":"43592663269465"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33216,7 +33396,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7785653469273",
@@ -33300,7 +33480,7 @@
 "variant_id":"41855933972569"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33326,7 +33506,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9686984228953",
@@ -33380,7 +33560,7 @@
 "variant_id":"47750839500889"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33405,7 +33585,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8396881199193",
@@ -33459,7 +33639,7 @@
 "variant_id":"44959991365721"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33484,7 +33664,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9514894131289",
@@ -33528,7 +33708,7 @@
 "variant_id":"47326356406361"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33553,7 +33733,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9514891149401",
@@ -33597,7 +33777,7 @@
 "variant_id":"47326339530841"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33621,7 +33801,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8014058455129",
@@ -33705,7 +33885,7 @@
 "variant_id":"42612113768537"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33728,7 +33908,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7784910192729",
@@ -33810,7 +33990,7 @@
 "variant_id":"41855782027353"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33835,7 +34015,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8206015332441",
@@ -33909,7 +34089,7 @@
 "variant_id":"43269927403609"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -33935,7 +34115,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8134887800921",
@@ -34009,7 +34189,7 @@
 "variant_id":"43029814640729"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34035,7 +34215,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8135086342233",
@@ -34109,7 +34289,7 @@
 "variant_id":"43030598287449"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34135,7 +34315,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8126376411225",
@@ -34209,7 +34389,7 @@
 "variant_id":"42997312847961"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Balanced",
@@ -34235,7 +34415,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7944497102937",
@@ -34317,7 +34497,7 @@
 "variant_id":"42299392163929"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Balanced",
@@ -34343,7 +34523,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7812841078873",
@@ -34397,7 +34577,7 @@
 "variant_id":"41929099051097"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34422,7 +34602,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8202433003609",
@@ -34496,7 +34676,7 @@
 "variant_id":"43255649665113"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34522,7 +34702,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7557336858713",
@@ -34604,7 +34784,7 @@
 "variant_id":"41855816269913"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34630,7 +34810,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9636267491417",
@@ -34684,7 +34864,7 @@
 "variant_id":"47612257370201"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34709,7 +34889,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8119345545305",
@@ -34781,7 +34961,7 @@
 "variant_id":"42973237543001"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -34806,7 +34986,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:9514888265817",
@@ -34850,7 +35030,7 @@
 "variant_id":"47326337204313"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Americas",
@@ -34875,7 +35055,7 @@
 "size_classes":[
 "home"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7473498947673",
@@ -34957,7 +35137,7 @@
 "variant_id":"41855822889049"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Complex",
@@ -34980,7 +35160,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7697218043993",
@@ -35062,7 +35242,7 @@
 "variant_id":"41855834751065"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Africa",
@@ -35088,7 +35268,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:7168227521",
@@ -35170,7 +35350,7 @@
 "variant_id":"41855853953113"
 }
 ],
-"updated_at":"2026-11-05T13:46:16-05:00",
+"updated_at":"2026-11-06T12:57:47-05:00",
 "wholesale":false,
 "tags":[
 "Balanced",
@@ -35193,7 +35373,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8212454965337",
@@ -35275,7 +35455,7 @@
 "variant_id":"43289102286937"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Blends",
@@ -35298,7 +35478,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"captainscoffee:8250730545241",
@@ -35380,7 +35560,7 @@
 "variant_id":"43441027448921"
 }
 ],
-"updated_at":"2026-11-05T13:46:15-05:00",
+"updated_at":"2026-11-06T12:57:46-05:00",
 "wholesale":false,
 "tags":[
 "Blends",
@@ -35406,7 +35586,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664406665",
@@ -35478,7 +35658,7 @@
 "variant_id":"42835119079513"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -35494,7 +35674,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8377262112857",
@@ -35556,7 +35736,7 @@
 "variant_id":"44856706367577"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -35571,7 +35751,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664835209",
@@ -35653,7 +35833,7 @@
 "variant_id":"4171413159964"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -35668,7 +35848,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8167494778969",
@@ -35752,7 +35932,7 @@
 "variant_id":"43146582851673"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[],
 "first_seen":"2026-11-02",
@@ -35765,7 +35945,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:7806946508889",
@@ -35837,7 +36017,7 @@
 "variant_id":"42839538204761"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -35853,7 +36033,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664834185",
@@ -35917,7 +36097,7 @@
 "variant_id":"29133544521"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -35932,7 +36112,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664407369",
@@ -35996,7 +36176,7 @@
 "variant_id":"29130651529"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36011,7 +36191,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664833609",
@@ -36073,7 +36253,7 @@
 "variant_id":"29133542985"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36088,7 +36268,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8267177787481",
@@ -36150,7 +36330,7 @@
 "variant_id":"43590423904345"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36165,7 +36345,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8267232215129",
@@ -36227,7 +36407,7 @@
 "variant_id":"43590827311193"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36242,7 +36422,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8267235524697",
@@ -36304,7 +36484,7 @@
 "variant_id":"43590851297369"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36319,7 +36499,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664834377",
@@ -36391,7 +36571,7 @@
 "variant_id":"41787226390617"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36406,7 +36586,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664833097",
@@ -36468,7 +36648,7 @@
 "variant_id":"29133541513"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36483,7 +36663,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664407945",
@@ -36545,7 +36725,7 @@
 "variant_id":"29130656649"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36560,7 +36740,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664832009",
@@ -36622,7 +36802,7 @@
 "variant_id":"29133532361"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36637,7 +36817,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:1532168732761",
@@ -36699,7 +36879,7 @@
 "variant_id":"13929958801497"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36714,7 +36894,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:7781420236889",
@@ -36776,7 +36956,7 @@
 "variant_id":"41843214876761"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36791,7 +36971,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664407689",
@@ -36853,7 +37033,7 @@
 "variant_id":"29130655881"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36868,7 +37048,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664832265",
@@ -36930,7 +37110,7 @@
 "variant_id":"29133533065"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -36945,7 +37125,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664836041",
@@ -37007,7 +37187,7 @@
 "variant_id":"29133555721"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37022,7 +37202,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664836233",
@@ -37088,7 +37268,7 @@
 "variant_id":"29133556297"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37103,7 +37283,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:7089608228953",
@@ -37175,7 +37355,7 @@
 "variant_id":"40040358674521"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37191,7 +37371,7 @@
 "box",
 "bag"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8664833225",
@@ -37253,7 +37433,7 @@
 "variant_id":"29133541833"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37268,7 +37448,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8023762796633",
@@ -37330,7 +37510,7 @@
 "variant_id":"42652135227481"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37345,7 +37525,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 },
 {
 "id":"thetaridge:8276869251161",
@@ -37409,7 +37589,7 @@
 "variant_id":"43635133481049"
 }
 ],
-"updated_at":"2026-11-05T13:46:19-05:00",
+"updated_at":"2026-11-06T12:57:49-05:00",
 "wholesale":false,
 "tags":[
 "woo_import_1"
@@ -37424,7 +37604,7 @@
 "home",
 "box"
 ],
-"last_in_stock":"2026-11-05"
+"last_in_stock":"2026-11-06"
 }
 ]
 }
