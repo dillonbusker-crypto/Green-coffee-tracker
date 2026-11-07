@@ -1,18 +1,18 @@
 {
-"generated_at":"2026-11-06T17:57:31+00:00",
-"count":483,
-"in_stock":465,
-"new_today":5,
+"generated_at":"2026-11-07T16:50:38+00:00",
+"count":490,
+"in_stock":477,
+"new_today":12,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":92,
-"in_stock":87,
-"with_score":55,
+"count":91,
+"in_stock":91,
+"with_score":54,
 "error":null,
-"seconds":13.1,
-"scraped":487
+"seconds":12.6,
+"scraped":481
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
@@ -21,18 +21,18 @@
 "in_stock":49,
 "with_score":0,
 "error":null,
-"seconds":0.9,
+"seconds":0.7,
 "scraped":50
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
-"count":58,
-"in_stock":56,
+"count":59,
+"in_stock":57,
 "with_score":1,
 "error":null,
 "seconds":0.9,
-"scraped":85
+"scraped":86
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
@@ -51,7 +51,7 @@
 "in_stock":25,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.5,
 "scraped":27
 },
 "prodigal":{
@@ -61,27 +61,27 @@
 "in_stock":5,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.6,
 "scraped":5
 },
 "hacea":{
 "name":"Hacea Coffee Source",
 "ships_from":"US",
-"count":53,
-"in_stock":51,
+"count":54,
+"in_stock":52,
 "with_score":0,
 "error":null,
-"seconds":0.9,
-"scraped":55
+"seconds":0.7,
+"scraped":56
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":46,
-"in_stock":42,
+"count":47,
+"in_stock":43,
 "with_score":0,
 "error":null,
-"seconds":4.8,
+"seconds":5.5,
 "scraped":669
 },
 "greenbeanery":{
@@ -91,18 +91,18 @@
 "in_stock":35,
 "with_score":14,
 "error":null,
-"seconds":5.1,
+"seconds":3.9,
 "scraped":41
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
-"count":62,
-"in_stock":58,
+"count":67,
+"in_stock":63,
 "with_score":0,
 "error":null,
-"seconds":40.7,
-"scraped":125
+"seconds":30.3,
+"scraped":129
 }
 },
 "size_labels":{
