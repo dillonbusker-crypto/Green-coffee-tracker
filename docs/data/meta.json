@@ -1,37 +1,37 @@
 {
-"generated_at":"2026-11-08T17:03:33+00:00",
-"count":490,
-"in_stock":477,
-"new_today":0,
+"generated_at":"2026-11-09T21:26:13+00:00",
+"count":486,
+"in_stock":469,
+"new_today":2,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":91,
-"in_stock":91,
-"with_score":53,
+"count":90,
+"in_stock":90,
+"with_score":55,
 "error":null,
-"seconds":17.9,
-"scraped":481
+"seconds":12.4,
+"scraped":480
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
 "ships_from":"US",
-"count":49,
-"in_stock":48,
+"count":48,
+"in_stock":47,
 "with_score":0,
 "error":null,
-"seconds":1.1,
-"scraped":50
+"seconds":0.8,
+"scraped":49
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
 "count":59,
-"in_stock":57,
+"in_stock":56,
 "with_score":1,
 "error":null,
-"seconds":1.3,
+"seconds":0.9,
 "scraped":86
 },
 "captainscoffee":{
@@ -41,18 +41,18 @@
 "in_stock":57,
 "with_score":0,
 "error":null,
-"seconds":3.7,
+"seconds":2.5,
 "scraped":356
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
-"count":25,
-"in_stock":25,
+"count":23,
+"in_stock":23,
 "with_score":0,
 "error":null,
-"seconds":0.7,
-"scraped":27
+"seconds":0.6,
+"scraped":25
 },
 "prodigal":{
 "name":"Prodigal Coffee",
@@ -61,7 +61,7 @@
 "in_stock":5,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.6,
 "scraped":5
 },
 "hacea":{
@@ -71,38 +71,38 @@
 "in_stock":52,
 "with_score":0,
 "error":null,
-"seconds":1.2,
+"seconds":0.9,
 "scraped":56
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
 "count":47,
-"in_stock":44,
+"in_stock":42,
 "with_score":0,
 "error":null,
-"seconds":6.6,
+"seconds":4.1,
 "scraped":669
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
-"count":35,
-"in_stock":35,
+"count":36,
+"in_stock":36,
 "with_score":14,
 "error":null,
-"seconds":4.5,
+"seconds":4.2,
 "scraped":41
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
-"count":67,
-"in_stock":0,
+"count":66,
+"in_stock":61,
 "with_score":0,
-"error":"FetchBlocked: 403 for https://burmancoffee.com/wp-json/wc/store/v1/products?per_page=100&page=1",
-"seconds":0.2,
-"stale":true
+"error":null,
+"seconds":36.2,
+"scraped":127
 }
 },
 "size_labels":{
