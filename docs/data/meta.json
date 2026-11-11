@@ -1,68 +1,68 @@
 {
-"generated_at":"2026-11-10T18:40:27+00:00",
-"count":484,
+"generated_at":"2026-11-11T18:42:40+00:00",
+"count":487,
 "in_stock":470,
-"new_today":2,
+"new_today":5,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":90,
-"in_stock":90,
-"with_score":53,
+"count":91,
+"in_stock":91,
+"with_score":54,
 "error":null,
-"seconds":18.1,
-"scraped":480
+"seconds":12.5,
+"scraped":481
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
 "ships_from":"US",
 "count":48,
-"in_stock":47,
+"in_stock":46,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.9,
 "scraped":49
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
-"count":59,
-"in_stock":56,
+"count":58,
+"in_stock":55,
 "with_score":1,
 "error":null,
 "seconds":0.9,
-"scraped":86
+"scraped":85
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
 "ships_from":"US",
 "count":58,
-"in_stock":57,
+"in_stock":56,
 "with_score":0,
 "error":null,
-"seconds":3.5,
+"seconds":3.1,
 "scraped":356
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
-"count":23,
-"in_stock":23,
+"count":22,
+"in_stock":22,
 "with_score":0,
 "error":null,
-"seconds":0.5,
-"scraped":25
+"seconds":0.4,
+"scraped":24
 },
 "prodigal":{
 "name":"Prodigal Coffee",
 "ships_from":"US",
-"count":5,
-"in_stock":4,
+"count":8,
+"in_stock":6,
 "with_score":0,
 "error":null,
-"seconds":0.6,
-"scraped":5
+"seconds":0.4,
+"scraped":8
 },
 "hacea":{
 "name":"Hacea Coffee Source",
@@ -77,12 +77,12 @@
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":48,
+"count":49,
 "in_stock":44,
 "with_score":0,
 "error":null,
-"seconds":6.9,
-"scraped":669
+"seconds":5.2,
+"scraped":670
 },
 "greenbeanery":{
 "name":"Green Beanery",
@@ -91,17 +91,17 @@
 "in_stock":36,
 "with_score":14,
 "error":null,
-"seconds":5.4,
+"seconds":5.1,
 "scraped":41
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
 "count":65,
-"in_stock":61,
+"in_stock":62,
 "with_score":0,
 "error":null,
-"seconds":36.8,
+"seconds":36.7,
 "scraped":126
 }
 },
