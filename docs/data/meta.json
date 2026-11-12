@@ -1,28 +1,28 @@
 {
-"generated_at":"2026-11-11T18:42:40+00:00",
-"count":487,
-"in_stock":470,
-"new_today":5,
+"generated_at":"2026-11-12T18:55:23+00:00",
+"count":495,
+"in_stock":474,
+"new_today":13,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":91,
-"in_stock":91,
-"with_score":54,
+"count":95,
+"in_stock":94,
+"with_score":199,
 "error":null,
-"seconds":12.5,
-"scraped":481
+"seconds":38.2,
+"scraped":484
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
 "ships_from":"US",
-"count":48,
+"count":46,
 "in_stock":46,
 "with_score":0,
 "error":null,
-"seconds":0.9,
-"scraped":49
+"seconds":0.6,
+"scraped":46
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
@@ -38,31 +38,31 @@
 "name":"The Captain's Coffee",
 "ships_from":"US",
 "count":58,
-"in_stock":56,
+"in_stock":55,
 "with_score":0,
 "error":null,
-"seconds":3.1,
+"seconds":3.2,
 "scraped":356
 },
 "thetaridge":{
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
-"count":22,
-"in_stock":22,
+"count":27,
+"in_stock":27,
 "with_score":0,
 "error":null,
 "seconds":0.4,
-"scraped":24
+"scraped":28
 },
 "prodigal":{
 "name":"Prodigal Coffee",
 "ships_from":"US",
-"count":8,
-"in_stock":6,
+"count":9,
+"in_stock":4,
 "with_score":0,
 "error":null,
-"seconds":0.4,
-"scraped":8
+"seconds":0.6,
+"scraped":9
 },
 "hacea":{
 "name":"Hacea Coffee Source",
@@ -71,38 +71,38 @@
 "in_stock":52,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.9,
 "scraped":53
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":49,
+"count":50,
 "in_stock":44,
 "with_score":0,
 "error":null,
-"seconds":5.2,
+"seconds":5.1,
 "scraped":670
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
-"count":36,
-"in_stock":36,
-"with_score":14,
+"count":34,
+"in_stock":34,
+"with_score":13,
 "error":null,
-"seconds":5.1,
-"scraped":41
+"seconds":4.4,
+"scraped":39
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
-"count":65,
-"in_stock":62,
+"count":66,
+"in_stock":63,
 "with_score":0,
 "error":null,
-"seconds":36.7,
-"scraped":126
+"seconds":31.9,
+"scraped":127
 }
 },
 "size_labels":{
