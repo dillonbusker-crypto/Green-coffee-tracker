@@ -1,17 +1,17 @@
 {
-"generated_at":"2026-11-14T17:06:42+00:00",
+"generated_at":"2026-11-15T17:42:34+00:00",
 "count":501,
-"in_stock":469,
-"new_today":7,
+"in_stock":459,
+"new_today":0,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
 "count":100,
-"in_stock":96,
-"with_score":80,
+"in_stock":93,
+"with_score":90,
 "error":null,
-"seconds":20.9,
+"seconds":22.0,
 "scraped":489
 },
 "bodhileaf":{
@@ -21,14 +21,14 @@
 "in_stock":46,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.6,
 "scraped":46
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
 "count":59,
-"in_stock":56,
+"in_stock":55,
 "with_score":1,
 "error":null,
 "seconds":0.9,
@@ -38,7 +38,7 @@
 "name":"The Captain's Coffee",
 "ships_from":"US",
 "count":58,
-"in_stock":52,
+"in_stock":49,
 "with_score":0,
 "error":null,
 "seconds":2.8,
@@ -48,10 +48,10 @@
 "name":"Theta Ridge Coffee",
 "ships_from":"US",
 "count":26,
-"in_stock":24,
+"in_stock":23,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.6,
 "scraped":27
 },
 "prodigal":{
@@ -61,7 +61,7 @@
 "in_stock":4,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.6,
 "scraped":9
 },
 "hacea":{
@@ -71,17 +71,17 @@
 "in_stock":51,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.5,
 "scraped":53
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
 "count":51,
-"in_stock":44,
+"in_stock":42,
 "with_score":0,
 "error":null,
-"seconds":5.7,
+"seconds":5.2,
 "scraped":670
 },
 "greenbeanery":{
@@ -91,7 +91,7 @@
 "in_stock":34,
 "with_score":14,
 "error":null,
-"seconds":3.9,
+"seconds":4.3,
 "scraped":39
 },
 "burman":{
@@ -101,7 +101,7 @@
 "in_stock":62,
 "with_score":0,
 "error":null,
-"seconds":32.2,
+"seconds":36.8,
 "scraped":129
 }
 },
