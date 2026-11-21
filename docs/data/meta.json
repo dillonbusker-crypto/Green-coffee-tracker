@@ -1,18 +1,18 @@
 {
-"generated_at":"2026-11-20T19:06:08+00:00",
-"count":489,
-"in_stock":450,
-"new_today":6,
+"generated_at":"2026-11-21T17:58:00+00:00",
+"count":498,
+"in_stock":459,
+"new_today":10,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
-"count":100,
-"in_stock":97,
-"with_score":183,
+"count":103,
+"in_stock":100,
+"with_score":52,
 "error":null,
-"seconds":39.0,
-"scraped":489
+"seconds":11.5,
+"scraped":492
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
@@ -21,18 +21,18 @@
 "in_stock":44,
 "with_score":0,
 "error":null,
-"seconds":0.8,
+"seconds":0.5,
 "scraped":44
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
-"count":57,
-"in_stock":51,
+"count":58,
+"in_stock":52,
 "with_score":1,
 "error":null,
-"seconds":1.1,
-"scraped":85
+"seconds":0.8,
+"scraped":86
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
@@ -41,7 +41,7 @@
 "in_stock":47,
 "with_score":0,
 "error":null,
-"seconds":2.5,
+"seconds":1.8,
 "scraped":357
 },
 "thetaridge":{
@@ -51,7 +51,7 @@
 "in_stock":21,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.7,
 "scraped":26
 },
 "prodigal":{
@@ -61,7 +61,7 @@
 "in_stock":5,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.5,
 "scraped":9
 },
 "hacea":{
@@ -71,38 +71,38 @@
 "in_stock":44,
 "with_score":0,
 "error":null,
-"seconds":0.6,
+"seconds":0.5,
 "scraped":45
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":52,
+"count":53,
 "in_stock":47,
 "with_score":0,
 "error":null,
-"seconds":5.5,
+"seconds":4.3,
 "scraped":671
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
 "count":34,
-"in_stock":34,
-"with_score":12,
-"error":null,
-"seconds":4.2,
-"scraped":36
+"in_stock":0,
+"with_score":0,
+"error":"ConnectionError: HTTPSConnectionPool(host='greenbeanery.ca', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NameResolutionError(\"HTTPSConnection(host='greenbeanery.ca', port=443): Failed to resolve 'greenbeanery.ca' ([Errno -3] Temporary failure in name resoluti",
+"seconds":18.3,
+"stale":true
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
-"count":65,
-"in_stock":60,
+"count":69,
+"in_stock":65,
 "with_score":0,
 "error":null,
-"seconds":38.9,
-"scraped":131
+"seconds":29.3,
+"scraped":134
 }
 },
 "size_labels":{
