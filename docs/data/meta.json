@@ -1,8 +1,8 @@
 {
-"generated_at":"2026-11-21T17:58:00+00:00",
+"generated_at":"2026-11-22T18:30:04+00:00",
 "count":498,
-"in_stock":459,
-"new_today":10,
+"in_stock":455,
+"new_today":0,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
@@ -11,7 +11,7 @@
 "in_stock":100,
 "with_score":52,
 "error":null,
-"seconds":11.5,
+"seconds":11.8,
 "scraped":492
 },
 "bodhileaf":{
@@ -21,7 +21,7 @@
 "in_stock":44,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.7,
 "scraped":44
 },
 "coffeebeancorral":{
@@ -31,7 +31,7 @@
 "in_stock":52,
 "with_score":1,
 "error":null,
-"seconds":0.8,
+"seconds":0.7,
 "scraped":86
 },
 "captainscoffee":{
@@ -41,7 +41,7 @@
 "in_stock":47,
 "with_score":0,
 "error":null,
-"seconds":1.8,
+"seconds":2.0,
 "scraped":357
 },
 "thetaridge":{
@@ -51,7 +51,7 @@
 "in_stock":21,
 "with_score":0,
 "error":null,
-"seconds":0.7,
+"seconds":0.4,
 "scraped":26
 },
 "prodigal":{
@@ -61,47 +61,47 @@
 "in_stock":5,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.4,
 "scraped":9
 },
 "hacea":{
 "name":"Hacea Coffee Source",
 "ships_from":"US",
 "count":44,
-"in_stock":44,
+"in_stock":43,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.4,
 "scraped":45
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
 "count":53,
-"in_stock":47,
+"in_stock":45,
 "with_score":0,
 "error":null,
-"seconds":4.3,
+"seconds":4.1,
 "scraped":671
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
 "count":34,
-"in_stock":0,
-"with_score":0,
-"error":"ConnectionError: HTTPSConnectionPool(host='greenbeanery.ca', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NameResolutionError(\"HTTPSConnection(host='greenbeanery.ca', port=443): Failed to resolve 'greenbeanery.ca' ([Errno -3] Temporary failure in name resoluti",
-"seconds":18.3,
-"stale":true
+"in_stock":34,
+"with_score":12,
+"error":null,
+"seconds":5.8,
+"scraped":36
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
 "count":69,
-"in_stock":65,
+"in_stock":64,
 "with_score":0,
 "error":null,
-"seconds":29.3,
+"seconds":35.4,
 "scraped":134
 }
 },
