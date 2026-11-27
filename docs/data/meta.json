@@ -1,38 +1,38 @@
 {
-"generated_at":"2026-11-26T20:10:18+00:00",
-"count":499,
-"in_stock":449,
-"new_today":7,
+"generated_at":"2026-11-27T19:56:36+00:00",
+"count":504,
+"in_stock":453,
+"new_today":6,
 "suppliers":{
 "sweetmarias":{
 "name":"Sweet Maria's",
 "ships_from":"US",
 "count":103,
 "in_stock":99,
-"with_score":49,
+"with_score":52,
 "error":null,
-"seconds":16.2,
+"seconds":11.1,
 "scraped":491
 },
 "bodhileaf":{
 "name":"Bodhi Leaf",
 "ships_from":"US",
-"count":42,
-"in_stock":39,
+"count":45,
+"in_stock":42,
 "with_score":0,
 "error":null,
-"seconds":0.6,
-"scraped":42
+"seconds":0.7,
+"scraped":45
 },
 "coffeebeancorral":{
 "name":"Coffee Bean Corral",
 "ships_from":"US",
-"count":61,
-"in_stock":52,
+"count":63,
+"in_stock":53,
 "with_score":1,
 "error":null,
-"seconds":1.0,
-"scraped":86
+"seconds":0.8,
+"scraped":88
 },
 "captainscoffee":{
 "name":"The Captain's Coffee",
@@ -41,7 +41,7 @@
 "in_stock":49,
 "with_score":0,
 "error":null,
-"seconds":2.4,
+"seconds":2.1,
 "scraped":361
 },
 "thetaridge":{
@@ -51,7 +51,7 @@
 "in_stock":19,
 "with_score":0,
 "error":null,
-"seconds":0.4,
+"seconds":0.5,
 "scraped":24
 },
 "prodigal":{
@@ -71,38 +71,38 @@
 "in_stock":43,
 "with_score":0,
 "error":null,
-"seconds":0.5,
+"seconds":0.6,
 "scraped":45
 },
 "happymug":{
 "name":"Happy Mug",
 "ships_from":"US",
-"count":52,
-"in_stock":44,
+"count":51,
+"in_stock":43,
 "with_score":0,
 "error":null,
-"seconds":5.8,
-"scraped":670
+"seconds":3.9,
+"scraped":669
 },
 "greenbeanery":{
 "name":"Green Beanery",
 "ships_from":"CA",
-"count":33,
-"in_stock":32,
-"with_score":12,
+"count":34,
+"in_stock":33,
+"with_score":13,
 "error":null,
-"seconds":3.8,
-"scraped":35
+"seconds":3.6,
+"scraped":36
 },
 "burman":{
 "name":"Burman Coffee Traders",
 "ships_from":"US",
 "count":76,
-"in_stock":68,
+"in_stock":0,
 "with_score":0,
-"error":null,
-"seconds":31.1,
-"scraped":140
+"error":"FetchBlocked: 403 for https://burmancoffee.com/wp-json/wc/store/v1/products?per_page=100&page=1",
+"seconds":0.1,
+"stale":true
 }
 },
 "size_labels":{
